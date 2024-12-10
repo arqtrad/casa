@@ -1,23 +1,26 @@
 ---
 title : "Casarão Azul"
-date  : 2024-02-05 # Data do preenchimento da ficha
-author: Pedro Palazzo # Quem preencheu a ficha
-description: >- # Descrição sucinta para aparecer em listagens
+date  : 2024-02-05
+author: "Pedro Palazzo"
+excerpt: >-
   Casa de morada inteira em adobe com fachada neoclássica em
   tijolo cozido. Construída em 1926 e descaracterizada em 2009.
 header:
-  teaser: "https://i.pinimg.com/564x/31/20/c4/3120c4b86f94ed8f7d2d33f56d38cc0a.jpg"
+  teaser       : "https://i.pinimg.com/564x/31/20/c4/3120c4b86f94ed8f7d2d33f56d38cc0a.jpg"
   overlay_image: "https://i.pinimg.com/originals/31/20/c4/3120c4b86f94ed8f7d2d33f56d38cc0a.jpg"
-  caption: "Foto: arquivo da Supac/SEC–DF, 01/09/1995"
-alternative: # Outros nomes ou designações antigas
+  caption      : "Foto: arquivo da Supac/SEC–DF, 01/09/1995"
+alternative:
   - "Casa do médico Hosannah Pinheiro Guimarães"
   - "Hotel Ouro Verde"
   - "Hotel Ouro Fino"
-categories:
-  - Neoclassicismo
 bibliographicCitation:
-  citekey: "@iphan:2012inventario"
-contributor: # Agentes envolvidos
+  citekey: "@iphan:2012planaltina"
+  text: >-
+    Instituto do Patrimônio Histórico e Artistico Nacional,
+    <cite>Inventário do Setor Tradicional de Planaltina</cite>,
+    org. Ana Laterza, Alessio Gallizio, e Pedro P. Palazzo
+    (Brasília: Superintendência do Iphan no Distrito Federal, 2012).
+contributor:
   - name: "Hosannah Pinheiro Guimarães"
     role: "antigo proprietário"
 coverage:
@@ -26,50 +29,54 @@ coverage:
       lat : -15.621636
       long: -47.661533
       alt : 948.37
-      address:
-        - "Av. Salvador Coelho, Quadra 57 Lote 141"
-        - "73.330"
+      name:
+        type: "personal"
+        text: |
+          Av. Salvador Coelho, Quadra 57 Lote 141<br />
+          Setor Tradicional<br />
+          73.330
       city   : "Planaltina"
-      state  : "Distrito Federal"
-      country: "BR" # Código ISO
-      locationHistoric: # Escopos geográficos antigos
+      state  : BR-DF
+      country: "BR"
+      locationHistoric:
         - "Mestre d'Armas"
         - "Goiás"
   temporal:
-    events:
-      - type: "creation"
-        text:
-          headline: "Construção"
-          text: "Período provável de construção do Casarão azul"
-        media:
-          href: https://placehold.co/600x400
-          caption: "Legenda"
-          credit: "ArPDF"
-          alt: "Foto em preto-e-branco de um casario com um jatobá no primeiro plano"
-        start_date:
-          year: "1921"
-        end_date:
-          year: "1926"
-        display_date: "c. 1921–26"
-      - type: "other"
-        text:
-          headline: "Venda da casa"
-        start_date:
-          year: "2009"
-identifier: # Código IPHAN ou DGPC, por exemplo
+    - type: "creation"
+      text:
+        headline: "Construção"
+        text: "Período provável de construção do Casarão azul"
+      media:
+        url: https://placehold.co/600x400
+        caption: "Legenda"
+        credit: "ArPDF"
+        alt: "Foto em preto-e-branco de um casario com um jatobá no primeiro plano"
+      start_date:
+        year: "1921"
+      end_date:
+        year: "1926"
+      display_date: "c. 1921–26"
+    - type: "other"
+      text:
+        headline: "Venda da casa"
+      start_date:
+        year: "2009"
+identifier:
   - source: "Inventário do Setor Tradicional de Planaltina"
-    refid : 563
+    refid : "563"
   - source: "Documentário de casas tradicionais"
-    refid : 51
-type: # Classificações
-dwg: # Documentação arquitetônica produzida neste projeto
-docs: # Fontes primárias e levantamentos de terceiros
-media: # Iconografia
-  - "media/br-df-planaltina-casarao_azul-depha-950901"
-references: # Referências bibliográficas
+    refid : "51"
+relation:
+  - type  : "depictedIn"
+    relids: "br-df-planaltina-casarao_azul-depha-950901"
+    href  : "/media/br-df-planaltina-casarao_azul-depha-950901/"
 log:
+  - date: 2024-06-07
+    text: "Corrige campos conforme modelo atualizado"
+    name: "Pedro Palazzo"
   - date: 2024-02-09
-    message: "Inclui campos para bases documentais"
+    text: "Inclui campos para bases documentais"
+    name: "Pedro Palazzo"
 ---
 
 
@@ -101,5 +108,5 @@ log:
 > profundas na cobertura, no interior e na fachada da edificação, tendo
 > sua obra embargada por não haver projeto aprovado junto à Administração
 > Regional. O casarão encontra-se atualmente desabitado e com a reforma
-> aparentemente inconclusa. [@iphan:2012inventario]
+> aparentemente inconclusa. [@iphan:2012planaltina]
 

@@ -1,16 +1,16 @@
 /****************
  * Filters {{{1 *
  ****************/
-// First create variables that require() any packages we need
-// const plugin = require('some-eleventy-plugin-package')
+// First create constants that require() any packages we need
 const countryEmoji = require('./src/filters/country-emoji.js');
 const { DateTime } = require('luxon');
 const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 const EleventyFetch = require('@11ty/eleventy-fetch');
-const fs = require("fs");
+const { execSync } = require('child_process'); // Required by pageFind
+const fs = require("fs"); // Do we still need this?
 const Image = require('@11ty/eleventy-img');
 const nodePandoc = require('node-pandoc');
-const path = require('path');
+const path = require('path'); // Do we still need this?
 const pluginRss = require('@11ty/eleventy-plugin-rss');
 const sortByDisplayOrder = require('./src/utils/sort-by-display-order.js');
 const w3DateFilter = require('./src/filters/w3-date-filter.js');
@@ -27,6 +27,8 @@ module.exports = function(eleventyConfig) {
   *************************/
   // Copy assets/ to _site/assets
   eleventyConfig.addPassthroughCopy("assets");
+  eleventyConfig.addPassthroughCopy("src/media/*.jpg");
+  eleventyConfig.addPassthroughCopy("src/dwg");
   eleventyConfig.addPassthroughCopy({ "node_modules/leaflet/dist": "assets/leaflet" });
 	eleventyConfig.addPassthroughCopy({ "node_modules/jquery/dist": "assets/jquery/js" });
 	eleventyConfig.addPassthroughCopy({ "node_modules/@knight-lab/timelinejs/dist": "assets/timelinejs" });
@@ -87,6 +89,15 @@ module.exports = function(eleventyConfig) {
 			x => x.data.featured
 		);
 	});
+  eleventyConfig.addCollection("media", function(collection) {
+    return collection.getFilteredByGlob("src/media/*.md");
+  });
+ /***********************
+  * Postprocessing {{{2 *
+  ***********************/
+  eleventyConfig.on('eleventy.after', () => {
+    execSync(`npx pagefind --site _site --glob \"**/*.html\"`, { encoding: 'utf-8' })
+  })
  /***************
   * Return {{{2 *
   ***************/

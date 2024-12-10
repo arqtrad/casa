@@ -1,14 +1,21 @@
 ---
 title: "Lista de casas"
 layout: "layouts/archive.njk"
-description: >
+excerpt: >
   Todas as casas cadastradas neste projeto de pesquisa.
+header:
+  actions:
+    - href: '/mapa/'
+      label: "Ver no mapa"
+      btn_class: "btn-outline-primary btn-lg px-5 py-3 w-25 mt-5"
 pagination:
   data: collections.casa
   reverse: true
-  size: 24
+  size: 20
   alias: posts
 templateEngineOverride: njk
 eleventyExcludeFromCollections: true
 ---
+
+<p class="text-center fs-1">{{ collections.casa | length }} casas cadastradas.</p>
 

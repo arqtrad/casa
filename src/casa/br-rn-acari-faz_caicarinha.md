@@ -1,26 +1,45 @@
 ---
 title: "Fazenda Caiçarinha"
 date: 2024-05-02
-created:
-  date: 1852-01-01
-  qualifier: "c. "
-  display_date: "c. 1852"
 author: Eduarda Santana
+bibliographicCitation:
+  citekey: "@feijo:2002arquitetura"
+  href   : "https://repositorio.ufrn.br/handle/123456789/48279"
+  text: >-
+    Feijó, Paulo Heider Forte.
+    <cite>«A arquitetura tradicional de Acari no século
+    <span style="font-variant:all-small-caps">XIX</span>:
+    estudo comparativo entre a casa-grande de fazenda e a casa
+    urbana».</cite>
+    Dissertação de Mestrado em Arquitetura e Urbanismo,
+    Universidade Federal do Rio Grande do Norte, 2002.
+    &lt;<a target="_blank"
+    href="https://repositorio.ufrn.br/handle/123456789/48279">
+    https://repositorio.ufrn.br/handle/123456789/48279.</a>&gt;
 coverage:
   spatial:
     location:
       lat : -6.435054
       long: -36.640890
+      zoom: 9
       name: 
         text: "Fazenda Caiçarinha"
         type: "corporate"
       city: "Acari"
-      state: "Rio Grande do Norte"
+      state: BR-RN
       country: "BR"
     extent:
       - type: "area"
         measurements: 172
         unit: "m²"
+  temporal:
+    - type: "creation"
+      start_date:
+        year: 1852
+      qualifier: "c."
+      display_date: "c. 1852"
+      text:
+        headline: "Construção"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 8
@@ -38,4 +57,4 @@ No sótão encontra-se um frechai, cuja emenda é feita atra vés de ensambladur
 
 São raros os que resistiram até os dias atuais. Este é um exemplo deles, ter uma visão panoramica, de onde se vê, ao longe, a serra da Rajada, e mais próxima, a água represada do açude, um dos mais antigos da região. Como elemento estrutural da cobertura, vê-se de maneira inusitada, o brabo apoiando dois pontaletes que sustentam as respectivas terças, já que em todas as outras edificações aqui estudadas, cada brabo apóia somente um pontalete ou uma terça. A escada de madeira que dá acesso ao sótão se inicia na sala de jantar e se desenvolve ocupando parte do corredor, sem compro meter seu funcionamento.
 
-No sótão encontra-se um frechai, cuja emenda é feita através de ensambladura, tradicionalmente conhe cida como “dente de lobo”, que consiste numrecorte das peças a serem emendadas, de maneira que se encaixem, deixando um espaço vazio entre elas, no sentido transversal das mesmas, que é preenchido por uma cunha, assegurando-lhes a união. Ainda no sótão, podem-se observar armadores e cabides, de desenhos caprichosos, que comprovam sua utilização como local onde se dormia, a exemplo dos outros cômodos da casa. Além do fogão à lenha, outro elemento indispensável na casa sertaneja é o forno de alvenaria, onde se assam os bolos, sequilhos, e outros pratos da tradicional cozinha seridoense. São raros os que resistiram até os dias atuais. Este é um exemplar deles, em perfeito estado de conservação. [@feijoArquiteturaTradicionalAcari2002]
+No sótão encontra-se um frechai, cuja emenda é feita através de ensambladura, tradicionalmente conhe cida como “dente de lobo”, que consiste numrecorte das peças a serem emendadas, de maneira que se encaixem, deixando um espaço vazio entre elas, no sentido transversal das mesmas, que é preenchido por uma cunha, assegurando-lhes a união. Ainda no sótão, podem-se observar armadores e cabides, de desenhos caprichosos, que comprovam sua utilização como local onde se dormia, a exemplo dos outros cômodos da casa. Além do fogão à lenha, outro elemento indispensável na casa sertaneja é o forno de alvenaria, onde se assam os bolos, sequilhos, e outros pratos da tradicional cozinha seridoense. São raros os que resistiram até os dias atuais. Este é um exemplar deles, em perfeito estado de conservação. [@feijo:2002arquitetura]

@@ -1,11 +1,21 @@
 ---
 title: "Casa à rua da Matriz, 87"
 date: 2024-05-02
-created:
-  date: 1835-01-01
-  qualifier: "c. "
-  display_date: "c. 1835"
 author: Eduarda Santana
+bibliographicCitation:
+  citekey: "@feijo:2002arquitetura"
+  href   : "https://repositorio.ufrn.br/handle/123456789/48279"
+  text: >-
+    Feijó, Paulo Heider Forte.
+    <cite>«A arquitetura tradicional de Acari no século
+    <span style="font-variant:all-small-caps">XIX</span>:
+    estudo comparativo entre a casa-grande de fazenda e a casa
+    urbana».</cite>
+    Dissertação de Mestrado em Arquitetura e Urbanismo,
+    Universidade Federal do Rio Grande do Norte, 2002.
+    &lt;<a target="_blank"
+    href="https://repositorio.ufrn.br/handle/123456789/48279">
+    https://repositorio.ufrn.br/handle/123456789/48279.</a>&gt;
 coverage:
   spatial:
     location:
@@ -14,12 +24,20 @@ coverage:
       name: 
         text: "rua da Matriz, 87"
       city: "Acari"
-      state: "Rio Grande do Norte"
+      state: BR-RN
       country: "BR"
     extent:
       - type: "area"
         measurements: 208
         unit: "m²"
+  temporal:
+    - type: "creation"
+      start_date:
+        year: 1835
+      qualifier: "c."
+      display_date: "c. 1835"
+      text:
+        headline: "Construção"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 19
@@ -31,4 +49,4 @@ Ampliações e modificações nela ocorridas são facilmente perceptíveis. Dent
 
 O madeiramento da cobertura, em aroeira, é confeccionado de forma artesanal, primando pela modenatura das peças, como se pode observar na feitura de um pontalete, de modelo praticamente estandardizado, existente na cobertura, no trecho que corresponde ao sótão. Aí se pode observar também o perfeito encaixe das peças, assim como a ensambladura da emenda da terça, existente fora do ponto de apoio da mesma no pontalete. A emenda é do tipo “dente de lobo”, executada dentro da melhor técnica tradicional.
 
-O sótão conta com assoalho de madeira, confeccionado comtábuas de caibreira, de dimensões variadas, lavradas à enxó, dispostas emjuntas secas e fixadas aos barrotes de aroeira com cravos de ferro forjado. Este tipo de assoalho pode ser considerado como padrão, representativo dos pisos dos sótãos das casas analisadas neste trabalho, já que neles se utilizam os mesmos materiais e se emprega a mesma técnica construtiva. [@feijoArquiteturaTradicionalAcari2002]
+O sótão conta com assoalho de madeira, confeccionado comtábuas de caibreira, de dimensões variadas, lavradas à enxó, dispostas emjuntas secas e fixadas aos barrotes de aroeira com cravos de ferro forjado. Este tipo de assoalho pode ser considerado como padrão, representativo dos pisos dos sótãos das casas analisadas neste trabalho, já que neles se utilizam os mesmos materiais e se emprega a mesma técnica construtiva. [@feijo:2002arquitetura]

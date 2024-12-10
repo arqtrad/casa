@@ -1,11 +1,17 @@
 ---
 title: "Casa de Borba Gato"
 date: 2024-05-02
-created:
-  date: 1826-01-01
-  qualifier: "c. "
-  display_date: "Meados do século XVIII,~1826"
 author: Eduarda Santana
+bibliographicCitation:
+  citekey: "@casimiro:2011casa"
+  text: >-
+    Casimiro, Renata. <cite>«Casa Borba Gato/Museu do ouro»</cite>.
+    Escala Indicada, 10 de maio de 2011.
+    Processo SEI n.º 01447.000080/2022-31. IPHAN.
+    &lt;<a target="_blank"
+    href="https://www.gov.br/museus/pt-br/acesso-a-informacao/licitacoes-e-contratos/licitacoes/licitacoes-e-contratos-2022-e-2023/pregao-eletronico-n9_2023-edital-e-anexos.pdf">
+    https://www.gov.br/museus/pt-br/acesso-a-informacao/licitacoes-e-contratos/licitacoes/licitacoes-e-contratos-2022-e-2023/pregao-eletronico-n9_2023-edital-e-anexos.pdf
+    </a>&gt;.
 coverage:
   spatial:
     location:
@@ -16,12 +22,19 @@ coverage:
           Rua Borba Gato, 71<br />
           34.505-830
       city: "Sabará"
-      state: "Minas Gerais"
+      state: BR-MG
       country: "BR"
     extent:
       - type: "area"
         measurements: 320
         unit: "m²"
+  temporal:
+    - type: "creation"
+      text:
+        headline: "Construção"
+      start_date:
+        year: 1826
+      display_date: "Meados do século XVIII a 1826"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 1

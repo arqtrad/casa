@@ -2,10 +2,17 @@
 title: "Museu Histórico e Artístico de Planaltina"
 author: Pedro Palazzo
 date: 2024-02-08
-excerpt: >
+excerpt: >-
   Casa de morada com frente comercial construída em 1899 e convertida
   em casa–museu histórica em 1974.
 teaser: "https://placehold.co/600x400"
+bibliographicCitation:
+  citekey: "@iphan:2012planaltina"
+  text: >-
+    Instituto do Patrimônio Histórico e Artistico Nacional,
+    <cite>Inventário do Setor Tradicional de Planaltina</cite>,
+    org. Ana Laterza, Alessio Gallizio, e Pedro P. Palazzo
+    (Brasília: Superintendência do Iphan no Distrito Federal, 2012).
 coverage:
   spatial:
     location:
@@ -13,8 +20,23 @@ coverage:
       long   : -47.661444
       alt    : 948.16
       city   : "Planaltina"
-      state  : "Distrito Federal"
+      state  : BR-DF
       country: "BR"
+      locationHistoric:
+        - "Mestre d'Armas"
+        - "Goiás"
+  temporal:
+    - type: "creation"
+      start_date:
+        year: "1899"
+      text:
+        headline: "Construção da casa"
+    - type: "restoration"
+      start_date:
+        year: "1974"
+      text:
+        headline: "Tombamento"
+        text: "Tombamento estadual, desapropriação e restauro"
 identifier:
   - source: "Inventário do Setor Tradicional de Planaltina"
     refid : 
@@ -22,7 +44,8 @@ identifier:
     refid : 52
 ---
 
-<blockquote>
+<figure>
+<blockquote class="blockquote">
 
 O imóvel, antigamente uma residência, foi construído por Afonso Coelho
 Silva Campos e vendida ao Coronel Salviano Monteiro Guimarães, primeiro
@@ -61,4 +84,4 @@ declarando a utilidade Pública e de Interesse Social do bem.
   do <cite>Inventário do Setor Tradicional de Planaltina</cite>, IPHAN
   2012, redigido por Renata Braga Neves e Caroline Albergaria.</footer>
 </blockquote>
-
+</figure>
