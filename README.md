@@ -19,42 +19,16 @@ Imagens que já são acessíveis a partir de um link direto para um
 repositório existente (como o próprio Wikimédia Commons ou a Biblioteca
 Nacional, por exemplo) podem ser apenas referenciadas.
 
-## Estrutura dos arquivos ##
-
-    .
-    ├── _js
-    │   └── search.js
-    ├── _scss
-    │   └── main.scss
-    ├── assets
-    │   ├── fonts
-    │   ├── js
-    │   └── media
-    ├── src
-    │   ├── _data
-    │   ├── _includes
-    │   ├── casa  # <-- Editar aqui!
-    │   ├── docs
-    │   ├── dwg   # <-- Editar aqui!
-    │   ├── filters
-    │   ├── media # <-- Editar aqui!
-    │   ├── pages
-    │   ├── utils
-    │   ├── 404.html
-    │   ├── index.md
-    │   └── rss.njk
-    ├── LICENSE
-    ├── README.md
-    ├── .eleventy.js
-    ├── package-lock.json
-    └── package.json
-
 ------------
 
  casa (c) 2023–2024 by Pedro P. Palazzo & equipe.
  
  casa is licensed under a
- Creative Commons Attribution 3.0 Unported License.
+ Creative Commons Attribution-ShareAlike 4.0 License.
  
  You should have received a copy of the license along with this
- work.  If not, see <http://creativecommons.org/licenses/by/3.0/>.
+ work.  If not, see <https://creativecommons.org/licenses/by-sa/4.0/>.
+
+ ---
+eleventyExcludeFromCollections: true
+ ---

@@ -33,7 +33,8 @@ coverage:
           R. Fernandes de Barros, 1462<br />
           Hugo Lange
       city   : "Curitiba"
-      state  : "BR-PR"
+      state  : "Paraná"
+      country: "BR"
   temporal:
     - type: "creation"
       start_date:
