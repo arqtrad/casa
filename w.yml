@@ -135,15 +135,13 @@ coverage:
 #       day         : ""
 #       display_date: "" # Para datas complexas, escrever por extenso aqui.
 #     end_date:          # Opcional, mesmo formato de start_date (VRA Core latestDate)
-#     media:             # Uma mídia por evento:
+#     media:             # Uma mídia por evento, opcional:
 #       href        : "" # pode ser uma prévia da Wikipédia, imagem ou vídeo.
 #       caption     : "" # Legenda.
 #       credit      : "" # Créditos, se houver.
 #       alt         : "" # Descrição sucinta da mídia para acessibilidade.
-#     source:            # Fonte de autoridade para a data.
-#       text        : ""
-#       href        : ""
-#       dataDate    : "" # Data em que a informação foi incluída.
+#     source:            # Fonte de autoridade para a data. Campos como bibliographicCitation
+#     dataDate    : "" # Data em que a informação foi incluída.
 #  stylePeriod:  # https://www.loc.gov/standards/vracore/schemas.html
 #    - text            : "" # Usar vocabulário controlado se possível
 #      vocab           : "" # Caso use vocabulário controlado, preencher os...
@@ -161,40 +159,40 @@ coverage:
 # IMPORTANTE! As relações de representação `depictedIn`, `imageIs`,    #
 # `modelIs` devem ser cadastradas na ficha da OBRA e não da mídia.     #
 ########################################################################
-#relation:
-# - type              : "depictedIn" # Tipos usados no VRA Core:
-    # cartoonFor, cartoonIs, componentOf, componentIs, copyAfter, copyIs,
-    # counterProofFor, counterProofIs, depicts, depictedIn,
-    # derivedFrom [DCMI: source], sourceFor, designedFor, contextIs,
-    # exhibitedAt, venueFor, facsimileOf, facsimileIs, formerlyPartOf,
-    # formerlyLargerContextFor, imageOf, imageIs, mateOf, modelFor,
-    # modelIs, partOf [DCMI: isPartOf], largerContextFor [DCMI: hasPart],
-    # partnerInSetWith, pendantOf, planFor, planIs, prepatoryFor,
-    # basedOn, printingPlateFor, printingPlateIs, prototypeFor,
-    # prototypeIs, relatedTo, reliefFor, impressionIs, replicaOf,
-    # replicaIs, studyFor, studyIs, versionOf [DCMI: isVersionOf],
-    # versionIs [DCMI: hasVersion]
-    # Os campos seguintes do DublinCore (DCMI) mapeiam para mais de um
-    # campo do VRA Core:
-    # isFormatOf, hasFormat, references, isReferencedBy
-    # Os campos seguintes do DublinCore não têm equivalente no VRA Core
-    # mas podem ser mapeados para o bloco stateEdition:
-    # replaces, isReplacedBy
-#   relids : "" # Referência do objeto relacionado (nome de arquivo da ficha)
-#   text   : "" # Legenda da imagem
-#   href   : "" # Link direto para a imagem, no caso de arquivos hospedados em outro servidor.
+relation: # "depictedIn"
+  # Tipos usados no VRA Core:
+  # cartoonFor, cartoonIs, componentOf, componentIs, copyAfter, copyIs,
+  # counterProofFor, counterProofIs, depicts, depictedIn,
+  # derivedFrom [DCMI: source], sourceFor, designedFor, contextIs,
+  # exhibitedAt, venueFor, facsimileOf, facsimileIs, formerlyPartOf,
+  # formerlyLargerContextFor, imageOf, imageIs, mateOf, modelFor,
+  # modelIs, partOf [DCMI: isPartOf], largerContextFor [DCMI: hasPart],
+  # partnerInSetWith, pendantOf, planFor, planIs, prepatoryFor,
+  # basedOn, printingPlateFor, printingPlateIs, prototypeFor,
+  # prototypeIs, relatedTo, reliefFor, impressionIs, replicaOf,
+  # replicaIs, studyFor, studyIs, versionOf [DCMI: isVersionOf],
+  # versionIs [DCMI: hasVersion]
+  # Os campos seguintes do DublinCore (DCMI) mapeiam para mais de um
+  # campo do VRA Core:
+  # isFormatOf, hasFormat, references, isReferencedBy
+  # Os campos seguintes do DublinCore não têm equivalente no VRA Core
+  # mas podem ser mapeados para o bloco stateEdition:
+  # replaces, isReplacedBy
 ########################################################################
 # Os desenhos vetoriais gerados neste projeto de pesquisa ou por nós   #
 # adaptados devem ser incluídos nos tipos de relação `isDocumentedBy`  #
 # e `isSupplementedBy`.                                                #
 ########################################################################
-# - type              : "isDocumentedBy"
-#   relids            : "" # O nome do arquivo sem a extensão.
-#   filetype          : "" # A extensão do nome do arquivo sem o ponto. Se omitido, o padrão é "svg".
-#   text              : "" # Título do desenho.
+  isDocumentedBy:
+#   - relids : "" # Referência do objeto relacionado (nome de arquivo da ficha)
+#     text   : "" # Legenda da imagem ou título do desenho
+#     author : "" # Quem fez o redesenho para este projeto de pesquisa.
+#     date   :    # Data da atual revisão do redesenho.
+#     href   : "" # Link direto para a imagem, no caso de arquivos hospedados em outro servidor.
+#     format:
+#       medium:
+#         - type: "" # A extensão do nome do arquivo sem o ponto. Se omitido, o padrão é "dxf".
 #   classification    :    # 0 = geral, 1 = planta baixa (padrão), 2 = elevação, 3 = corte, 4 = mapa de elementos, 5 = detalhe, 6 = mapa de revestimentos, 7 = planta de forro, 8 = vista ou modelo 3D, 9 = definido pelo agente
-#   author            : "" # Quem fez o redesenho para este projeto de pesquisa.
-#   date              :    # Data da atual revisão do redesenho.
 #   revision          : "" # Formato BS1192
 #   suitability       : "" # Formato BS1192
 #   source:                # Original(is) a partir do(s) qual(is) o redesenho foi feito.
@@ -243,4 +241,4 @@ tags: [ "w", "casa", "edificio" ]
 css:
   - "/assets/leaflet/leaflet.css"
   - "/assets/timelinejs/css/timeline.css"
-toc: false
+toc: true
