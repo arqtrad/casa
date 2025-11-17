@@ -1,7 +1,7 @@
 ---
 title: "Fazenda Pitombeiras"
 date: 2024-05-02
-author: Eduarda Santana
+author: "0009-0006-7479-6365"
 excerpt: >-
   Casa do sertão do Seridó com alpendre dianteiro e telhado de arrasto,
   de tipo transicional entre a casa–salão rural e aquela influenciada

@@ -1,7 +1,7 @@
 ---
 title: "Casa Ivanir Cancelier"
 date: 2024-05-02
-author: Eduarda Santana
+author: "0009-0006-7479-6365"
 bibliographicCitation:
   citekey: "@jauregui:2015projeto"
   href   : "https://www.gov.br/iphan/pt-br/acesso-a-informacao/licitacoes-e-contratos/iphan-sc_uasg-343011/licitacoes/concorrencia/2023/concorrencia-no-02-2023"

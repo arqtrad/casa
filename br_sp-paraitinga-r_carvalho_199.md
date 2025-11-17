@@ -1,7 +1,7 @@
 ---
 title: "Casas à rua do Carvalho 199"
 date: 2024-05-02
-author: Eduarda Santana
+author: "0009-0006-7479-6365"
 bibliographicCitation:
   citekey: "@iphan:2010dossie1"
   href   : "https://casadopatrimoniovp.wordpress.com/wp-content/uploads/2014/09/dossie-sc3a3o-luiz-do-paraitinga-iphan.pdf"

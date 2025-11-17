@@ -1,7 +1,7 @@
 ---
 title: "Casa à Travessa Manoel Pinho, 51"
 date: 2024-05-02
-author: Eduarda Santana
+author: "0009-0006-7479-6365"
 bibliographicCitation:
   citekey: "@iphan:2023casa-pinho51"
   href   : "https://www.gov.br/iphan/pt-br/acesso-a-informacao/licitacoes-e-contratos/iphan-sc_uasg-343011/licitacoes/concorrencia/2023/arquivos/edital-e-anexos_concorrencia-eletronica-012023-uasg-343011-iphan-sc.zip"

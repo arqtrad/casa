@@ -1,7 +1,7 @@
 ---
 title: "Casa Q06.18"
 date: 2024-05-02
-author: Eduarda Santana
+author: "0009-0006-7479-6365"
 bibliographicCitation:
   citekey: "@iphan:2023casa-q0618"
   text: >-

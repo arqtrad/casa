@@ -1,7 +1,7 @@
 ---
 title: "Casarão da Secretaria de Cultura"
 titleType: "brandName"
-author: Eduarda Toscano
+author: "0009-0001-1800-4830"
 date: 2022-09-26
 bibliographicCitation:
   citekey : "@silva:2022panorama"

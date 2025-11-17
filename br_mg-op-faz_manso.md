@@ -1,6 +1,6 @@
 ---
 title: "Fazenda do Manso"
-author: Eduarda Toscano
+author: "0009-0001-1800-4830"
 date: 2022-09-26
 bibliographicCitation:
   citekey : "@vasconcellos:2011vila"

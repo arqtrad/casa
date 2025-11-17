@@ -1,7 +1,7 @@
 ---
 title: "Casa do padre Silvestre"
 titleType: "former"
-author: Eduarda Toscano
+author: "0009-0001-1800-4830"
 date: 2022-09-26
 bibliographicCitation:
   citekey : "@silva:2022panorama"

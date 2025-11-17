@@ -1,6 +1,6 @@
 ---
 title: "Casa à rua São Francisco, 32"
-author: Eduarda Santana     
+author: "0009-0006-7479-6365"     
 bibliographicCitation:
   citekey: "@iphan:2010dossie1"
   text: >

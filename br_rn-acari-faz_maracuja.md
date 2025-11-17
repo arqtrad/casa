@@ -1,7 +1,7 @@
 ---
 title: "Fazenda Maracujá"
 date: 2024-05-02
-author: Eduarda Santana
+author: "0009-0006-7479-6365"
 bibliographicCitation:
   citekey: "@feijo:2002arquitetura"
   href   : "https://repositorio.ufrn.br/handle/123456789/48279"

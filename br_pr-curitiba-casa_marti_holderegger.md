@@ -1,6 +1,6 @@
 ---
 title        : "Casa Marti–Holderegger"
-author       : "Constanza Manzochi"
+author       : "0009-0007-0073-6658"
 excerpt: >-
   Casa em madeira no sistema tábua e mata-junta construída em 1936
   por um casal de imigrantes vindos da Suíça.

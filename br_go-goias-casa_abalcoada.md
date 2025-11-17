@@ -8,7 +8,7 @@ alternative:
     text  : "Casa dita de Bartolomeu Bueno II"
   - type  : "former"
     text  : "Estalagem do Hospício de Jerusalém"
-author: Eduarda Toscano
+author: "0009-0001-1800-4830"
 date: 2022-09-26
 bibliographicCitation:
   citekey : "@silva:2022panorama"

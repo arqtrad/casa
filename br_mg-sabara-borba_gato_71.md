@@ -1,7 +1,7 @@
 ---
 title: "Casa de Borba Gato"
 date: 2024-05-02
-author: Eduarda Santana
+author: "0009-0006-7479-6365"
 bibliographicCitation:
   citekey: "@casimiro:2011casa"
   text: >-

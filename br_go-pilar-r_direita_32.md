@@ -1,7 +1,7 @@
 ---
 title: "Casa à rua Direita, 32"
 date: 2024-05-02
-author: Eduarda Santana
+author: "0009-0006-7479-6365"
 bibliographicCitation:
   citekey: "@iphan:2023casas-pilar"
   text: >-
