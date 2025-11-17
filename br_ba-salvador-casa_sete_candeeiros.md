@@ -54,7 +54,6 @@ coverage:
         href : "https://sicg.iphan.gov.br/sicg/bem/visualizar/159"
       name:
         text: |
-          rua de São Francisco, 3
           rua visconde de Itaparica 8
           Barroquinha
       city: "Salvador"
@@ -194,3 +193,8 @@ relation:
     </figcaption>
   </blockquote>
 </figure>
+
+---
+nocite: |
+  @iphan:2010casas
+---
