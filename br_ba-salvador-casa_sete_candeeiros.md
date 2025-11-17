@@ -3,7 +3,7 @@ title: "Casa dos sete candeeiros"
 titleType: "popular"
 author: "0009-0006-7479-6365"
 date: 2024-02-11
-description: >
+excerpt: >
   Casa senhorial urbana da segunda metade do século
   <span style="font-variant:all-small-caps">XVII</span>
   com cantaria de lioz e silhares azulejados.
