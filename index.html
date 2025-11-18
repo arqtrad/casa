@@ -24,10 +24,10 @@ pagination:
 templateEngineOverride: njk
 toc: false
 eleventyExcludeFromCollections: true
+permalink: "/lista/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}"
 ---
 
 <p class="text-center fs-1 lining-nums">
-  {{ collections.w | length }} casas cadastradas e
-  {{ desenhos | length }} desenhos técnicos realizados.
+  {{ collections.casa | length }} casas cadastradas.
 </p>
 

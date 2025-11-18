@@ -87,16 +87,37 @@ format:
 #      text    : ""
 #      type    : "" # signature, mark, caption, date, text, translation, other (default)
 bibliographiCitation: # Fonte de autoridade para informações básicas sobre a obra. Não exclui a citação a outras fontes no texto da ficha.
-  citekey : ""  # No formato "@iphan:2012inventario", conforme cadastrado no Zotero/Better BibLaTeX.
-  href    : ""  # Conforme o caso, ambos os campos citekey e href podem ser preenchidos, ou apenas um deles.
-  text    : ""  # Descrição da fonte. Só precisa ser preenchido se não existir `citekey`.
-# identifier:     # Cadastros em inventários, tombamento, etc.
+# refid   : ""  # ISBN, DOI, ou outro identificador único, sempre que existir.
+# citekey : ""  # No formato "@iphan:2012inventario", conforme cadastrado no Zotero/Better BibLaTeX.
+# href    : ""  # Conforme o caso, ambos os campos citekey e href podem ser preenchidos, ou apenas um deles.
+# text    : ""  # Descrição da fonte. Só precisa ser preenchido se não existir `citekey`.
+identifier:     # Cadastros em inventários, tombamento, etc.
+# - source: "UBID"
+#   refid : ""
+    # Para calcular o UBID, seguir os passos a seguir:
+    # 1. Obter o polígono georreferenciado do imóvel na base cartográfica cadastral do município (ou, na falta dela, usar o OpenStreetMap no QGIS).
+    # 2. Reprojetar o polígono para WGS84 no QGIS.
+    # 3. Usando o plugin GetWKT do QGIS, copiar o WKT do polígono.
+    # 4. Colar o WKT no site abaixo e obter o centróide e o bounding box do imóvel:
+    #    https://wkbrew.tszheichoi.com/
+    # 5. Colar as respectivas coordenadas nos campos correspondentes do site abaixo:
+    #    https://buildingid.github.io/examples/encode-example.html
+    # 6. O código UBID aparece clicando no marcador.
 #   - source: ""  # Instituição.
 #     refid : ""  # Número de processo, cadastro ou publicação.
 #     text  : ""  # Caso necessário para indicar livros do tombo, etc.
 #     href  : ""  # Caso exista um link para uma ficha na instituição de origem.
 coverage:
   spatial:    
+    ###################################################################
+    #    Georreferenciamento no formato geoJSON conforme CIDOC-CRM    #
+    ###################################################################
+    geo: # Obter os dados de georreferenciamento seguindo as mesmas instruções do UBID, acima.
+      # No primeiro site, converter para GeoJSON.
+      type: "Polygon"
+      coordinates: []
+      projection: "EPSG:4326 WGS84"
+      source: "QGIS OpenStreetMap"
     ###################################################################
     # Endereçamento e coordenadas para o mapa no plugin Leaflet.js    #
     ###################################################################
@@ -105,14 +126,14 @@ coverage:
 #      lat             :    # Em graus decimais, negativos para o Sul e Oeste.
 #      long            :    # Separar os decimais com ponto em vez de vírgula.
 #      alt             :    # Em metros acima do nível do mar.
-      zoom            : "16" # Zoom padrão do mapa gerado pelo plugin Leaflet.js
+      zoom            : "15" # Zoom padrão do mapa gerado pelo plugin Leaflet.js
       name:                # O campo `name` pode ser qualquer localidade nomeável, não precisa ser um endereço postal.
         type          : "personal" # corporate, geographic, personal (padrão), other
         text          : "" # Pode ter mais de uma linha.
 #      city            : "" # Cidade, estado e país devem usar os nomes atuais das localidades.
-#      state           : "" # Nome do estado por extenso!
+#      state           : "" # Nome do estado ou região segundo ISO 3166-2.
       country         : "BR" # Código ISO.
-#     locationHistoric:    # Escopos geográficos antigos
+#     locationHistoric:    # Escopos geográficos antigos, se forem relevantes para identificar o bem.
 #       - ""               # Se tiver mais de um item, representar em forma de lista.
 #  temporal:
 #    ####################################################################
@@ -241,4 +262,5 @@ tags: [ "w", "casa", "edificio" ]
 css:
   - "/assets/leaflet/leaflet.css"
   - "/assets/timelinejs/css/timeline.css"
+permalink: "/{{ page.fileSlug | slugify }}/"
 toc: true
