@@ -43,7 +43,6 @@ identifier:
     refid : 17
 ---
 
-
 Edificação implantada no alinhamento da rua, ocupando toda largura do lote e conjugada com suas vizinhas. Tem cobertura em duas águas, uma voltada para frente e a outra para os fundos. Provavelmente seguindo prescrições urbanísticas de posturas municipais, apresenta platibanda emoldurada por cornija. Esse modelo é também encontrado emoutras casas urbanas analisadas neste trabalho. A porta e janela da fachada apresentam verga em arco abatido e são contornadas por cercaduras feitas em massa. 
 
 Em um simples olhar é fácil identificar a ausência de uma envasadura na fachada. Observando-se com mais acuidade, constata-se que a suposta envasadura realmente existiu. Era uma outra porta, igual à existente, que foi entaipada. Esta casa, não obstante essa modificação, bem como a reforma na cozinha, abertura de portas entre os quartos e a construção de uma parede dividindo a sala de visita, mantém preservados sua volumetria e demais aspectos espaciais, bem como os materiais utilizados e a técnica construtiva adotada.
