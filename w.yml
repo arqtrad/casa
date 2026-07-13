@@ -1,30 +1,20 @@
 lang: "pt"
 workType:
-  - type: "http://terminology.lido-schema.org/lido00767"
-    href: "https://vocab.getty.edu/aat/300451032"
+  - concept: "http://terminology.lido-schema.org/lido00767"
+    refid: "https://vocab.getty.edu/aat/300451032"
 titleType: "descriptive"
 tags:
   - "casa"
   - "edifício"
 record:
   id:
-    source: "https://vereda.unb.br"
-    type  : "http://terminology.lido-schema.org/lido00100"
     refid : "{{ page.filePathStem }}"
+    display: "https://vereda.unb.br"
   type:
-    href: "http://terminology.lido-schema.org/lido00141"
-    display:
-      - text: "Cadastro de item singular"
-        lang: "pt"
-        pref: true
+    refid: "item"
   source:
-    type : "http://terminology.lido-schema.org/lido00100"
     refid: "https://tradicional.arq.br"
-    href : "https://tradicional.arq.br"
-    display:
-      - text: "Documentário da arquitetura tradicional — CNPq 406601/2025-9"
-        lang: "pt"
-        pref: true
+    display: "Documentário da arquitetura tradicional — CNPq 406601/2025-9"
   rights:
     - type: "generic"
       href: "https://creativecommons.org/licenses/by-sa/4.0/"
