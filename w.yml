@@ -1,48 +1,45 @@
 lang: "pt"
 workType:
-  - concept: "http://terminology.lido-schema.org/lido00767"
+  - type: 'uri'
+    concept: "http://terminology.lido-schema.org/lido00767"
     refid: "https://vocab.getty.edu/aat/300451032"
 titleType: "descriptive"
+classification:
+  - concept: "http://terminology.lido-schema.org/lido00853"
+    refid: "https://vocab.getty.edu/aat/300451032"
+titleType: "https://vocab.getty.edu/aat/300417199"
 tags:
   - "casa"
   - "edifício"
 record:
   id:
+    type: 'local'
     refid : "{{ page.filePathStem }}"
     display: "https://vereda.unb.br"
-  type:
-    refid: "item"
   source:
+    type  : 'uri'
     refid: "https://tradicional.arq.br"
     display: "Documentário da arquitetura tradicional — CNPq 406601/2025-9"
+  type:
+    href: "http://terminology.lido-schema.org/lido00141"
+    display: "Cadastro de item singular"
   rights:
     - type: "generic"
       href: "https://creativecommons.org/licenses/by-sa/4.0/"
-      display:
-        - lang : "pt"
-          text: "Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)"
-          media : |
-            <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
-            <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
-            <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
-            <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+      display: "Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)"
       temporal:
         earliestDate: 2024
       holder:
-        - type : "http://terminology.lido-schema.org/lido00099"
+        - type : "local"
           refid: "00.038.174/0001-43"
-          href : "https://vereda.unb.br"
-          display:
-            - text: "Universidade de Brasília"
-              lang: "pt"
-              pref: true
+          display: "Universidade de Brasília"
 category:
   href: "http://terminology.lido-schema.org/lido00096"
 applicationProfile: "https://lido-schema.org/profiles/v1.1/lido-v1.1-profile-architecture-v1.0.xsd"
 conformsTo: "https://schema.org/LandmarksOrHistoricalBuildings"
 dcmiType: "physicalObject"
 header:
-  teaser        : "https://i.pinimg.com/564x/f7/76/49/f7764902ee90d4fc48b6f795307bc366.jpg"
-  overlay_image : "https://i.pinimg.com/originals/f7/76/49/f7764902ee90d4fc48b6f795307bc366.jpg"
+  teaser: "https://i.pinimg.com/564x/f7/76/49/f7764902ee90d4fc48b6f795307bc366.jpg"
+  overlay_image: "https://i.pinimg.com/originals/f7/76/49/f7764902ee90d4fc48b6f795307bc366.jpg"
   overlay_filter: 0.7
 layout: "layouts/obra.njk"
