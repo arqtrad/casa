@@ -15,10 +15,6 @@ header:
     <a href="https://commons.wikimedia.org/wiki/File:Casa_dos_Sete_Candeeiros_Salvador_2018-1334.jpg">
       Paul R. Burley, 2018
     </a>
-
-identifier:
-# - source: "Documentário de casas tradicionais"
-#   refid : 50
   - source: "UBID"
     refid : "59V32FFQ+M75-5-5-5-5"
   - source: "SICG Iphan"
