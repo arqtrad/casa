@@ -33,6 +33,7 @@ format:
         display: m²
       extent: area
       value: 130
+id: 6954FWFX+R4H
 ---
 
 Tradicional e típica casa de fazenda do vale do Acauã, atualmente desabitada e em estado de abandono, mantêm-se ainda em seu estado original, com seus elementos preservados. Como acontece em outras casas que possuem sótão, a escada que lhe dá acesso parte da sala de jantar. Em geral essas escadas não dispõem de degraus confortáveis, pois quase sempre se desenvolvem em espaço exíguo, como se observa neste caso, limitado pela existência da porta de um quarto.

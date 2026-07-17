@@ -32,6 +32,7 @@ format:
         display: m²
       extent: area
       value: 174
+id: 6955H966+W9V
 ---
 
 É uma das mais antigas residências de Acari que ainda mantém, inalteradas, muitas das características de sua fábrica original. Em 1900, nessa casa, situada na então rua dos Pereira, atual Dr. José Augusto, morreu, aos 83 anos, Aninha do Ingá, mulher muito influente, sogra do Coronel Silvino Bezerra e avó do Dr. José Augusto, que foi governador do Estado na década de 1920 e deu o nome que a rua atualmente tem. Está implantada no alinhamento da rua, num lote comprido, que vai até uma outra rua, estreita, que tinha a função precípua e exclusiva de acesso de serviço aos quintais das residências, já que era por ali que esta casa era abastecida com água, lenha e outros produtos, que chegavam transportados em lombos de animais.

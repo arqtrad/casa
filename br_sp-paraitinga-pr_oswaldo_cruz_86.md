@@ -24,6 +24,7 @@ temporal:
   display_date: c. 1870
   text:
     headline: Construção
+id: 588PQMHQ+5MF
 ---
 
 Os três sobrados geminados, dois deles ainda na Rua Barão de Paraitinga, e o terceiro já fazendo frente para a Praça Osvaldo Cruz, que substituíram velhas casas no início da década de 1870. Neles se verifica de forma resumida o partido aqui descrito, quiçá pelo minguado da frontaria, apresentando.

@@ -32,6 +32,7 @@ format:
         display: m²
       extent: area
       value: 345
+id: 588PQMHQ+6CP
 ---
 
 O edifício, localizado na praça em meio a outros sobrados, faz parte do conjunto arquitetônico mais significativo do núcleo histórico urbano. Em sua construção foram seguidas as normas estabelecidas pelas posturas de 1834 e 1854. O sobrado, em taipa de pilão e pau-a-pique sobre embasamento de pedra, possui piso e forro em tabuado e um belíssimo armário embutido, em madeira e vidro. 

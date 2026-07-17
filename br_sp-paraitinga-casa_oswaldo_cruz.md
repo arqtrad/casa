@@ -44,6 +44,7 @@ format:
         display: m²
       extent: area
       value: 360
+id: 588PQMGR+P78
 ---
 
 O ajudante Joaquim José Ferreira construiu, em 1834, sua residência, em área rural, posteriormente incorporada à área urbana, que, a seguir, foi adquirida pelo médico Bento Gonçalves Cruz. Nesta casa, em 1872, nasceu Oswaldo Cruz, conceituado médico sanitarista. Em 1938, o governo do Estado, novo proprietário, instalou uma escola e centro de saúde na antiga residência e, desde 1972, abriga o Museu Oswaldo Cruz. 

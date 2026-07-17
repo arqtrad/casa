@@ -32,6 +32,7 @@ format:
         display: m²
       extent: area
       value: 198
+id: 58QG6642+4M7
 ---
 
 Área Serviço e, possivelmente, Cozinha foram acrescidos. Ladrilho de

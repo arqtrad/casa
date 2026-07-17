@@ -34,6 +34,7 @@ format:
       value: 329
 location_historic:
 - Travessa do Ximenes
+id: 59V33GF4+M47
 ---
 
 A casa situa-se próxima ao Centro Histórico e foi construída sobre um

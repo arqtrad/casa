@@ -32,6 +32,7 @@ format:
         display: m²
       extent: area
       value: 150
+id: 6955H975+7PF
 ---
 
 Edificação implantada no alinhamento da rua, ocupando toda largura do lote e conjugada com suas vizinhas. Tem cobertura em duas águas, uma voltada para frente e a outra para os fundos. Provavelmente seguindo prescrições urbanísticas de posturas municipais, apresenta platibanda emoldurada por cornija. Esse modelo é também encontrado emoutras casas urbanas analisadas neste trabalho. A porta e janela da fachada apresentam verga em arco abatido e são contornadas por cercaduras feitas em massa. 

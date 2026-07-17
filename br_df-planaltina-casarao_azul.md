@@ -71,6 +71,7 @@ temporal:
 location_historic:
 - Mestre d'Armas
 - Goiás
+id: 58PJ98HQ+89W
 ---
 
 > A edificação conhecida como Casarão Azul é um dos primeiros edifícios

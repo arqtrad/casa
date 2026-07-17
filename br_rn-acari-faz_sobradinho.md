@@ -33,6 +33,7 @@ format:
         display: m²
       extent: area
       value: 163
+id: 6955QMF5+MW7
 ---
 
 Excetuando-se a reforma da cozinha, que teve seu tamanho diminuído, a construção de uma meia-parede dividindo a sala de visitas e de umaoutra, na face lateral esquerda do alpendre, a edificação mantém ainda sua feição original. A cozinha não fazia parte do corpo principal da edificação, situação essa também muito recorrente em outras casas aqui analisadas. Nessas casas, encontra-se, também, outra característica aqui verificada, que é a forma em arco abatido das vergas das portas e janelas.

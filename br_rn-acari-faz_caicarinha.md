@@ -33,6 +33,7 @@ format:
         display: m²
       extent: area
       value: 172
+id: 6955H975+XJH
 ---
 
 É uma das casas mais tradicionais Acari, já que pertenceu ao Coronel Silvino, influente líder político de Acari. Sofreu algumas modificações, como uma construção anexa, que ser ve de residência do “morador”, “puxadas” em sua fachada posterior, pilares e mureta no alpendre, além de um contraforte construído para dar maior estabilidade à parede da fachada lateral direita. Sua caixa mural, bem como seus ambientes, se mantêm fiéis à fábrica original. O espaço concebido para a sala de jantar é de uma riqueza singular e muito agradável, valorizado por ter pé direito duplo. É o ambiente de maior conectividade dentre os ambientes da edificação, pois, a partir dele, se tem acesso direto a seis outros compartimentos da casa. 

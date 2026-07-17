@@ -32,6 +32,7 @@ format:
         display: m²
       extent: area
       value: 165.45
+id: 58WJ77VF+9JX
 ---
 
 A residência da Rua Coronel Deocleciano Nunes, n.º 78 é um exemplar da

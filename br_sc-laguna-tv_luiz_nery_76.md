@@ -34,6 +34,7 @@ format:
         display: m²
       extent: area
       value: 111
+id: 583HG68C+82X
 ---
 
 Imóvel está inserido na poligonal de tombamento do Centro Histórico de Laguna. Tombado pelo Iphan desde 1985 por seu valor Histórico e paisagístico (Processo Nº 1122-T—8). [@iphan:2023casa-nery76]

@@ -32,6 +32,7 @@ format:
         display: m²
       extent: area
       value: 120
+id: 583HG689+49M
 ---
 
 Imóvel está inserido na poligonal de tombamento do Centro Histórico de Laguna, tombado pelo Iphan desde 1985 por seu valor histórico e paisagístico 

@@ -32,6 +32,7 @@ format:
         display: m²
       extent: area
       value: 101.22
+id: 58QG6CMC+FFC
 ---
 
 Segundo depoimento da atual proprietária, a casa foi construída

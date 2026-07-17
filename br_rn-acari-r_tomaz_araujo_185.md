@@ -32,6 +32,7 @@ format:
         display: m²
       extent: area
       value: 86
+id: 6955H965+GM8
 ---
 
 Construção modesta, implantada na primeira rua existente na cidade, com o fundo do lote voltado para o rio. É provável que se constitua em uma das últimas remanescentes de um conjunto de casas construídas nesse trecho da rua, contemporâneo à origem do povoamento. Seu baixo pé-direito, a excessiva espessura da parede de sua fachada, sua porta e janela em vergas retas, são fortes indícios que induzem à comprovação dessa hipótese. 

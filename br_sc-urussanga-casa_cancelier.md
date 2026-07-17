@@ -41,6 +41,7 @@ format:
         display: m²
       extent: area
       value: 308.45
+id: 583GGMQQ+X4F
 ---
 
 O imóvel conhecido como Casa Ivanir Cancelier, localizado o bairro Rio Maior na cidade de Urussanga é um exemplar da cultura do imigrante Italiano que se fixou na região por volta de 1880. A edificação é tombada pelo IPHAN desde de 2007. 
