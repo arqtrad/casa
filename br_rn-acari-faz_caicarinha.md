@@ -1,48 +1,38 @@
 ---
-title: "Fazenda Caiçarinha"
+title: Fazenda Caiçarinha
 date: 2024-05-02
-author: "0009-0006-7479-6365"
+author: 0009-0006-7479-6365
 bibliographicCitation:
-  citekey: "@feijo:2002arquitetura"
-  href   : "https://repositorio.ufrn.br/handle/123456789/48279"
-  text: >-
-    Feijó, Paulo Heider Forte.
-    <cite>«A arquitetura tradicional de Acari no século
-    <span style="font-variant:all-small-caps">XIX</span>:
-    estudo comparativo entre a casa-grande de fazenda e a casa
-    urbana».</cite>
-    Dissertação de Mestrado em Arquitetura e Urbanismo,
-    Universidade Federal do Rio Grande do Norte, 2002.
-    &lt;<a target="_blank"
-    href="https://repositorio.ufrn.br/handle/123456789/48279">
-    https://repositorio.ufrn.br/handle/123456789/48279.</a>&gt;
-coverage:
-  spatial:
-    location:
-      lat : -6.435054
-      long: -36.640890
-      zoom: 9
-      name: 
-        text: "Fazenda Caiçarinha"
-        type: "corporate"
-      city: "Acari"
-      state: BR-RN
-      country: "BR"
-    extent:
-      - type: "area"
-        measurements: 172
-        unit: "m²"
-  temporal:
-    - type: "creation"
-      start_date:
-        year: 1852
-      qualifier: "c."
-      display_date: "c. 1852"
-      text:
-        headline: "Construção"
+- '@feijo:2002arquitetura'
 identifier:
-  - source: "Documentário de casas tradicionais"
-    refid : 8
+- source: Documentário de casas tradicionais
+  refid: 8
+spatial:
+- type: site
+  term: BR-RN
+  location:
+    lat: -6.435054
+    zoom: 9
+    lon: -36.64089
+  display: 'Fazenda Caiçarinha
+
+    Acari'
+temporal:
+- type: creation
+  start_date:
+    year: 1852
+  qualifier: c.
+  display_date: c. 1852
+  text:
+    headline: Construção
+format:
+  extent:
+    measurements:
+    - type: http://terminology.lido-schema.org/lido00927
+      unit:
+        display: m²
+      extent: area
+      value: 172
 ---
 
 É uma das casas mais tradicionais Acari, já que pertenceu ao Coronel Silvino, influente líder político de Acari. Sofreu algumas modificações, como uma construção anexa, que ser ve de residência do “morador”, “puxadas” em sua fachada posterior, pilares e mureta no alpendre, além de um contraforte construído para dar maior estabilidade à parede da fachada lateral direita. Sua caixa mural, bem como seus ambientes, se mantêm fiéis à fábrica original. O espaço concebido para a sala de jantar é de uma riqueza singular e muito agradável, valorizado por ter pé direito duplo. É o ambiente de maior conectividade dentre os ambientes da edificação, pois, a partir dele, se tem acesso direto a seis outros compartimentos da casa. 

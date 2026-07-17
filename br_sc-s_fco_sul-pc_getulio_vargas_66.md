@@ -1,39 +1,37 @@
 ---
-title: "Casa Q06.18"
+title: Casa Q06.18
 date: 2024-05-02
-author: "0009-0006-7479-6365"
+author: 0009-0006-7479-6365
 bibliographicCitation:
-  citekey: "@iphan:2023casa-q0618"
-  text: >-
-    Iphan, Instituto do Patrimônio Histórico e Artistico Nacional.
-    «Casa Q06.18, Praça Getúlio Vargas, 66, São Francisco do Sul, SC».
-    Processo. Superintendência do Iphan em Santa Catarina,
-    1.º de novembro de 2023. Processo nº 01510.000189/2022-67.
-coverage:
-  spatial:
-    location:
-      lat : -27.593316
-      long: -48.547212
-      name: 
-        text: "praça Getúlio Vargas, 66"
-      city: "São Francisco do Sul"
-      state: BR-SC
-      country: "BR"
-    extent:
-      - type: "area"
-        measurements: 162.89
-        unit: "m²"
-  temporal:
-    - type: "creation"
-      start_date:
-        year: 1890
-      qualifier: "c."
-      display_date: "c. 1890"
-      text:
-        headline: "Construção"
+- '@iphan:2023casa-q0618'
 identifier:
-  - source: "Documentário de casas tradicionais"
-    refid : 44
+- source: Documentário de casas tradicionais
+  refid: 44
+spatial:
+- type: site
+  term: BR-SC
+  location:
+    lat: -27.593316
+    lon: -48.547212
+  display: 'praça Getúlio Vargas, 66
+
+    São Francisco do Sul'
+temporal:
+- type: creation
+  start_date:
+    year: 1890
+  qualifier: c.
+  display_date: c. 1890
+  text:
+    headline: Construção
+format:
+  extent:
+    measurements:
+    - type: http://terminology.lido-schema.org/lido00927
+      unit:
+        display: m²
+      extent: area
+      value: 162.89
 ---
 
 ---

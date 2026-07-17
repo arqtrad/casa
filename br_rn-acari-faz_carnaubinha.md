@@ -1,48 +1,38 @@
 ---
-title: "Fazenda Carnaubinha"
+title: Fazenda Carnaubinha
 date: 2024-05-02
-author: "0009-0006-7479-6365"
+author: 0009-0006-7479-6365
 bibliographicCitation:
-  citekey: "@feijo:2002arquitetura"
-  href   : "https://repositorio.ufrn.br/handle/123456789/48279"
-  text: >-
-    Feijó, Paulo Heider Forte.
-    <cite>«A arquitetura tradicional de Acari no século
-    <span style="font-variant:all-small-caps">XIX</span>:
-    estudo comparativo entre a casa-grande de fazenda e a casa
-    urbana».</cite>
-    Dissertação de Mestrado em Arquitetura e Urbanismo,
-    Universidade Federal do Rio Grande do Norte, 2002.
-    &lt;<a target="_blank"
-    href="https://repositorio.ufrn.br/handle/123456789/48279">
-    https://repositorio.ufrn.br/handle/123456789/48279.</a>&gt;
-coverage:
-  spatial:
-    location:
-      lat : -6.525442
-      long: -37.052143
-      zoom: 11
-      name: 
-        text: "Fazenda Carnaubinha"
-        type: "corporate"
-      city: "Acari"
-      state: BR-RN
-      country: "BR"
-    extent:
-      - type: "area"
-        measurements: 130
-        unit: "m²"
-  temporal:
-    - type: "creation"
-      start_date:
-        year: 1820
-      qualifier: "c."
-      display_date: "c. 1820"
-      text:
-        headline: "Construção"
+- '@feijo:2002arquitetura'
 identifier:
-  - source: "Documentário de casas tradicionais"
-    refid : 10
+- source: Documentário de casas tradicionais
+  refid: 10
+spatial:
+- type: site
+  term: BR-RN
+  location:
+    lat: -6.525442
+    zoom: 11
+    lon: -37.052143
+  display: 'Fazenda Carnaubinha
+
+    Acari'
+temporal:
+- type: creation
+  start_date:
+    year: 1820
+  qualifier: c.
+  display_date: c. 1820
+  text:
+    headline: Construção
+format:
+  extent:
+    measurements:
+    - type: http://terminology.lido-schema.org/lido00927
+      unit:
+        display: m²
+      extent: area
+      value: 130
 ---
 
 Tradicional e típica casa de fazenda do vale do Acauã, atualmente desabitada e em estado de abandono, mantêm-se ainda em seu estado original, com seus elementos preservados. Como acontece em outras casas que possuem sótão, a escada que lhe dá acesso parte da sala de jantar. Em geral essas escadas não dispõem de degraus confortáveis, pois quase sempre se desenvolvem em espaço exíguo, como se observa neste caso, limitado pela existência da porta de um quarto.

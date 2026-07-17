@@ -1,47 +1,33 @@
 ---
-title: "Museu Histórico e Artístico de Planaltina"
+title: Museu Histórico e Artístico de Planaltina
 author: Pedro Palazzo
 date: 2024-02-08
-excerpt: >-
-  Casa de morada com frente comercial construída em 1899 e convertida
-  em casa–museu histórica em 1974.
-teaser: "https://placehold.co/600x400"
+excerpt: Casa de morada com frente comercial construída em 1899 e convertida em casa–museu
+  histórica em 1974.
+teaser: https://placehold.co/600x400
 bibliographicCitation:
-  citekey: "@iphan:2012planaltina"
-  text: >-
-    Instituto do Patrimônio Histórico e Artistico Nacional,
-    <cite>Inventário do Setor Tradicional de Planaltina</cite>,
-    org. Ana Laterza, Alessio Gallizio, e Pedro P. Palazzo
-    (Brasília: Superintendência do Iphan no Distrito Federal, 2012).
-coverage:
-  spatial:
-    location:
-      lat    : -15.620972 
-      long   : -47.661444
-      alt    : 948.16
-      city   : "Planaltina"
-      state  : BR-DF
-      country: "BR"
-      locationHistoric:
-        - "Mestre d'Armas"
-        - "Goiás"
-  temporal:
-    - type: "creation"
-      start_date:
-        year: "1899"
-      text:
-        headline: "Construção da casa"
-    - type: "restoration"
-      start_date:
-        year: "1974"
-      text:
-        headline: "Tombamento"
-        text: "Tombamento estadual, desapropriação e restauro"
+- '@iphan:2012planaltina'
 identifier:
-  - source: "Inventário do Setor Tradicional de Planaltina"
-    refid : 
-  - source: "Documentário de casas tradicionais"
-    refid : 52
+- source: Inventário do Setor Tradicional de Planaltina
+  refid: null
+- source: Documentário de casas tradicionais
+  refid: 52
+spatial: null
+temporal:
+- type: creation
+  start_date:
+    year: '1899'
+  text:
+    headline: Construção da casa
+- type: restoration
+  start_date:
+    year: '1974'
+  text:
+    headline: Tombamento
+    text: Tombamento estadual, desapropriação e restauro
+location_historic:
+- Mestre d'Armas
+- Goiás
 ---
 
 <figure>

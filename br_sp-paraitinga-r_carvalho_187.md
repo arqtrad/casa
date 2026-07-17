@@ -1,38 +1,29 @@
 ---
-title: "Casas à rua do Carvalho 187"
+title: Casas à rua do Carvalho 187
 date: 2024-05-02
-author: "0009-0006-7479-6365"
+author: 0009-0006-7479-6365
 bibliographicCitation:
-  citekey: "@iphan:2010dossie1"
-  href   : "https://casadopatrimoniovp.wordpress.com/wp-content/uploads/2014/09/dossie-sc3a3o-luiz-do-paraitinga-iphan.pdf"
-  text: >-
-    Iphan, Instituto do Patrimônio Histórico e Artistico Nacional.
-    Dossiê São Luiz do  Paraitinga.
-    IPHAN, 2010.
-    https://casadopatrimoniovp.wordpress.com/wp-content/uploads/2014/09/dossie-sc3a3o-luiz-do-paraitinga-iphan.pdf.
-coverage:
-  spatial:
-    location:
-      lat : -23.221091
-      long: -45.309668
-      name: 
-        text: "rua do Carvalho, 187"
-      city: "São Luiz do Paraitinga"
-      state: BR-SP
-      country: "BR"
-    area: 50 
-    unit: "m²"
-  temporal:
-    - type: "creation"
-      start_date:
-        year: 1840
-      qualifier: "c."
-      display_date: "c. 1840"
-      text:
-        headline: "Construção"
+- '@iphan:2010dossie1'
 identifier:
-  - source: "Documentário de casas tradicionais"
-    refid : 36
+- source: Documentário de casas tradicionais
+  refid: 36
+spatial:
+- type: site
+  term: BR-SP
+  location:
+    lat: -23.221091
+    lon: -45.309668
+  display: 'rua do Carvalho, 187
+
+    São Luiz do Paraitinga'
+temporal:
+- type: creation
+  start_date:
+    year: 1840
+  qualifier: c.
+  display_date: c. 1840
+  text:
+    headline: Construção
 ---
 
 As construções eram geminadas constituindo um conjunto uniforme e adaptado à topografia, coberto por telha cerâmica tipo capa-canal, com duas águas, cumeeira paralela ao alinhamento e beiral aparente. Nestas casas, também identificadas como populares, “a pobreza e a pouquidão de compartimentos não impõem uma complexidade maior na organização do espaço, tudo se resume, na prática, a duas salas do extremo anterior e posterior e mais um compartimento intermediário, cego, ventilado pela telha-vã”. 

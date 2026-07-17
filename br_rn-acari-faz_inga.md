@@ -1,48 +1,38 @@
 ---
-title: "Fazenda Ingá"
+title: Fazenda Ingá
 date: 2024-05-02
-author: "0009-0006-7479-6365"
+author: 0009-0006-7479-6365
 bibliographicCitation:
-  citekey: "@feijo:2002arquitetura"
-  href   : "https://repositorio.ufrn.br/handle/123456789/48279"
-  text: >-
-    Feijó, Paulo Heider Forte.
-    <cite>«A arquitetura tradicional de Acari no século
-    <span style="font-variant:all-small-caps">XIX</span>:
-    estudo comparativo entre a casa-grande de fazenda e a casa
-    urbana».</cite>
-    Dissertação de Mestrado em Arquitetura e Urbanismo,
-    Universidade Federal do Rio Grande do Norte, 2002.
-    &lt;<a target="_blank"
-    href="https://repositorio.ufrn.br/handle/123456789/48279">
-    https://repositorio.ufrn.br/handle/123456789/48279.</a>&gt;
-coverage:
-  spatial:
-    location:
-      lat : -6.479021
-      long: -36.627854
-      zoom: 9
-      name: 
-        text: "Fazenda Ingá"
-        type: "corporate"
-      city: "Acari"
-      state: BR-RN
-      country: "BR"
-    extent:
-      - type: "area"
-        measurements: 165
-        unit: "m²"
-  temporal:
-    - type: "creation"
-      start_date:
-        year: 1820
-      qualifier: "c."
-      display_date: "c. 1820"
-      text:
-        headline: "Construção"
+- '@feijo:2002arquitetura'
 identifier:
-  - source: "Documentário de casas tradicionais"
-    refid : 11
+- source: Documentário de casas tradicionais
+  refid: 11
+spatial:
+- type: site
+  term: BR-RN
+  location:
+    lat: -6.479021
+    zoom: 9
+    lon: -36.627854
+  display: 'Fazenda Ingá
+
+    Acari'
+temporal:
+- type: creation
+  start_date:
+    year: 1820
+  qualifier: c.
+  display_date: c. 1820
+  text:
+    headline: Construção
+format:
+  extent:
+    measurements:
+    - type: http://terminology.lido-schema.org/lido00927
+      unit:
+        display: m²
+      extent: area
+      value: 165
 ---
 
 Foi construída por volta de 1820, e habita da sem a existência do reboco externo, só feito em 1898. Na fachada lateral esquerda, é intrigante que as janelas das salas de visita e de jantar tenham vergas em arco abatido, enquanto as correspondentes aos dois quartos têm verga reta. Essa diferença de modelo é forte indício de que os quartos não tinham janelas para o exterior, e as que lá se encontram tenham sido abertas posteriormente à fábrica original da casa. Para adequá-la às inovações sanitárias introduzidas nas residências, foi criado um w.c. no trecho da varanda posterior, onde então existia um forno. No quarto da frente, contíguo à fachada lateral direita, foi fechada uma porta que o ligava à sala de visita e foi aberta uma outra para o corredor (transferiram uma porta de um lugar para outro).

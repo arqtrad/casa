@@ -1,46 +1,37 @@
 ---
-title: "Casa à rua da Matriz, 87"
+title: Casa à rua da Matriz, 87
 date: 2024-05-02
-author: "0009-0006-7479-6365"
+author: 0009-0006-7479-6365
 bibliographicCitation:
-  citekey: "@feijo:2002arquitetura"
-  href   : "https://repositorio.ufrn.br/handle/123456789/48279"
-  text: >-
-    Feijó, Paulo Heider Forte.
-    <cite>«A arquitetura tradicional de Acari no século
-    <span style="font-variant:all-small-caps">XIX</span>:
-    estudo comparativo entre a casa-grande de fazenda e a casa
-    urbana».</cite>
-    Dissertação de Mestrado em Arquitetura e Urbanismo,
-    Universidade Federal do Rio Grande do Norte, 2002.
-    &lt;<a target="_blank"
-    href="https://repositorio.ufrn.br/handle/123456789/48279">
-    https://repositorio.ufrn.br/handle/123456789/48279.</a>&gt;
-coverage:
-  spatial:
-    location:
-      lat : -6.442255
-      long: -36.639651
-      name: 
-        text: "rua da Matriz, 87"
-      city: "Acari"
-      state: BR-RN
-      country: "BR"
-    extent:
-      - type: "area"
-        measurements: 208
-        unit: "m²"
-  temporal:
-    - type: "creation"
-      start_date:
-        year: 1835
-      qualifier: "c."
-      display_date: "c. 1835"
-      text:
-        headline: "Construção"
+- '@feijo:2002arquitetura'
 identifier:
-  - source: "Documentário de casas tradicionais"
-    refid : 19
+- source: Documentário de casas tradicionais
+  refid: 19
+spatial:
+- type: site
+  term: BR-RN
+  location:
+    lat: -6.442255
+    lon: -36.639651
+  display: 'rua da Matriz, 87
+
+    Acari'
+temporal:
+- type: creation
+  start_date:
+    year: 1835
+  qualifier: c.
+  display_date: c. 1835
+  text:
+    headline: Construção
+format:
+  extent:
+    measurements:
+    - type: http://terminology.lido-schema.org/lido00927
+      unit:
+        display: m²
+      extent: area
+      value: 208
 ---
 
 Foi construída no então alinhamento da rua, porém recuada com relação à sua fachada lateral direita. Atualmente, apresentando um jardim frontal, oriundo da mudança do traçado da rua, que se afastou da edificação E uma casa urbana, mas, em sua forma, nada a diferencia de uma casa de fazenda, com seu “telhado de arrasto”, de inclinação acentuada e pé-direito alto, permitindo a existência de um sótão constituído de três cômodos.

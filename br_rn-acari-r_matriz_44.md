@@ -1,46 +1,37 @@
 ---
-title: "Casa à rua da Matriz, 44"
+title: Casa à rua da Matriz, 44
 date: 2024-05-02
-author: "0009-0006-7479-6365"
+author: 0009-0006-7479-6365
 bibliographicCitation:
-  citekey: "@feijo:2002arquitetura"
-  href   : "https://repositorio.ufrn.br/handle/123456789/48279"
-  text: >-
-    Feijó, Paulo Heider Forte.
-    <cite>«A arquitetura tradicional de Acari no século
-    <span style="font-variant:all-small-caps">XIX</span>:
-    estudo comparativo entre a casa-grande de fazenda e a casa
-    urbana».</cite>
-    Dissertação de Mestrado em Arquitetura e Urbanismo,
-    Universidade Federal do Rio Grande do Norte, 2002.
-    &lt;<a target="_blank"
-    href="https://repositorio.ufrn.br/handle/123456789/48279">
-    https://repositorio.ufrn.br/handle/123456789/48279.</a>&gt;
-coverage:
-  spatial:
-    location:
-      lat : -6.437129
-      long: -36.639187
-      name: 
-        text: "rua da Matriz, 44"
-      city: "Acari"
-      state: BR-RN
-      country: "BR"
-    extent:
-      - type: "area"
-        measurements: 160
-        unit: "m²"
-  temporal:
-    - type: "creation"
-      start_date:
-        year: 1830
-      qualifier: "c."
-      display_date: "c. 1830"
-      text:
-        headline: "Construção"
+- '@feijo:2002arquitetura'
 identifier:
-  - source: "Documentário de casas tradicionais"
-    refid : 18
+- source: Documentário de casas tradicionais
+  refid: 18
+spatial:
+- type: site
+  term: BR-RN
+  location:
+    lat: -6.437129
+    lon: -36.639187
+  display: 'rua da Matriz, 44
+
+    Acari'
+temporal:
+- type: creation
+  start_date:
+    year: 1830
+  qualifier: c.
+  display_date: c. 1830
+  text:
+    headline: Construção
+format:
+  extent:
+    measurements:
+    - type: http://terminology.lido-schema.org/lido00927
+      unit:
+        display: m²
+      extent: area
+      value: 160
 ---
 
 Casa construída no alinhamento da rua, geminada com sua vizinha da direita, porém mantendo recuo com relação ao outro limite lateral do lote, por onde se dá o acesso à mesma. Dispõe em sua fachada, de duas janelas, com cercaduras em massa, além da platibanda, em forma de frontão triangular, encobrindo pouco do telhado, de inclinação acentuada. 
