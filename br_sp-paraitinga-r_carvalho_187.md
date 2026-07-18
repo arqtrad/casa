@@ -7,6 +7,14 @@ bibliographicCitation:
 identifier:
 - source: Documentário de casas tradicionais
   refid: 36
+format:
+  extent:
+    measurements:
+    - type: http://terminology.lido-schema.org/lido00927
+      unit:
+        display: m²
+      extent: area
+      value: 50
 spatial:
 - type: site
   term: BR-SP
