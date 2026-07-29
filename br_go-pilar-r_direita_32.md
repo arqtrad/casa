@@ -13,10 +13,7 @@ spatial:
   location:
     lat: -14.766324
     lon: -49.578872
-  display: 'Rua Direita (Praça das Mães), 32
-
-
-    Pilar de Goiás'
+  display: 'Rua Direita (Praça das Mães), 32'
 temporal:
 - type: creation
   text:

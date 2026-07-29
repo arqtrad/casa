@@ -13,10 +13,7 @@ spatial:
   location:
     lat: -14.76634
     lon: -49.57886
-  display: 'Rua Campo de lã
-
-
-    Pilar de Goiás'
+  display: 'Rua Campo de lã'
 temporal:
 - type: creation
   text:

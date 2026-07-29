@@ -22,12 +22,9 @@ spatial:
     lat: -16.6645
     alt: 731
     lon: -49.294583
-  display: 'rua Morais Filho, 270<br />
+  display: 'rua Morais Filho, 270
 
-    Campinas
-
-
-    Goiânia'
+    Campinas'
 temporal:
 - type: creation
   text:

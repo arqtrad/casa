@@ -1,6 +1,7 @@
 ---
 title: Casa dos sete candeeiros
 titleType: popular
+id: 59V32FFQ+J8J
 author: 0009-0006-7479-6365
 date: 2024-02-11
 excerpt: 'Casa senhorial urbana da segunda metade do século <span style="font-variant:all-small-caps">XVII</span>
@@ -48,22 +49,23 @@ format:
       value: 329
 spatial:
 - type: site
-  term: BR-BA
+  term:
+    type: 'local'
+    refid: 'lugar/59V32FHX+7HV'
+    display: 'Salvador, Bahia, Brasil'
   location:
     lat: -12.975915665500011
+    lon: -38.511749804
     alt: 51
     source:
       text: SICG Iphan
       refid: BA-2927408-BI-ED-00020
       href: https://sicg.iphan.gov.br/sicg/bem/visualizar/159
-    lon: -38.511749804
   display: 'rua de São Francisco 3
 
     rua visconde de Itaparica 8
 
-    Barroquinha
-
-    Salvador'
+    Barroquinha'
 - type: site
   extent:
     type: Polygon
@@ -94,9 +96,7 @@ temporal:
   text:
     headline: Mudança de proprietário
     text: 'Confiscada à Companhia de Jesus, arrematada em leilão pelo capitão Elias
-      da Fonseca Galvão
-
-      '
+      da Fonseca Galvão'
   start_date:
     year: '1759'
   display_date: '1759'
@@ -107,16 +107,12 @@ temporal:
     href: http://portal.iphan.gov.br/uploads/publicacao/ColImg7_CasasPatrimonio_m.pdf
     text: 'Galvão, Marco Antônio Pereira (org.). <cite title="Casas do Patrimônio">Casas
       do Patrimônio.</cite> Imagens. Brasília: Instituto do Patrimônio Histórico e  Artístico
-      Nacional, 2010: 24--25.
-
-      '
+      Nacional, 2010: 24--25.'
 - type: other
   text:
     headline: Tombamento
     text: 'Tombamento Federal, Proc. 000-T-48, Inscrição 119, Livro das  Belas Artes,
-      fl. 21.
-
-      '
+      fl. 21.'
   start_date:
     year: '1948'
     month: '06'
@@ -129,12 +125,9 @@ temporal:
     href: http://portal.iphan.gov.br/uploads/publicacao/ColImg7_CasasPatrimonio_m.pdf
     text: 'Galvão, Marco Antônio Pereira (org.). <cite title="Casas do Patrimônio">Casas
       do Patrimônio.</cite> Imagens. Brasília: Instituto do Patrimônio Histórico e  Artístico
-      Nacional, 2010: 24--25.
-
-      '
+      Nacional, 2010: 24--25.'
 location_historic:
 - Travessa do Ximenes
-id: 59V32FFQ+J8J
 ---
 
 <figure>

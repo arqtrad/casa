@@ -13,12 +13,7 @@ spatial:
   location:
     lat: -19.890484
     lon: -43.809876
-  display: 'Rua Borba Gato, 71<br />
-
-    34.505-830
-
-
-    Sabará'
+  display: 'Rua Borba Gato, 71'
 temporal:
 - type: creation
   text:

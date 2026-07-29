@@ -13,10 +13,7 @@ spatial:
   location:
     lat: -14.766327
     lon: -49.578857
-  display: 'Rua da Cadeia, 188
-
-
-    Pilar de Goiás'
+  display: 'Rua da Cadeia, 188'
 temporal:
 - type: creation
   text:

@@ -12,10 +12,7 @@ spatial:
   location:
     lat: -12.925848
     lon: -38.494701
-  display: 'rua São Francisco, 32
-
-
-    Salvador'
+  display: 'rua São Francisco, 32'
 temporal:
 - type: creation
   text:

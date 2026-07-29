@@ -19,12 +19,9 @@ spatial:
   location:
     lat: -28.460075
     lon: -49.312203
-  display: 'rodovia Anes Gualberto (SC–446), km 12<br />
+  display: 'rodovia Anes Gualberto (SC–446), km 12
 
-    Rio Maior
-
-
-    Urussanga'
+    Rio Maior'
 temporal:
 - type: creation
   start_date:

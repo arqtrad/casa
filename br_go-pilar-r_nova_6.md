@@ -13,10 +13,7 @@ spatial:
   location:
     lat: -14.794722
     lon: -49.7983238
-  display: 'Rua Nova, 6
-
-
-    Pirenópolis'
+  display: 'Rua Nova, 6'
 temporal:
 - type: creation
   text:

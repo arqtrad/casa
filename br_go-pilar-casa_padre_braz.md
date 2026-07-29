@@ -13,10 +13,7 @@ spatial:
   location:
     lat: -14.766334
     lon: -49.578897
-  display: 'Rua Padre Braz
-
-
-    Pilar de Goiás'
+  display: 'Rua Padre Braz'
 temporal:
 - type: creation
   text:

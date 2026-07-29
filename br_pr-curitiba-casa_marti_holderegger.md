@@ -27,12 +27,9 @@ spatial:
     lat: -25.418096
     alt: 912
     lon: -49.245372
-  display: 'R. Fernandes de Barros, 1462<br />
+  display: 'R. Fernandes de Barros, 1462
 
-    Hugo Lange
-
-
-    Curitiba'
+    Hugo Lange'
 temporal:
 - type: creation
   start_date:
