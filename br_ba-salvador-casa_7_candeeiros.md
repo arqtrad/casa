@@ -63,7 +63,6 @@ spatial:
 
     Barroquinha
 
-
     Salvador'
 - type: site
   extent:
