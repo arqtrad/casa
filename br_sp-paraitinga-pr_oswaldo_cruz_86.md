@@ -1,38 +1,38 @@
 ---
-title: "Três sobrados gêmeos, Barão de Paraitinga, 26 e 4 e Praça Oswaldo Cruz"
+title: Três sobrados gêmeos, Barão de Paraitinga, 26 e 4 e Praça Oswaldo Cruz
 date: 2024-05-02
-author: "0009-0006-7479-6365"
+author: 0009-0006-7479-6365
 bibliographicCitation:
-  citekey: "@iphan:2010dossie1"
-  href   : "https://casadopatrimoniovp.wordpress.com/wp-content/uploads/2014/09/dossie-sc3a3o-luiz-do-paraitinga-iphan.pdf"
-  text: >-
-    Iphan, Instituto do Patrimônio Histórico e Artistico Nacional.
-    Dossiê São Luiz do  Paraitinga.
-    IPHAN, 2010.
-    https://casadopatrimoniovp.wordpress.com/wp-content/uploads/2014/09/dossie-sc3a3o-luiz-do-paraitinga-iphan.pdf.
-coverage:
-  spatial:
-    location:
-      lat : -23.222060
-      long: -45.310842
-      name: 
-        text: "praça Oswaldo Cruz, 86"
-      city: "São Luiz do Paraitinga"
-      state: BR-SP
-      country: "BR"
-    area: 210
-    unit: "m²"
-  temporal:
-    - type: "creation"
-      start_date:
-        year: 1870
-      qualifier: "c."
-      display_date: "c. 1870"
-      text:
-        headline: "Construção"
+- '@iphan:2010dossie1'
 identifier:
-  - source: "Documentário de casas tradicionais"
-    refid : 31
+- source: Documentário de casas tradicionais
+  refid: 31
+format:
+  extent:
+    measurements:
+    - type: http://terminology.lido-schema.org/lido00927
+      unit:
+        display: m²
+      extent: area
+      value: 210
+spatial:
+- type: site
+  term: BR-SP
+  location:
+    lat: -23.22206
+    lon: -45.310842
+  display: 'praça Oswaldo Cruz, 86
+
+    São Luiz do Paraitinga'
+temporal:
+- type: creation
+  start_date:
+    year: 1870
+  qualifier: c.
+  display_date: c. 1870
+  text:
+    headline: Construção
+id: 588PQMHQ+5MF
 ---
 
 Os três sobrados geminados, dois deles ainda na Rua Barão de Paraitinga, e o terceiro já fazendo frente para a Praça Osvaldo Cruz, que substituíram velhas casas no início da década de 1870. Neles se verifica de forma resumida o partido aqui descrito, quiçá pelo minguado da frontaria, apresentando.

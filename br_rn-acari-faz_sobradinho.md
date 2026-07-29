@@ -1,48 +1,39 @@
 ---
-title: "Fazenda Sobradinho"
+title: Fazenda Sobradinho
 date: 2024-05-02
-author: "0009-0006-7479-6365"
+author: 0009-0006-7479-6365
 bibliographicCitation:
-  citekey: "@feijo:2002arquitetura"
-  href   : "https://repositorio.ufrn.br/handle/123456789/48279"
-  text: >-
-    Feijó, Paulo Heider Forte.
-    <cite>«A arquitetura tradicional de Acari no século
-    <span style="font-variant:all-small-caps">XIX</span>:
-    estudo comparativo entre a casa-grande de fazenda e a casa
-    urbana».</cite>
-    Dissertação de Mestrado em Arquitetura e Urbanismo,
-    Universidade Federal do Rio Grande do Norte, 2002.
-    &lt;<a target="_blank"
-    href="https://repositorio.ufrn.br/handle/123456789/48279">
-    https://repositorio.ufrn.br/handle/123456789/48279.</a>&gt;
-coverage:
-  spatial:
-    location:
-      lat : -6.22585
-      long: -36.34021
-      zoom: 9
-      name: 
-        text: "Fazenda Sobradinho"
-        type: "corporate"
-      city: "Acari"
-      state: BR-RN
-      country: "BR"
-    extent:
-      - type: "area"
-        measurements: 163
-        unit: "m²"
-  temporal:
-    - type: "creation"
-      start_date:
-        year: 1835
-      qualifier: "c."
-      display_date: "c. 1835"
-      text:
-        headline: "Construção"
+- '@feijo:2002arquitetura'
 identifier:
-  - source: "Documentário de casas tradicionais"
-    refid : 16
+- source: Documentário de casas tradicionais
+  refid: 16
+spatial:
+- type: site
+  term: BR-RN
+  location:
+    lat: -6.22585
+    zoom: 9
+    lon: -36.34021
+  display: 'Fazenda Sobradinho
+
+    Acari'
+temporal:
+- type: creation
+  start_date:
+    year: 1835
+  qualifier: c.
+  display_date: c. 1835
+  text:
+    headline: Construção
+format:
+  extent:
+    measurements:
+    - type: http://terminology.lido-schema.org/lido00927
+      unit:
+        display: m²
+      extent: area
+      value: 163
+id: 6955QMF5+MW7
 ---
 
 Excetuando-se a reforma da cozinha, que teve seu tamanho diminuído, a construção de uma meia-parede dividindo a sala de visitas e de umaoutra, na face lateral esquerda do alpendre, a edificação mantém ainda sua feição original. A cozinha não fazia parte do corpo principal da edificação, situação essa também muito recorrente em outras casas aqui analisadas. Nessas casas, encontra-se, também, outra característica aqui verificada, que é a forma em arco abatido das vergas das portas e janelas.

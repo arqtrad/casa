@@ -1,52 +1,42 @@
 ---
-title: "Fazenda Pitombeiras"
+title: Fazenda Pitombeiras
 date: 2024-05-02
-author: "0009-0006-7479-6365"
-excerpt: >-
-  Casa do sertão do Seridó com alpendre dianteiro e telhado de arrasto,
-  de tipo transicional entre a casa–salão rural e aquela influenciada
-  pelo tipo urbano da casa de morada.
+author: 0009-0006-7479-6365
+excerpt: Casa do sertão do Seridó com alpendre dianteiro e telhado de arrasto, de
+  tipo transicional entre a casa–salão rural e aquela influenciada pelo tipo urbano
+  da casa de morada.
 bibliographicCitation:
-  citekey: "@feijo:2002arquitetura"
-  href   : "https://repositorio.ufrn.br/handle/123456789/48279"
-  text: >-
-    Feijó, Paulo Heider Forte.
-    <cite>«A arquitetura tradicional de Acari no século
-    <span style="font-variant:all-small-caps">XIX</span>:
-    estudo comparativo entre a casa-grande de fazenda e a casa
-    urbana».</cite>
-    Dissertação de Mestrado em Arquitetura e Urbanismo,
-    Universidade Federal do Rio Grande do Norte, 2002.
-    &lt;<a target="_blank"
-    href="https://repositorio.ufrn.br/handle/123456789/48279">
-    https://repositorio.ufrn.br/handle/123456789/48279.</a>&gt;
-coverage:
-  spatial:
-    location:
-      lat : -6.498010
-      long: -36.661203
-      zoom: 9
-      name: 
-        text: "Fazenda Pitombeiras"
-        type: "corporate"
-      city: "Acari"
-      state: BR-RN
-      country: "BR"
-    extent:
-      - type: "area"
-        measurements: 185
-        unit: "m²"
-  temporal:
-    - type: "creation"
-      start_date:
-        year: 1835
-      qualifier: "c."
-      display_date: "c. 1835"
-      text:
-        headline: "Construção"
+- '@feijo:2002arquitetura'
 identifier:
-  - source: "Documentário de casas tradicionais"
-    refid : 14
+- source: Documentário de casas tradicionais
+  refid: 14
+spatial:
+- type: site
+  term: BR-RN
+  location:
+    lat: -6.49801
+    zoom: 9
+    lon: -36.661203
+  display: 'Fazenda Pitombeiras
+
+    Acari'
+temporal:
+- type: creation
+  start_date:
+    year: 1835
+  qualifier: c.
+  display_date: c. 1835
+  text:
+    headline: Construção
+format:
+  extent:
+    measurements:
+    - type: http://terminology.lido-schema.org/lido00927
+      unit:
+        display: m²
+      extent: area
+      value: 185
+id: 6955G82Q+QGV
 ---
 
 <figure class="clearfix">

@@ -1,39 +1,35 @@
 ---
-title: "Casa do Padre Braz"
+title: Casa do Padre Braz
 date: 2024-05-02
-author: "0009-0006-7479-6365"
+author: 0009-0006-7479-6365
 bibliographicCitation:
-  citekey: "@iphan:2023casas-pilar"
-  text: >-
-    Iphan, Instituto do Patrimônio Histórico e Artistico Nacional.
-    <cite>«Casas em Pilar de Goiás»</cite>. Processo Administrativo.
-    Goiânia: Superitendência do Iphan em Goiás, 13 de dezembro de 2023.
-    N.º 01516.000354/2023-10.
-coverage:
-  spatial:
-    location:
-      lat : -14.766334
-      long: -49.578897
-      name:
-        text: |
-          Rua Padre Braz
-      city: "Pilar de Goiás"
-      state: BR-GO
-      country: "BR"
-    extent:
-      - type: "area"
-        measurements: 193.61
-        unit: "m²"
-  temporal:
-    - type: "creation"
-      text:
-        headline: "Construção"
-      start_date:
-        year: 1751
-      display_date: "c. 1751"
+- '@iphan:2023casas-pilar'
 identifier:
-  - source: "Documentário de casas tradicionais"
-    refid : 48
+- source: Documentário de casas tradicionais
+  refid: 48
+spatial:
+- type: site
+  term: BR-GO
+  location:
+    lat: -14.766334
+    lon: -49.578897
+  display: 'Rua Padre Braz'
+temporal:
+- type: creation
+  text:
+    headline: Construção
+  start_date:
+    year: 1751
+  display_date: c. 1751
+format:
+  extent:
+    measurements:
+    - type: http://terminology.lido-schema.org/lido00927
+      unit:
+        display: m²
+      extent: area
+      value: 193.61
+id: 58QG6CMC+FC9
 ---
 
 De acordo com Castilho a casa foi:

@@ -1,46 +1,38 @@
 ---
-title: "Casa à travessa José Evaristo, 57"
+title: Casa à travessa José Evaristo, 57
 date: 2024-05-02
-author: "0009-0006-7479-6365"
+author: 0009-0006-7479-6365
 bibliographicCitation:
-  citekey: "@feijo:2002arquitetura"
-  href   : "https://repositorio.ufrn.br/handle/123456789/48279"
-  text: >-
-    Feijó, Paulo Heider Forte.
-    <cite>«A arquitetura tradicional de Acari no século
-    <span style="font-variant:all-small-caps">XIX</span>:
-    estudo comparativo entre a casa-grande de fazenda e a casa
-    urbana».</cite>
-    Dissertação de Mestrado em Arquitetura e Urbanismo,
-    Universidade Federal do Rio Grande do Norte, 2002.
-    &lt;<a target="_blank"
-    href="https://repositorio.ufrn.br/handle/123456789/48279">
-    https://repositorio.ufrn.br/handle/123456789/48279.</a>&gt;
-coverage:
-  spatial:
-    location:
-      lat : -6.437754
-      long: -36.639650
-      name: 
-        text: "travessa José Evaristo, 57"
-      city: "Acari"
-      state: BR-RN
-      country: "BR"
-    extent:
-      - type: "area"
-        measurements: 233
-        unit: "m²"
-  temporal:
-    - type: "creation"
-      start_date:
-        year: 1835
-      qualifier: "c."
-      display_date: "c. 1835"
-      text:
-        headline: "Construção"
+- '@feijo:2002arquitetura'
 identifier:
-  - source: "Documentário de casas tradicionais"
-    refid : 28
+- source: Documentário de casas tradicionais
+  refid: 28
+spatial:
+- type: site
+  term: BR-RN
+  location:
+    lat: -6.437754
+    lon: -36.63965
+  display: 'travessa José Evaristo, 57
+
+    Acari'
+temporal:
+- type: creation
+  start_date:
+    year: 1835
+  qualifier: c.
+  display_date: c. 1835
+  text:
+    headline: Construção
+format:
+  extent:
+    measurements:
+    - type: http://terminology.lido-schema.org/lido00927
+      unit:
+        display: m²
+      extent: area
+      value: 233
+id: 6955H966+V4X
 ---
 
 Esta era a casa do Coronel Silvino Bezerra, líder político do município. Apesar de ter sido construída com esmerados elementos decorativos, identificados pelos detalhes e ornatos que possui, trata-se basicamente de uma edificação urbana variante da casa de fazenda, com seu sótão, tão de acordo com o gosto da época. Foi construída num lote do esquina com sua fechada lateral esquerda no alinhamento da rua e a direita voltada para um terreno. Há algum tempo, este terreno foi ocupado por uma construção em dois pavimentos, a cujo pavimento superior se tem acesso através do sótão da referida casa. 

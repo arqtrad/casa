@@ -1,39 +1,35 @@
 ---
-title: "Casa à rua Rua Campo de lã"
+title: Casa à rua Rua Campo de lã
 date: 2024-05-02
-author: "0009-0006-7479-6365"
+author: 0009-0006-7479-6365
 bibliographicCitation:
-  citekey: "@iphan:2023casas-pilar"
-  text: >-
-    Iphan, Instituto do Patrimônio Histórico e Artistico Nacional.
-    <cite>«Casas em Pilar de Goiás»</cite>. Processo Administrativo.
-    Goiânia: Superitendência do Iphan em Goiás, 13 de dezembro de 2023.
-    N.º 01516.000354/2023-10.
-coverage:
-  spatial:
-    location:
-      lat : -14.766340
-      long: -49.578860
-      name:
-        text: |
-          Rua Campo de lã
-      city: "Pilar de Goiás"
-      state: BR-GO
-      country: "BR"
-    extent:
-      - type: "area"
-        measurements: 114.08
-        unit: "m²"
-  temporal:
-    - type: "creation"
-      text:
-        headline: "Construção"
-      start_date:
-        year: 1890
-      display_date: "c. 1890"
+- '@iphan:2023casas-pilar'
 identifier:
-  - source: "Documentário de casas tradicionais"
-    refid : 46
+- source: Documentário de casas tradicionais
+  refid: 46
+spatial:
+- type: site
+  term: BR-GO
+  location:
+    lat: -14.76634
+    lon: -49.57886
+  display: 'Rua Campo de lã'
+temporal:
+- type: creation
+  text:
+    headline: Construção
+  start_date:
+    year: 1890
+  display_date: c. 1890
+format:
+  extent:
+    measurements:
+    - type: http://terminology.lido-schema.org/lido00927
+      unit:
+        display: m²
+      extent: area
+      value: 114.08
+id: 58QG6CMC+FF6
 ---
 
 ---

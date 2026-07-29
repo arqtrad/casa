@@ -1,46 +1,38 @@
 ---
-title: "Casa à rua Dr. José Augusto, 15"
+title: Casa à rua Dr. José Augusto, 15
 date: 2024-05-02
-author: "0009-0006-7479-6365"
+author: 0009-0006-7479-6365
 bibliographicCitation:
-  citekey: "@feijo:2002arquitetura"
-  href   : "https://repositorio.ufrn.br/handle/123456789/48279"
-  text: >-
-    Feijó, Paulo Heider Forte.
-    <cite>«A arquitetura tradicional de Acari no século
-    <span style="font-variant:all-small-caps">XIX</span>:
-    estudo comparativo entre a casa-grande de fazenda e a casa
-    urbana».</cite>
-    Dissertação de Mestrado em Arquitetura e Urbanismo,
-    Universidade Federal do Rio Grande do Norte, 2002.
-    &lt;<a target="_blank"
-    href="https://repositorio.ufrn.br/handle/123456789/48279">
-    https://repositorio.ufrn.br/handle/123456789/48279.</a>&gt;
-coverage:
-  spatial:
-    location:
-      lat : -6.437646
-      long: -36.639066
-      name: 
-        text: "rua Dr. José Augusto, 15"
-      city: "Acari"
-      state: BR-RN
-      country: "BR"
-    extent:
-      - type: "area"
-        measurements: 174
-        unit: "m²"
-  temporal:
-    - type: "creation"
-      start_date:
-        year: 1810
-      qualifier: "c."
-      display_date: "c. 1810"
-      text:
-        headline: "Construção"
+- '@feijo:2002arquitetura'
 identifier:
-  - source: "Documentário de casas tradicionais"
-    refid : 20
+- source: Documentário de casas tradicionais
+  refid: 20
+spatial:
+- type: site
+  term: BR-RN
+  location:
+    lat: -6.437646
+    lon: -36.639066
+  display: 'rua Dr. José Augusto, 15
+
+    Acari'
+temporal:
+- type: creation
+  start_date:
+    year: 1810
+  qualifier: c.
+  display_date: c. 1810
+  text:
+    headline: Construção
+format:
+  extent:
+    measurements:
+    - type: http://terminology.lido-schema.org/lido00927
+      unit:
+        display: m²
+      extent: area
+      value: 174
+id: 6955H966+W9V
 ---
 
 É uma das mais antigas residências de Acari que ainda mantém, inalteradas, muitas das características de sua fábrica original. Em 1900, nessa casa, situada na então rua dos Pereira, atual Dr. José Augusto, morreu, aos 83 anos, Aninha do Ingá, mulher muito influente, sogra do Coronel Silvino Bezerra e avó do Dr. José Augusto, que foi governador do Estado na década de 1920 e deu o nome que a rua atualmente tem. Está implantada no alinhamento da rua, num lote comprido, que vai até uma outra rua, estreita, que tinha a função precípua e exclusiva de acesso de serviço aos quintais das residências, já que era por ali que esta casa era abastecida com água, lenha e outros produtos, que chegavam transportados em lombos de animais.

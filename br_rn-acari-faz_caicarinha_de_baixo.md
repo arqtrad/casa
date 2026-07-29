@@ -1,48 +1,39 @@
 ---
-title: "Fazenda Caiçarinha de baixo"
+title: Fazenda Caiçarinha de baixo
 date: 2024-05-02
-author: "0009-0006-7479-6365"
+author: 0009-0006-7479-6365
 bibliographicCitation:
-  citekey: "@feijo:2002arquitetura"
-  href   : "https://repositorio.ufrn.br/handle/123456789/48279"
-  text: >-
-    Feijó, Paulo Heider Forte.
-    <cite>«A arquitetura tradicional de Acari no século
-    <span style="font-variant:all-small-caps">XIX</span>:
-    estudo comparativo entre a casa-grande de fazenda e a casa
-    urbana».</cite>
-    Dissertação de Mestrado em Arquitetura e Urbanismo,
-    Universidade Federal do Rio Grande do Norte, 2002.
-    &lt;<a target="_blank"
-    href="https://repositorio.ufrn.br/handle/123456789/48279">
-    https://repositorio.ufrn.br/handle/123456789/48279.</a>&gt;
-coverage:
-  spatial:
-    location:
-      lat : -6.429678
-      long: -36.641820
-      zoom: 9
-      name: 
-        text: "Fazenda Caiçarinha de baixo"
-        type: "corporate"
-      city: "Acari"
-      state: BR-RN
-      country: "BR"
-    extent:
-      - type: "area"
-        measurements: 139
-        unit: "m²"
-  temporal:
-    - type: "creation"
-      start_date:
-        year: 1890
-      qualifier: "c."
-      display_date: "c. 1890"
-      text:
-        headline: "Construção"
+- '@feijo:2002arquitetura'
 identifier:
-  - source: "Documentário de casas tradicionais"
-    refid : 9
+- source: Documentário de casas tradicionais
+  refid: 9
+spatial:
+- type: site
+  term: BR-RN
+  location:
+    lat: -6.429678
+    zoom: 9
+    lon: -36.64182
+  display: 'Fazenda Caiçarinha de baixo
+
+    Acari'
+temporal:
+- type: creation
+  start_date:
+    year: 1890
+  qualifier: c.
+  display_date: c. 1890
+  text:
+    headline: Construção
+format:
+  extent:
+    measurements:
+    - type: http://terminology.lido-schema.org/lido00927
+      unit:
+        display: m²
+      extent: area
+      value: 139
+id: 6955H9C5+47F
 ---
 
 Foi concluída em 1895, segundo inscrição existente na parede da fachada lateral esquerda, e ampliada em 1923, com a incorporação de novos cômodos contíguos à esta mesma. Em 1934 foi criado o sótão. Ora encontra-se desabitada e abandonada, com trechos da cozinha em estado de ruínas. Lamentavelmente não há indícios de que volte a ser habitada.Os pilares do alpendre, a exemplo de outras casas-grandes de fazenda, eram de madeira e foram substituídos por esses que lá se apresentam, em alvenaria.

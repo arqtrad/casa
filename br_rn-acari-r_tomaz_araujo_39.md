@@ -1,46 +1,38 @@
 ---
-title: "Casa à rua Tomaz Araújo, 39"
+title: Casa à rua Tomaz Araújo, 39
 date: 2024-05-02
-author: "0009-0006-7479-6365"
+author: 0009-0006-7479-6365
 bibliographicCitation:
-  citekey: "@feijo:2002arquitetura"
-  href   : "https://repositorio.ufrn.br/handle/123456789/48279"
-  text: >-
-    Feijó, Paulo Heider Forte.
-    <cite>«A arquitetura tradicional de Acari no século
-    <span style="font-variant:all-small-caps">XIX</span>:
-    estudo comparativo entre a casa-grande de fazenda e a casa
-    urbana».</cite>
-    Dissertação de Mestrado em Arquitetura e Urbanismo,
-    Universidade Federal do Rio Grande do Norte, 2002.
-    &lt;<a target="_blank"
-    href="https://repositorio.ufrn.br/handle/123456789/48279">
-    https://repositorio.ufrn.br/handle/123456789/48279.</a>&gt;
-coverage:
-  spatial:
-    location:
-      lat : -6.438540
-      long: -36.639530
-      name: 
-        text: "rua Tomaz Araújo, 39"
-      city: "Acari"
-      state: BR-RN
-      country: "BR"
-    extent:
-      - type: "area"
-        measurements: 165
-        unit: "m²"
-  temporal:
-    - type: "creation"
-      start_date:
-        year: 1888
-      qualifier: "c."
-      display_date: "c. 1888"
-      text:
-        headline: "Construção"
+- '@feijo:2002arquitetura'
 identifier:
-  - source: "Documentário de casas tradicionais"
-    refid : 26
+- source: Documentário de casas tradicionais
+  refid: 26
+spatial:
+- type: site
+  term: BR-RN
+  location:
+    lat: -6.43854
+    lon: -36.63953
+  display: 'rua Tomaz Araújo, 39
+
+    Acari'
+temporal:
+- type: creation
+  start_date:
+    year: 1888
+  qualifier: c.
+  display_date: c. 1888
+  text:
+    headline: Construção
+format:
+  extent:
+    measurements:
+    - type: http://terminology.lido-schema.org/lido00927
+      unit:
+        display: m²
+      extent: area
+      value: 165
+id: 6955H966+H5Q
 ---
 
 Residência assobradada, construída pelo padre Modesto, em 1888. É o primeiro sobrado construído em Acari. Foi deixado como herança para seu sobrinho, Joaquim Servita, e posteriormente adquirido pelo Major Sátiro Bezerra, que o vendeu em 1961, a Neônio Manoel dos Santos, por cento e cinquenta contos de réis( Por se tratar de uma residência urbana) está mais susceptível de sofrer reformas que as casas rurais. Assim sendo, ao longo de sua existência, passou por modificações como a abertura de um vão, ligando a primeira sala à sala de jantar, onde existia uma porta arqueada e uma abertura, espécie de janela, com grade de madeira, e a substituição do piso dos degraus da escada, que eram em madeira por cimentado. 

@@ -1,39 +1,38 @@
 ---
-title: "Casa à rua Coronel Deocleciano Nunes, 78"
+title: Casa à rua Coronel Deocleciano Nunes, 78
 date: 2024-05-02
-author: "0009-0006-7479-6365"
+author: 0009-0006-7479-6365
 bibliographicCitation:
-  citekey: "@iphan:2023casas-centro"
-  text: >-
-    Iphan, Instituto do Patrimônio Histórico e Artistico Nacional.
-    «Casas ao Centro de Natividade». Processo.
-    Palmas: Superintendência do Iphan no Tocantins, 20 de 2023.
-    Processo nº 01422.000545/2022-31.
-coverage:
-  spatial:
-    location:
-      lat : -11.706504
-      long: -47.725884
-      name: 
-        text: "rua Coronel Deocleciano Nunesl, 78"
-      city: "Natividade"
-      state: BR-TO
-      country: "BR"
-    extent:
-      - type: "area"
-        measurements: 165.45
-        unit: "m²"
-  temporal:
-    - type: "creation"
-      start_date:
-        year: 1750
-      qualifier: "c."
-      display_date: "c. 1750"
-      text:
-        headline: "Construção"
+- '@iphan:2023casas-centro'
 identifier:
-  - source: "Documentário de casas tradicionais"
-    refid : 39
+- source: Documentário de casas tradicionais
+  refid: 39
+spatial:
+- type: site
+  term: BR-TO
+  location:
+    lat: -11.706504
+    lon: -47.725884
+  display: 'rua Coronel Deocleciano Nunesl, 78
+
+    Natividade'
+temporal:
+- type: creation
+  start_date:
+    year: 1750
+  qualifier: c.
+  display_date: c. 1750
+  text:
+    headline: Construção
+format:
+  extent:
+    measurements:
+    - type: http://terminology.lido-schema.org/lido00927
+      unit:
+        display: m²
+      extent: area
+      value: 165.45
+id: 58WJ77VF+9JX
 ---
 
 A residência da Rua Coronel Deocleciano Nunes, n.º 78 é um exemplar da

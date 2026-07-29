@@ -1,46 +1,38 @@
 ---
-title: "Casa à rua Dr. José Augusto, 68"
+title: Casa à rua Dr. José Augusto, 68
 date: 2024-05-02
-author: "0009-0006-7479-6365"
+author: 0009-0006-7479-6365
 bibliographicCitation:
-  citekey: "@feijo:2002arquitetura"
-  href   : "https://repositorio.ufrn.br/handle/123456789/48279"
-  text: >-
-    Feijó, Paulo Heider Forte.
-    <cite>«A arquitetura tradicional de Acari no século
-    <span style="font-variant:all-small-caps">XIX</span>:
-    estudo comparativo entre a casa-grande de fazenda e a casa
-    urbana».</cite>
-    Dissertação de Mestrado em Arquitetura e Urbanismo,
-    Universidade Federal do Rio Grande do Norte, 2002.
-    &lt;<a target="_blank"
-    href="https://repositorio.ufrn.br/handle/123456789/48279">
-    https://repositorio.ufrn.br/handle/123456789/48279.</a>&gt;
-coverage:
-  spatial:
-    location:
-      lat : -6.438285
-      long: -36.638584
-      name: 
-        text: "rua Dr. José Augusto, 68"
-      city: "Acari"
-      state: BR-RN
-      country: "BR"
-    extent:
-      - type: "area"
-        measurements: 130
-        unit: "m²"
-  temporal:
-    - type: "creation"
-      start_date:
-        year: 1835
-      qualifier: "c."
-      display_date: "c. 1835"
-      text:
-        headline: "Construção"
+- '@feijo:2002arquitetura'
 identifier:
-  - source: "Documentário de casas tradicionais"
-    refid : 22
+- source: Documentário de casas tradicionais
+  refid: 22
+spatial:
+- type: site
+  term: BR-RN
+  location:
+    lat: -6.438285
+    lon: -36.638584
+  display: 'rua Dr. José Augusto, 68
+
+    Acari'
+temporal:
+- type: creation
+  start_date:
+    year: 1835
+  qualifier: c.
+  display_date: c. 1835
+  text:
+    headline: Construção
+format:
+  extent:
+    measurements:
+    - type: http://terminology.lido-schema.org/lido00927
+      unit:
+        display: m²
+      extent: area
+      value: 130
+id: 6955H966+MHM
 ---
 
 Caso típico de uma residência urbana do século XIX, implantada no alinhamento da via pública, contando, na fachada, com uma porta e duas janelas em arco abatido e cercaduras de massa. Apresenta ainda uma platibanda elaborada, com cornijas, frisos e ornatos em massa. Lamentavelmente, no momento em que se processava esta pesquisa, a casa estava sendo modificada, ou praticamente sendo demolida, já que foi retirada toda sua cobertura, para ser refeita com alturas e inclinações diferentes. Sua platibanda foi completamente demolida, e provavelmente sua fachada receberá portas de ferro do tipo de enrolar, destruindo a porta e janelas ora existentes. Paredes internas serão demolidas para dar lugar a um grande ambiente de uso comercial.

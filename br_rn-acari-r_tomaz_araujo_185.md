@@ -1,46 +1,38 @@
 ---
-title: "Casa à rua Tomaz Araújo, 185"
+title: Casa à rua Tomaz Araújo, 185
 date: 2024-05-02
-author: "0009-0006-7479-6365"
+author: 0009-0006-7479-6365
 bibliographicCitation:
-  citekey: "@feijo:2002arquitetura"
-  href   : "https://repositorio.ufrn.br/handle/123456789/48279"
-  text: >-
-    Feijó, Paulo Heider Forte.
-    <cite>«A arquitetura tradicional de Acari no século
-    <span style="font-variant:all-small-caps">XIX</span>:
-    estudo comparativo entre a casa-grande de fazenda e a casa
-    urbana».</cite>
-    Dissertação de Mestrado em Arquitetura e Urbanismo,
-    Universidade Federal do Rio Grande do Norte, 2002.
-    &lt;<a target="_blank"
-    href="https://repositorio.ufrn.br/handle/123456789/48279">
-    https://repositorio.ufrn.br/handle/123456789/48279.</a>&gt;
-coverage:
-  spatial:
-    location:
-      lat : -6.438702
-      long: -36.640798
-      name: 
-        text: "rua Tomaz Araújo, 185"
-      city: "Acari"
-      state: BR-RN
-      country: "BR"
-    extent:
-      - type: "area"
-        measurements: 86
-        unit: "m²"
-  temporal:
-    - type: "creation"
-      start_date:
-        year: 1800
-      qualifier: "c."
-      display_date: "c. 1800"
-      text:
-        headline: "Construção"
+- '@feijo:2002arquitetura'
 identifier:
-  - source: "Documentário de casas tradicionais"
-    refid : 25
+- source: Documentário de casas tradicionais
+  refid: 25
+spatial:
+- type: site
+  term: BR-RN
+  location:
+    lat: -6.438702
+    lon: -36.640798
+  display: 'rua Tomaz Araújo, 185
+
+    Acari'
+temporal:
+- type: creation
+  start_date:
+    year: 1800
+  qualifier: c.
+  display_date: c. 1800
+  text:
+    headline: Construção
+format:
+  extent:
+    measurements:
+    - type: http://terminology.lido-schema.org/lido00927
+      unit:
+        display: m²
+      extent: area
+      value: 86
+id: 6955H965+GM8
 ---
 
 Construção modesta, implantada na primeira rua existente na cidade, com o fundo do lote voltado para o rio. É provável que se constitua em uma das últimas remanescentes de um conjunto de casas construídas nesse trecho da rua, contemporâneo à origem do povoamento. Seu baixo pé-direito, a excessiva espessura da parede de sua fachada, sua porta e janela em vergas retas, são fortes indícios que induzem à comprovação dessa hipótese. 

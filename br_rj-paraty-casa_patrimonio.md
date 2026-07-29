@@ -1,19 +1,15 @@
 ---
-title: "Casa do patrimônio"
-author: "0009-0001-1800-4830"
+title: Casa do patrimônio
+author: 0009-0001-1800-4830
 date: 2022-09-26
 identifier:
-  - source: "Documentário de casas tradicionais"
-    refid : 94
-coverage:
-  spatial:
-    location:
-      lat    :
-      long   :
-      name   :
-        text:
-      city   : "Paraty"
-      state  : BR-RJ
-      country: "BR"
+- source: Documentário de casas tradicionais
+  refid: 94
+spatial:
+- type: site
+  term: BR-RJ
+  location:
+    lat: null
+    long: null
+  display: Paraty
 ---
-

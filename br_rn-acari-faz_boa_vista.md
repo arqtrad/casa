@@ -1,48 +1,39 @@
 ---
-title: "Fazenda Boa Vista"
+title: Fazenda Boa Vista
 date: 2024-05-02
-author: "0009-0006-7479-6365"
+author: 0009-0006-7479-6365
 bibliographicCitation:
-  citekey: "@feijo:2002arquitetura"
-  href   : "https://repositorio.ufrn.br/handle/123456789/48279"
-  text: >-
-    Feijó, Paulo Heider Forte.
-    <cite>«A arquitetura tradicional de Acari no século
-    <span style="font-variant:all-small-caps">XIX</span>:
-    estudo comparativo entre a casa-grande de fazenda e a casa
-    urbana».</cite>
-    Dissertação de Mestrado em Arquitetura e Urbanismo,
-    Universidade Federal do Rio Grande do Norte, 2002.
-    &lt;<a target="_blank"
-    href="https://repositorio.ufrn.br/handle/123456789/48279">
-    https://repositorio.ufrn.br/handle/123456789/48279.</a>&gt;
-coverage:
-  spatial:
-    location:
-      lat : -6.368960
-      long: -36.569206
-      zoom: 9
-      name: 
-        text: "Fazenda Boa Vista"
-        type: "corporate"
-      city: "Acari"
-      state: BR-RN
-      country: "BR"
-    extent:
-      - type: "area"
-        measurements: 92
-        unit: "m²"
-  temporal:
-    - type: "creation"
-      start_date:
-        year: 1857
-      qualifier: "c."
-      display_date: "c. 1857"
-      text:
-        headline: "Construção"
+- '@feijo:2002arquitetura'
 identifier:
-  - source: "Documentário de casas tradicionais"
-    refid : 6
+- source: Documentário de casas tradicionais
+  refid: 6
+spatial:
+- type: site
+  term: BR-RN
+  location:
+    lat: -6.36896
+    zoom: 9
+    lon: -36.569206
+  display: 'Fazenda Boa Vista
+
+    Acari'
+temporal:
+- type: creation
+  start_date:
+    year: 1857
+  qualifier: c.
+  display_date: c. 1857
+  text:
+    headline: Construção
+format:
+  extent:
+    measurements:
+    - type: http://terminology.lido-schema.org/lido00927
+      unit:
+        display: m²
+      extent: area
+      value: 92
+id: 6955JCJJ+C87
 ---
 
 A casa-grande da fazenda Boa Vista teve sua conclusão em 1857, segundo inscrição existente na parede da fachada lateral esquerda. Ao longo de sua existência sofreu modificações que são facilmente identificáveis através dos vestígios deixados. A mais recente sequer foi concluída. Trata-se de um acréscimo, contíguo à fachada lateral esquerda. Os atuais pilares do alpendre, em alvenaria, substituem os originais, que eram confeccionados em madeira.

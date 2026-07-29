@@ -1,45 +1,37 @@
 ---
-title: "Casa à rua São Francisco, 32"
-author: "0009-0006-7479-6365"     
+title: Casa à rua São Francisco, 32
+author: 0009-0006-7479-6365
 bibliographicCitation:
-  citekey: "@iphan:2010dossie1"
-  text: >
-    Iphan, Instituto do Patrimônio Histórico e Artistico Nacional.
-    <cite>Dossiê São Luiz do  Paraitinga</cite>.
-    Brasília: Iphan, 2010.
-    &lt;<a target="_blank"
-    href="https://casadopatrimoniovp.wordpress.com/wp-content/uploads/2014/09/dossie-sc3a3o-luiz-do-paraitinga-iphan.pdf">
-    https://casadopatrimoniovp.wordpress.com/wp-content/uploads/2014/09/dossie-sc3a3o-luiz-do-paraitinga-iphan.pdf
-    </a>&gt;.
-
-coverage:
-  spatial:
-    location:
-      lat : -12.925848
-      long: -38.494701
-      name:
-        text: |
-          rua São Francisco, 32
-      city: "Salvador"
-      state: BR-BA
-      country: "BR"
-      locationHistoric:
-        - "Travessa do Ximenes"
-    extent:
-      - type: "area"
-        measurements: 329
-        unit: "m²"
-  temporal:
-    - type: "creation"
-      text:
-        headline: "Construção"
-      start_date:
-        year: "1759"
-      qualifier: "c. "
-      display_date: "c. 1759"
+- '@iphan:2010dossie1'
 identifier:
-  - source: "Documentário de casas tradicionais"
-    refid : 50
+- source: Documentário de casas tradicionais
+  refid: 50
+spatial:
+- type: site
+  term: BR-BA
+  location:
+    lat: -12.925848
+    lon: -38.494701
+  display: 'rua São Francisco, 32'
+temporal:
+- type: creation
+  text:
+    headline: Construção
+  start_date:
+    year: '1759'
+  qualifier: 'c. '
+  display_date: c. 1759
+format:
+  extent:
+    measurements:
+    - type: http://terminology.lido-schema.org/lido00927
+      unit:
+        display: m²
+      extent: area
+      value: 329
+location_historic:
+- Travessa do Ximenes
+id: 59V33GF4+M47
 ---
 
 A casa situa-se próxima ao Centro Histórico e foi construída sobre um

@@ -1,46 +1,38 @@
 ---
-title: "Casa à rua Tomaz Araújo, 169"
+title: Casa à rua Tomaz Araújo, 169
 date: 2024-05-02
-author: "0009-0006-7479-6365"
+author: 0009-0006-7479-6365
 bibliographicCitation:
-  citekey: "@feijo:2002arquitetura"
-  href   : "https://repositorio.ufrn.br/handle/123456789/48279"
-  text: >-
-    Feijó, Paulo Heider Forte.
-    <cite>«A arquitetura tradicional de Acari no século
-    <span style="font-variant:all-small-caps">XIX</span>:
-    estudo comparativo entre a casa-grande de fazenda e a casa
-    urbana».</cite>
-    Dissertação de Mestrado em Arquitetura e Urbanismo,
-    Universidade Federal do Rio Grande do Norte, 2002.
-    &lt;<a target="_blank"
-    href="https://repositorio.ufrn.br/handle/123456789/48279">
-    https://repositorio.ufrn.br/handle/123456789/48279.</a>&gt;
-coverage:
-  spatial:
-    location:
-      lat : -6.438698
-      long: -36.640658
-      name: 
-        text: "rua Tomaz Araújo, 169"
-      city: "Acari"
-      state: BR-RN
-      country: "BR"
-    extent:
-      - type: "area"
-        measurements: 80
-        unit: "m²"
-  temporal:
-    - type: "creation"
-      start_date:
-        year: 1810
-      qualifier: "c."
-      display_date: "c. 1810"
-      text:
-        headline: "Construção"
+- '@feijo:2002arquitetura'
 identifier:
-  - source: "Documentário de casas tradicionais"
-    refid : 24
+- source: Documentário de casas tradicionais
+  refid: 24
+spatial:
+- type: site
+  term: BR-RN
+  location:
+    lat: -6.438698
+    lon: -36.640658
+  display: 'rua Tomaz Araújo, 169
+
+    Acari'
+temporal:
+- type: creation
+  start_date:
+    year: 1810
+  qualifier: c.
+  display_date: c. 1810
+  text:
+    headline: Construção
+format:
+  extent:
+    measurements:
+    - type: http://terminology.lido-schema.org/lido00927
+      unit:
+        display: m²
+      extent: area
+      value: 80
+id: 6955H965+GPG
 ---
 
 Essa é provavelmente uma das mais antigas dentre as casas analisadas nessa pesquisa. Há referências históricas de que, no trecho onde a mesma se existiam casas que teriam pertencido ao então presidente da província, Sr.Tomaz Araujo Pereira, casa que contava com alpendre na frente, decorrendo, daí, a denominação de rua dos alpendres, atualmente rua Tomaz Araújo. Esta pode ser uma delas. Pode-se confirmar sua antiguidade pela modesta altura e avantajada espessura da parede de sua fachada principal. É também peculiar a uma construção pretérita a composição de sua fachada, com uma porta e uma janela de vergas niveladas, dispostas nas extremidades da mesma.

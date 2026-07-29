@@ -1,48 +1,39 @@
 ---
-title: "Fazenda Cacimba do Meio"
+title: Fazenda Cacimba do Meio
 date: 2024-05-02
-author: "0009-0006-7479-6365"
+author: 0009-0006-7479-6365
 bibliographicCitation:
-  citekey: "@feijo:2002arquitetura"
-  href   : "https://repositorio.ufrn.br/handle/123456789/48279"
-  text: >-
-    Feijó, Paulo Heider Forte.
-    <cite>«A arquitetura tradicional de Acari no século
-    <span style="font-variant:all-small-caps">XIX</span>:
-    estudo comparativo entre a casa-grande de fazenda e a casa
-    urbana».</cite>
-    Dissertação de Mestrado em Arquitetura e Urbanismo,
-    Universidade Federal do Rio Grande do Norte, 2002.
-    &lt;<a target="_blank"
-    href="https://repositorio.ufrn.br/handle/123456789/48279">
-    https://repositorio.ufrn.br/handle/123456789/48279.</a>&gt;
-coverage:
-  spatial:
-    location:
-      lat : -6.368965
-      long: -36.569208
-      zoom: 9
-      name: 
-        text: "Fazenda Cacimba do Meio"
-        type: "corporate"
-      city: "Acari"
-      state: BR-RN
-      country: "BR"
-    extent:
-      - type: "area"
-        measurements: 155
-        unit: "m²"
-  temporal:
-    - type: "creation"
-      start_date:
-        year: 1855
-      qualifier: "c."
-      display_date: "c. 1855"
-      text:
-        headline: "Construção"
+- '@feijo:2002arquitetura'
 identifier:
-  - source: "Documentário de casas tradicionais"
-    refid : 7
+- source: Documentário de casas tradicionais
+  refid: 7
+spatial:
+- type: site
+  term: BR-RN
+  location:
+    lat: -6.368965
+    zoom: 9
+    lon: -36.569208
+  display: 'Fazenda Cacimba do Meio
+
+    Acari'
+temporal:
+- type: creation
+  start_date:
+    year: 1855
+  qualifier: c.
+  display_date: c. 1855
+  text:
+    headline: Construção
+format:
+  extent:
+    measurements:
+    - type: http://terminology.lido-schema.org/lido00927
+      unit:
+        display: m²
+      extent: area
+      value: 155
+id: 6955JCJJ+C87
 ---
 
 A casa-grande fazenda Cacimba do meio possui nas paredes, sequências de armadores testemunhando que a sala de jantar, além dos quartos, era utilizada como ambiente onde se dormia. Esses armadores eram feitos de mofumbo, madeira muito utilizada para esse fim. A porta principal é feita de cumaru, árvore nativa da região, que, pela fácil obtenção e durabilidade, teve emprego abundante na confecção de esquadrias e móveis em geral. Tem a carracterística de não ser atacada pelo cupim.

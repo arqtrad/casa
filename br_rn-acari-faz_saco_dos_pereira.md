@@ -1,48 +1,39 @@
 ---
-title: "Fazenda Saco dos Pereira"
+title: Fazenda Saco dos Pereira
 date: 2024-05-02
-author: "0009-0006-7479-6365"
+author: 0009-0006-7479-6365
 bibliographicCitation:
-  citekey: "@feijo:2002arquitetura"
-  href   : "https://repositorio.ufrn.br/handle/123456789/48279"
-  text: >-
-    Feijó, Paulo Heider Forte.
-    <cite>«A arquitetura tradicional de Acari no século
-    <span style="font-variant:all-small-caps">XIX</span>:
-    estudo comparativo entre a casa-grande de fazenda e a casa
-    urbana».</cite>
-    Dissertação de Mestrado em Arquitetura e Urbanismo,
-    Universidade Federal do Rio Grande do Norte, 2002.
-    &lt;<a target="_blank"
-    href="https://repositorio.ufrn.br/handle/123456789/48279">
-    https://repositorio.ufrn.br/handle/123456789/48279.</a>&gt;
-coverage:
-  spatial:
-    location:
-      lat : -6.420274
-      long: -36.613573
-      zoom: 9
-      name: 
-        text: "Fazenda Saco dos Pereira"
-        type: "corporate"
-      city: "Acari"
-      state: BR-RN
-      country: "BR"
-    extent:
-      - type: "area"
-        measurements: 140
-        unit: "m²"
-  temporal:
-    - type: "creation"
-      start_date:
-        year: 1850
-      qualifier: "c."
-      display_date: "c. 1850"
-      text:
-        headline: "Construção"
+- '@feijo:2002arquitetura'
 identifier:
-  - source: "Documentário de casas tradicionais"
-    refid : 15
+- source: Documentário de casas tradicionais
+  refid: 15
+spatial:
+- type: site
+  term: BR-RN
+  location:
+    lat: -6.420274
+    zoom: 9
+    lon: -36.613573
+  display: 'Fazenda Saco dos Pereira
+
+    Acari'
+temporal:
+- type: creation
+  start_date:
+    year: 1850
+  qualifier: c.
+  display_date: c. 1850
+  text:
+    headline: Construção
+format:
+  extent:
+    measurements:
+    - type: http://terminology.lido-schema.org/lido00927
+      unit:
+        display: m²
+      extent: area
+      value: 140
+id: 6955H9HP+VHV
 ---
 
 É uma das mais tradicionais casas de fazenda de Acari. Algumas modificações e acréscimos, que nela foram incorporados, são facilmente detectados. Uma delas foi substituição do alpendre com pilares de madeira por outro, mais profundo, com pilares em alvenaria de tijolos. Outras modificações detectadas são relativas à construção de anexos, contíguos à fachada lateral esquerda, colocação de uma parede dividindo a sala de jantar, criando um quarto e tomando a sala de jantar menor; transferência da porta do primeiro quarto que dava acesso à sala de visita para outra parede, dando acesso ao corredor; abertura e fechamento de portas; assim como a construção de um alpendre na face posterior da edificação, utilizando os pilares de madeira e demais materiais em condições de reaproveitamento, retirados do alpendre frontal original. 
