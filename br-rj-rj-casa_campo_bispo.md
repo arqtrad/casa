@@ -13,4 +13,3 @@ spatial:
       long: null
     display: Rio de Janeiro
 ---
-

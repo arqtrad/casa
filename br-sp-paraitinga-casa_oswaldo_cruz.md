@@ -58,4 +58,3 @@ Construção térrea com porão baixo é uma das mais antigas da cidade, em taip
 pilão e paredes internas em pau-a-pique. A estrutura da cobertura é em 
 tacaniça, com telhas de barro e forro de tábuas do tipo saia e camisa. Em 1992, 
 foi restaurada pela Secretaria de Estado da Cultura. [@iphan:2010dossie1]
-

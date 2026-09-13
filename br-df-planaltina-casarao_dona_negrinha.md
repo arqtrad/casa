@@ -27,4 +27,3 @@ temporal:
   text:
     headline: Demolição
 ---
-

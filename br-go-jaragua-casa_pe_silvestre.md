@@ -41,4 +41,3 @@ id: 58PG6MQ7+HRM
 nocite: >
   @silva:2022panorama
 ---
-

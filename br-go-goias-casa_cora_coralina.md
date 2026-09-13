@@ -61,4 +61,3 @@ id: 58PF3V95+3WM
 nocite: >
   @silva:2022panorama
 ---
-

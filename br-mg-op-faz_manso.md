@@ -21,4 +21,3 @@ spatial:
 nocite: |
   @vasconcellos:2011vila
 ---
-

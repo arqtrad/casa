@@ -46,4 +46,3 @@ A parte de serviço encontra-se bastante alterada, com cobertura de telhas do
 tipo francesa. No pátio, localizado nos fundos, o espaço foi reorganizado com 
 divisórias de alvenaria de tijolos. Atualmente o imóvel é ocupado pela 
 Prefeitura Municipal. [@iphan:2010dossie1]
-
