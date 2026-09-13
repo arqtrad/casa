@@ -8,14 +8,14 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 40
 spatial:
-- type: site
-  term: BR-TO
-  location:
-    lat: -11.706508
-    lon: -47.72589
-  display: 'praça da Matriz, 50
+  site:
+    term: BR-TO
+    location:
+      lat: -11.706508
+      lon: -47.72589
+    display: 'praça da Matriz, 50
 
-    Natividade'
+      Natividade'
 temporal:
 - type: creation
   start_date:

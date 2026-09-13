@@ -8,15 +8,15 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 10
 spatial:
-- type: site
-  term: BR-RN
-  location:
-    lat: -6.525442
-    zoom: 11
-    lon: -37.052143
-  display: 'Fazenda Carnaubinha
+  site:
+    term: BR-RN
+    location:
+      lat: -6.525442
+      zoom: 11
+      lon: -37.052143
+    display: 'Fazenda Carnaubinha
 
-    Acari'
+      Acari'
 temporal:
 - type: creation
   start_date:

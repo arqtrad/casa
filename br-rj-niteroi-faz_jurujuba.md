@@ -6,10 +6,10 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 93
 spatial:
-- type: site
-  term: BR-RJ
-  location:
-    lat: null
-    long: null
-  display: Niterói
+  site:
+    term: BR-RJ
+    location:
+      lat: null
+      long: null
+    display: Niterói
 ---

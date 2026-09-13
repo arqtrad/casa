@@ -6,10 +6,10 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 101
 spatial:
-- type: site
-  term: BR-SP
-  location:
-    lat: null
-    long: null
-  display: Cotia
+  site:
+    term: BR-SP
+    location:
+      lat: null
+      long: null
+    display: Cotia
 ---

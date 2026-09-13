@@ -11,15 +11,15 @@ identifier:
 bibliographicCitation:
 - '@silva:2022panorama'
 spatial:
-- type: site
-  term: BR-GO
-  location:
-    lat: -14.763306
-    alt: 733
-    lon: -49.579667
-  display: 'Rua da Matriz s/n
+  site:
+    term: BR-GO
+    location:
+      lat: -14.763306
+      alt: 733
+      lon: -49.579667
+    display: 'Rua da Matriz s/n
 
-    Pilar'
+      Pilar'
 temporal:
 - type: creation
   text:

@@ -6,10 +6,10 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 97
 spatial:
-- type: site
-  term: BR-RJ
-  location:
-    lat: null
-    long: null
-  display: Rio de Janeiro
+  site:
+    term: BR-RJ
+    location:
+      lat: null
+      long: null
+    display: Rio de Janeiro
 ---

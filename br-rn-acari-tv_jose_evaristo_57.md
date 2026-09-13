@@ -8,14 +8,14 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 28
 spatial:
-- type: site
-  term: BR-RN
-  location:
-    lat: -6.437754
-    lon: -36.63965
-  display: 'travessa José Evaristo, 57
+  site:
+    term: BR-RN
+    location:
+      lat: -6.437754
+      lon: -36.63965
+    display: 'travessa José Evaristo, 57
 
-    Acari'
+      Acari'
 temporal:
 - type: creation
   start_date:

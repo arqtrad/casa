@@ -6,10 +6,10 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 55
 spatial:
-- type: site
-  term: BR-BA
-  location:
-    lat: null
-    long: null
-  display: Cachoeira
+  site:
+    term: BR-BA
+    location:
+      lat: null
+      long: null
+    display: Cachoeira
 ---

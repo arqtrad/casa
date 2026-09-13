@@ -8,12 +8,12 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 46
 spatial:
-- type: site
-  term: BR-GO
-  location:
-    lat: -14.76634
-    lon: -49.57886
-  display: 'Rua Campo de lã'
+  site:
+    term: BR-GO
+    location:
+      lat: -14.76634
+      lon: -49.57886
+    display: 'Rua Campo de lã'
 temporal:
 - type: creation
   text:

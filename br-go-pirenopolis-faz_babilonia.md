@@ -25,16 +25,16 @@ contributor:
   type: personal
   role: owner
 spatial:
-- type: site
-  term: BR-GO
-  location:
-    lat: -16.019528
-    alt: 676
-    zoom: 10
-    lon: -49.08375
-  display: 'Rodovia GO–431, km 3
+  site:
+    term: BR-GO
+    location:
+      lat: -16.019528
+      alt: 676
+      zoom: 10
+      lon: -49.08375
+    display: 'Rodovia GO–431, km 3
 
-    Pirenópolis'
+      Pirenópolis'
 temporal:
 - type: creation
   text:

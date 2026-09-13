@@ -16,14 +16,14 @@ format:
       extent: area
       value: 210
 spatial:
-- type: site
-  term: BR-SP
-  location:
-    lat: -23.22206
-    lon: -45.310842
-  display: 'rua Barão de Paraitinga, 26
+  site:
+    term: BR-SP
+    location:
+      lat: -23.22206
+      lon: -45.310842
+    display: 'rua Barão de Paraitinga, 26
 
-    São Luiz do Paraitinga'
+      São Luiz do Paraitinga'
 temporal:
 - type: creation
   start_date:

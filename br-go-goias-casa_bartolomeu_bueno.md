@@ -19,15 +19,15 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 64
 spatial:
-- type: site
-  term: BR-GO
-  location:
-    lat: -15.930222
-    alt: 494
-    lon: -50.138583
-  display: 'rua Bartolomeu Bueno, 30
+  site:
+    term: BR-GO
+    location:
+      lat: -15.930222
+      alt: 494
+      lon: -50.138583
+    display: 'rua Bartolomeu Bueno, 30
 
-    Goiás'
+      Goiás'
 temporal:
 - type: creation
   text:

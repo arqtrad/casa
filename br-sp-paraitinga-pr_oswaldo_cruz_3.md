@@ -8,14 +8,14 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 33
 spatial:
-- type: site
-  term: BR-SP
-  location:
-    lat: -23.2219089
-    lon: -45.3114217
-  display: 'rua Oswaldo Cruz, 3
+  site:
+    term: BR-SP
+    location:
+      lat: -23.2219089
+      lon: -45.3114217
+    display: 'rua Oswaldo Cruz, 3
 
-    São Luiz do Paraitinga'
+      São Luiz do Paraitinga'
 temporal:
 - type: creation
   start_date:

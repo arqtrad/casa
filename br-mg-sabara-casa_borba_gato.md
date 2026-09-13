@@ -8,12 +8,12 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 1
 spatial:
-- type: site
-  term: BR-MG
-  location:
-    lat: -19.890484
-    lon: -43.809876
-  display: 'Rua Borba Gato, 71'
+  site:
+    term: BR-MG
+    location:
+      lat: -19.890484
+      lon: -43.809876
+    display: 'Rua Borba Gato, 71'
 temporal:
 - type: creation
   text:

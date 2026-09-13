@@ -8,14 +8,14 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 17
 spatial:
-- type: site
-  term: BR-RN
-  location:
-    lat: -6.436809
-    lon: -36.640718
-  display: 'rua Antônio Basília, 57
+  site:
+    term: BR-RN
+    location:
+      lat: -6.436809
+      lon: -36.640718
+    display: 'rua Antônio Basília, 57
 
-    Acari'
+      Acari'
 temporal:
 - type: creation
   start_date:

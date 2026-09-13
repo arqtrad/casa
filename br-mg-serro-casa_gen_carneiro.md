@@ -6,12 +6,12 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 90
 spatial:
-- type: site
-  term: BR-MG
-  location:
-    lat: null
-    long: null
-  display: Serro
+  site:
+    term: BR-MG
+    location:
+      lat: null
+      long: null
+    display: Serro
 location_historic:
 - Serro Frio
 ---

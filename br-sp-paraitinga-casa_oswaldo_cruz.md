@@ -20,14 +20,14 @@ identifier:
 - source: iPatrimônio
   href: https://www.ipatrimonio.org/sao-luiz-do-paraitinga-casa-de-oswaldo-cruz/
 spatial:
-- type: site
-  term: BR-SP
-  location:
-    lat: -23.223214
-    lon: -45.309295
-  display: 'Rua Oswaldo Cruz, 4
+  site:
+    term: BR-SP
+    location:
+      lat: -23.223214
+      lon: -45.309295
+    display: 'Rua Oswaldo Cruz, 4
 
-    São Luiz do Paraitinga'
+      São Luiz do Paraitinga'
 temporal:
 - type: creation
   start_date:

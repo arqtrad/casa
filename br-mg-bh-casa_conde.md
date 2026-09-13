@@ -6,10 +6,10 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 83
 spatial:
-- type: site
-  term: BR-MG
-  location:
-    lat: null
-    long: null
-  display: Belo Horizonte
+  site:
+    term: BR-MG
+    location:
+      lat: null
+      long: null
+    display: Belo Horizonte
 ---

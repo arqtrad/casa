@@ -11,15 +11,15 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 14
 spatial:
-- type: site
-  term: BR-RN
-  location:
-    lat: -6.49801
-    zoom: 9
-    lon: -36.661203
-  display: 'Fazenda Pitombeiras
+  site:
+    term: BR-RN
+    location:
+      lat: -6.49801
+      zoom: 9
+      lon: -36.661203
+    display: 'Fazenda Pitombeiras
 
-    Acari'
+      Acari'
 temporal:
 - type: creation
   start_date:

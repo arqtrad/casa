@@ -8,14 +8,14 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 19
 spatial:
-- type: site
-  term: BR-RN
-  location:
-    lat: -6.442255
-    lon: -36.639651
-  display: 'rua da Matriz, 87
+  site:
+    term: BR-RN
+    location:
+      lat: -6.442255
+      lon: -36.639651
+    display: 'rua da Matriz, 87
 
-    Acari'
+      Acari'
 temporal:
 - type: creation
   start_date:

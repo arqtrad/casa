@@ -6,10 +6,10 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 85
 spatial:
-- type: site
-  term: BR-MG
-  location:
-    lat: null
-    long: null
-  display: Diamantina
+  site:
+    term: BR-MG
+    location:
+      lat: null
+      long: null
+    display: Diamantina
 ---

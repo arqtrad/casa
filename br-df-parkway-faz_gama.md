@@ -6,10 +6,10 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 56
 spatial:
-- type: site
-  term: BR-DF
-  location:
-    lat: null
-    long: null
-  display: Brasília
+  site:
+    term: BR-DF
+    location:
+      lat: null
+      long: null
+    display: Brasília
 ---

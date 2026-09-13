@@ -8,12 +8,12 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 48
 spatial:
-- type: site
-  term: BR-GO
-  location:
-    lat: -14.766334
-    lon: -49.578897
-  display: 'Rua Padre Braz'
+  site:
+    term: BR-GO
+    location:
+      lat: -14.766334
+      lon: -49.578897
+    display: 'Rua Padre Braz'
 temporal:
 - type: creation
   text:

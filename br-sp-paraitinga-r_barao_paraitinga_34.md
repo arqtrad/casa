@@ -8,14 +8,14 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 34
 spatial:
-- type: site
-  term: BR-SP
-  location:
-    lat: -23.222236
-    lon: -45.311417
-  display: 'rua Barão de Paraitinga, 34
+  site:
+    term: BR-SP
+    location:
+      lat: -23.222236
+      lon: -45.311417
+    display: 'rua Barão de Paraitinga, 34
 
-    São Luiz do Paraitinga'
+      São Luiz do Paraitinga'
 temporal:
 - type: creation
   start_date:

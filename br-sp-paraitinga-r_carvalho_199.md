@@ -16,14 +16,14 @@ format:
       extent: area
       value: 55
 spatial:
-- type: site
-  term: BR-SP
-  location:
-    lat: -23.221091
-    lon: -45.309668
-  display: 'rua do Carvalho, 199
+  site:
+    term: BR-SP
+    location:
+      lat: -23.221091
+      lon: -45.309668
+    display: 'rua do Carvalho, 199
 
-    São Luiz do Paraitinga'
+      São Luiz do Paraitinga'
 temporal:
 - type: creation
   start_date:

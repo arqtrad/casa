@@ -8,14 +8,14 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 25
 spatial:
-- type: site
-  term: BR-RN
-  location:
-    lat: -6.438702
-    lon: -36.640798
-  display: 'rua Tomaz Araújo, 185
+  site:
+    term: BR-RN
+    location:
+      lat: -6.438702
+      lon: -36.640798
+    display: 'rua Tomaz Araújo, 185
 
-    Acari'
+      Acari'
 temporal:
 - type: creation
   start_date:

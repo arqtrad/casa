@@ -16,15 +16,15 @@ contributor:
   name: Barbara da Silva Moraes
   type: personal
 spatial:
-- type: site
-  term: BR-GO
-  location:
-    lat: -16.6645
-    alt: 731
-    lon: -49.294583
-  display: 'rua Morais Filho, 270
+  site:
+    term: BR-GO
+    location:
+      lat: -16.6645
+      alt: 731
+      lon: -49.294583
+    display: 'rua Morais Filho, 270
 
-    Campinas'
+      Campinas'
 temporal:
 - type: creation
   text:

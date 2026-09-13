@@ -8,12 +8,12 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 49
 spatial:
-- type: site
-  term: BR-GO
-  location:
-    lat: -14.794722
-    lon: -49.7983238
-  display: 'Rua Nova, 6'
+  site:
+    term: BR-GO
+    location:
+      lat: -14.794722
+      lon: -49.7983238
+    display: 'Rua Nova, 6'
 temporal:
 - type: creation
   text:

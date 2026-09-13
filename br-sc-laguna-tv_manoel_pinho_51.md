@@ -8,14 +8,14 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 3
 spatial:
-- type: site
-  term: BR-SC
-  location:
-    lat: -28.484654
-    lon: -48.7815707
-  display: 'travessa Manoel Pinho, 51
+  site:
+    term: BR-SC
+    location:
+      lat: -28.484654
+      lon: -48.7815707
+    display: 'travessa Manoel Pinho, 51
 
-    Laguna'
+      Laguna'
 temporal:
 - type: creation
   start_date:

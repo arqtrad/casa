@@ -8,14 +8,14 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 41
 spatial:
-- type: site
-  term: BR-TO
-  location:
-    lat: -11.709111
-    lon: -47.725182
-  display: 'rua Sete de Setembro, 86
+  site:
+    term: BR-TO
+    location:
+      lat: -11.709111
+      lon: -47.725182
+    display: 'rua Sete de Setembro, 86
 
-    Natividade'
+      Natividade'
 temporal:
 - type: creation
   start_date:

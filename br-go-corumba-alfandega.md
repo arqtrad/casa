@@ -6,10 +6,10 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 61
 spatial:
-- type: site
-  term: BR-GO
-  location:
-    lat: null
-    long: null
-  display: Corumbá
+  site:
+    term: BR-GO
+    location:
+      lat: null
+      long: null
+    display: Corumbá
 ---

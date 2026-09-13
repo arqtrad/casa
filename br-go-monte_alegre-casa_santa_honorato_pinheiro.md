@@ -6,10 +6,10 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 73
 spatial:
-- type: site
-  term: BR-GO
-  location:
-    lat: null
-    long: null
-  display: Monte Alegre
+  site:
+    term: BR-GO
+    location:
+      lat: null
+      long: null
+    display: Monte Alegre
 ---

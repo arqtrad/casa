@@ -10,14 +10,14 @@ identifier:
 - source: IPHAN processo de tombamento
   refid: 1122-T-8
 spatial:
-- type: site
-  term: BR-SC
-  location:
-    lat: -28.48415
-    lon: -48.779905
-  display: 'travessa Luiz Nery, 76
+  site:
+    term: BR-SC
+    location:
+      lat: -28.48415
+      lon: -48.779905
+    display: 'travessa Luiz Nery, 76
 
-    Laguna'
+      Laguna'
 temporal:
 - type: creation
   start_date:

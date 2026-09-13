@@ -22,15 +22,13 @@ contributor:
   name: Município de Corumbá
   type: corporate
 spatial:
-- type: site
-  term: BR-GO
-  location:
-    lat: -15.924944
-    alt: 962
-    lon: -48.807333
-  display: 'rua Félix Curado, 143
-
-    Corumbá'
+  site:
+    term: BR-GO
+    location:
+      lat: -15.924944
+      alt: 962
+      lon: -48.807333
+    display: 'rua Félix Curado, 143'
 temporal:
 - type: creation
   text:

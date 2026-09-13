@@ -8,15 +8,15 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 7
 spatial:
-- type: site
-  term: BR-RN
-  location:
-    lat: -6.368965
-    zoom: 9
-    lon: -36.569208
-  display: 'Fazenda Cacimba do Meio
+  site:
+    term: BR-RN
+    location:
+      lat: -6.368965
+      zoom: 9
+      lon: -36.569208
+    display: 'Fazenda Cacimba do Meio
 
-    Acari'
+      Acari'
 temporal:
 - type: creation
   start_date:

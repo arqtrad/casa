@@ -6,10 +6,10 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 66
 spatial:
-- type: site
-  term: BR-GO
-  location:
-    lat: null
-    long: null
-  display: Goiás
+  site:
+    term: BR-GO
+    location:
+      lat: null
+      long: null
+    display: Goiás
 ---

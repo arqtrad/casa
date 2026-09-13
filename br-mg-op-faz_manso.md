@@ -8,12 +8,12 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 89
 spatial:
-- type: site
-  term: BR-MG
-  location:
-    lat: null
-    long: null
-  display: Ouro Preto
+  site:
+    term: BR-MG
+    location:
+      lat: null
+      long: null
+    display: Ouro Preto
 ---
 
 ---

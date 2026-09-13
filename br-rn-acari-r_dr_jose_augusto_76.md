@@ -8,14 +8,14 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 23
 spatial:
-- type: site
-  term: BR-RN
-  location:
-    lat: -6.435045
-    lon: -36.640953
-  display: 'rua Dr. José Augusto, 76
+  site:
+    term: BR-RN
+    location:
+      lat: -6.435045
+      lon: -36.640953
+    display: 'rua Dr. José Augusto, 76
 
-    Acari'
+      Acari'
 temporal:
 - type: creation
   start_date:

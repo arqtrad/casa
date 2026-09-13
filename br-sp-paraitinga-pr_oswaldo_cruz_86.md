@@ -16,14 +16,14 @@ format:
       extent: area
       value: 210
 spatial:
-- type: site
-  term: BR-SP
-  location:
-    lat: -23.22206
-    lon: -45.310842
-  display: 'praça Oswaldo Cruz, 86
+  site:
+    term: BR-SP
+    location:
+      lat: -23.22206
+      lon: -45.310842
+    display: 'praça Oswaldo Cruz, 86
 
-    São Luiz do Paraitinga'
+      São Luiz do Paraitinga'
 temporal:
 - type: creation
   start_date:

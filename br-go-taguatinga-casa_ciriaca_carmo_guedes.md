@@ -6,10 +6,10 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 80
 spatial:
-- type: site
-  term: BR-GO
-  location:
-    lat: null
-    long: null
-  display: Taguatinga
+  site:
+    term: BR-GO
+    location:
+      lat: null
+      long: null
+    display: Taguatinga
 ---
