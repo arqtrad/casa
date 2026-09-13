@@ -28,7 +28,9 @@ spatial:
       lat: -15.924944
       alt: 962
       lon: -48.807333
-    display: 'rua Félix Curado, 143'
+    display: 'rua Félix Curado, 143
+
+    Corumbá'
 temporal:
 - type: creation
   text:

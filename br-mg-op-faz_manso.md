@@ -14,6 +14,7 @@ spatial:
       lat: null
       long: null
     display: Ouro Preto
+
 ---
 
 ---

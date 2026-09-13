@@ -12,6 +12,7 @@ identifier:
   refid: null
 - source: Documentário de casas tradicionais
   refid: 52
+spatial: null
 temporal:
 - type: creation
   start_date:

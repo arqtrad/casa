@@ -40,12 +40,11 @@ spatial:
       lat: -15.621636
       alt: 948.37
       lon: -47.661533
-    display: 'Av. Salvador Coelho, Quadra 57 Lote 141<br />
+    display: 'Av. Salvador Coelho, Quadra 57 Lote 141
 
-      Setor Tradicional<br />
+      Setor Tradicional
 
       73.330
-
 
       Planaltina'
 temporal:
