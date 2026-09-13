@@ -101,8 +101,4 @@ id: 58PJ98HQ+89W
 > profundas na cobertura, no interior e na fachada da edificação, tendo
 > sua obra embargada por não haver projeto aprovado junto à Administração
 > Regional. O casarão encontra-se atualmente desabitado e com a reforma
-<<<<<<< HEAD
 > aparentemente inconclusa. [@iphan:2012planaltina]
-=======
-> aparentemente inconclusa. [@iphan:2012planaltina]
->>>>>>> upstream/main
