@@ -6,10 +6,11 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 82
 spatial:
-- type: site
-  term: Maranhão
-  location:
-    lat: null
-    long: null
-  display: São Luís
+  site:
+    term: Maranhão
+    location:
+      lat: null
+      long: null
+    display: São Luís
 ---
+

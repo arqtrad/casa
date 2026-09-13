@@ -8,14 +8,14 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 44
 spatial:
-- type: site
-  term: BR-SC
-  location:
-    lat: -27.593316
-    lon: -48.547212
-  display: 'praça Getúlio Vargas, 66
+  site:
+    term: BR-SC
+    location:
+      lat: -27.593316
+      lon: -48.547212
+    display: 'praça Getúlio Vargas, 66
 
-    São Francisco do Sul'
+      São Francisco do Sul'
 temporal:
 - type: creation
   start_date:
@@ -38,3 +38,4 @@ id: 584HCF43+M4F
 ---
 nocite: "@iphan:2023casa-q0618"
 ---
+

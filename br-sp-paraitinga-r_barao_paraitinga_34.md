@@ -8,14 +8,14 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 34
 spatial:
-- type: site
-  term: BR-SP
-  location:
-    lat: -23.222236
-    lon: -45.311417
-  display: 'rua Barão de Paraitinga, 34
+  site:
+    term: BR-SP
+    location:
+      lat: -23.222236
+      lon: -45.311417
+    display: 'rua Barão de Paraitinga, 34
 
-    São Luiz do Paraitinga'
+      São Luiz do Paraitinga'
 temporal:
 - type: creation
   start_date:
@@ -35,4 +35,10 @@ format:
 id: 588PQMHQ+4C4
 ---
 
-As moradias térreas chamadas de “casas grandes”, geralmente atingiam três lanços de frontaria, como é o caso da residência sita à rua Barão de Paraitinga, n.34, quando menos, dois lanços e meio. E como já observou Luís Saia em relação à chamada “Casa de Osvaldo Cruz”, essas residências luizenses tinham a mesma proposição que os sobrados na organização do espaço interno. [@iphan:2010dossie1]
+As moradias térreas chamadas de “casas grandes”, geralmente atingiam três 
+lanços de frontaria, como é o caso da residência sita à rua Barão de 
+Paraitinga, n.34, quando menos, dois lanços e meio. E como já observou Luís 
+Saia em relação à chamada “Casa de Osvaldo Cruz”, essas residências luizenses 
+tinham a mesma proposição que os sobrados na organização do espaço interno. 
+[@iphan:2010dossie1]
+

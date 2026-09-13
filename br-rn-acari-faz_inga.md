@@ -8,15 +8,15 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 11
 spatial:
-- type: site
-  term: BR-RN
-  location:
-    lat: -6.479021
-    zoom: 9
-    lon: -36.627854
-  display: 'Fazenda Ingá
+  site:
+    term: BR-RN
+    location:
+      lat: -6.479021
+      zoom: 9
+      lon: -36.627854
+    display: 'Fazenda Ingá
 
-    Acari'
+      Acari'
 temporal:
 - type: creation
   start_date:

@@ -10,14 +10,14 @@ identifier:
 - source: IPHAN processo de tombamento
   refid: 1122-T-8
 spatial:
-- type: site
-  term: BR-SC
-  location:
-    lat: -28.48415
-    lon: -48.779905
-  display: 'travessa Luiz Nery, 76
+  site:
+    term: BR-SC
+    location:
+      lat: -28.48415
+      lon: -48.779905
+    display: 'travessa Luiz Nery, 76
 
-    Laguna'
+      Laguna'
 temporal:
 - type: creation
   start_date:
@@ -37,4 +37,7 @@ format:
 id: 583HG68C+82X
 ---
 
-Imóvel está inserido na poligonal de tombamento do Centro Histórico de Laguna. Tombado pelo Iphan desde 1985 por seu valor Histórico e paisagístico (Processo Nº 1122-T—8). [@iphan:2023casa-nery76]
+Imóvel está inserido na poligonal de tombamento do Centro Histórico de Laguna. 
+Tombado pelo Iphan desde 1985 por seu valor Histórico e paisagístico (Processo 
+Nº 1122-T—8). [@iphan:2023casa-nery76]
+

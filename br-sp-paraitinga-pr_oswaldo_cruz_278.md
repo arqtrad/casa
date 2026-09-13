@@ -8,14 +8,14 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 35
 spatial:
-- type: site
-  term: BR-SP
-  location:
-    lat: -23.221705
-    lon: -45.310726
-  display: 'praça Oswaldo Cruz, 278
+  site:
+    term: BR-SP
+    location:
+      lat: -23.221705
+      lon: -45.310726
+    display: 'praça Oswaldo Cruz, 278
 
-    São Luiz do Paraitinga'
+      São Luiz do Paraitinga'
 temporal:
 - type: creation
   start_date:
@@ -38,3 +38,4 @@ id: 588PQMHQ+8P6
 ---
 nocite: "@iphan:2010dossie1"
 ---
+

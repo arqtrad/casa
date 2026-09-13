@@ -14,14 +14,14 @@ identifier:
 - source: iPatrimonio
   href: https://www.ipatrimonio.org/urussanga-casa-de-ivanir-cancelier/
 spatial:
-- type: site
-  term: BR-SC
-  location:
-    lat: -28.460075
-    lon: -49.312203
-  display: 'rodovia Anes Gualberto (SC–446), km 12
+  site:
+    term: BR-SC
+    location:
+      lat: -28.460075
+      lon: -49.312203
+    display: 'rodovia Anes Gualberto (SC–446), km 12
 
-    Rio Maior'
+      Rio Maior'
 temporal:
 - type: creation
   start_date:

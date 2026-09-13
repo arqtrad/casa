@@ -6,10 +6,11 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 58
 spatial:
-- type: site
-  term: BR-GO
-  location:
-    lat: null
-    long: null
-  display: Arraias
+  site:
+    term: BR-GO
+    location:
+      lat: null
+      long: null
+    display: Arraias
 ---
+

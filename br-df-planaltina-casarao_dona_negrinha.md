@@ -8,12 +8,12 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 57
 spatial:
-- type: site
-  term: BR-DF
-  location:
-    lat: null
-    long: null
-  display: Planaltina
+  site:
+    term: BR-DF
+    location:
+      lat: null
+      long: null
+    display: Planaltina
 temporal:
 - type: creation
   start_date:
@@ -27,3 +27,4 @@ temporal:
   text:
     headline: Demolição
 ---
+

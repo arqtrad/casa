@@ -6,10 +6,11 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 99
 spatial:
-- type: site
-  term: BR-RS
-  location:
-    lat: null
-    long: null
-  display: Pelotas
+  site:
+    term: BR-RS
+    location:
+      lat: null
+      long: null
+    display: Pelotas
 ---
+

@@ -8,14 +8,14 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 39
 spatial:
-- type: site
-  term: BR-TO
-  location:
-    lat: -11.706504
-    lon: -47.725884
-  display: 'rua Coronel Deocleciano Nunesl, 78
+  site:
+    term: BR-TO
+    location:
+      lat: -11.706504
+      lon: -47.725884
+    display: 'rua Coronel Deocleciano Nunesl, 78
 
-    Natividade'
+      Natividade'
 temporal:
 - type: creation
   start_date:

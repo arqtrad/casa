@@ -6,10 +6,11 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 100
 spatial:
-- type: site
-  term: BR-SE
-  location:
-    lat: null
-    long: null
-  display: São Cristóvão
+  site:
+    term: BR-SE
+    location:
+      lat: null
+      long: null
+    display: São Cristóvão
 ---
+

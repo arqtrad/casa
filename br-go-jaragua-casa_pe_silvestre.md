@@ -17,15 +17,15 @@ contributor:
   role: commission
   type: personal
 spatial:
-- type: site
-  term: BR-GO
-  location:
-    lat: -15.761028
-    alt: 656
-    lon: -49.335444
-  display: 'rua Vigário Álvares da Silva, 63
+  site:
+    term: BR-GO
+    location:
+      lat: -15.761028
+      alt: 656
+      lon: -49.335444
+    display: 'rua Vigário Álvares da Silva, 63
 
-    Jaraguá'
+      Jaraguá'
 temporal:
 - type: creation
   text:
@@ -41,3 +41,4 @@ id: 58PG6MQ7+HRM
 nocite: >
   @silva:2022panorama
 ---
+

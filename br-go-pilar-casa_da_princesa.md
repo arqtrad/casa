@@ -6,10 +6,11 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 74
 spatial:
-- type: site
-  term: BR-GO
-  location:
-    lat: null
-    long: null
-  display: Pilar
+  site:
+    term: BR-GO
+    location:
+      lat: null
+      long: null
+    display: Pilar
 ---
+

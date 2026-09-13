@@ -8,15 +8,15 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 13
 spatial:
-- type: site
-  term: BR-RN
-  location:
-    lat: -6.44408
-    zoom: 9
-    lon: -36.640751
-  display: 'Fazenda Maracujá
+  site:
+    term: BR-RN
+    location:
+      lat: -6.44408
+      zoom: 9
+      lon: -36.640751
+    display: 'Fazenda Maracujá
 
-    Acari'
+      Acari'
 temporal:
 - type: creation
   start_date:

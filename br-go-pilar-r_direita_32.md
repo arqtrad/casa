@@ -8,12 +8,12 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 47
 spatial:
-- type: site
-  term: BR-GO
-  location:
-    lat: -14.766324
-    lon: -49.578872
-  display: 'Rua Direita (Praça das Mães), 32'
+  site:
+    term: BR-GO
+    location:
+      lat: -14.766324
+      lon: -49.578872
+    display: 'Rua Direita (Praça das Mães), 32'
 temporal:
 - type: creation
   text:

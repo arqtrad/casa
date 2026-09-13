@@ -1,13 +1,8 @@
 lang: "pt"
-workType:
-  - type: 'uri'
-    concept: "http://terminology.lido-schema.org/lido00767"
-    refid: "https://vocab.getty.edu/aat/300451032"
-titleType: "descriptive"
+title_type: "descriptive"
 classification:
   - concept: "http://terminology.lido-schema.org/lido00853"
     refid: "https://vocab.getty.edu/aat/300451032"
-titleType: "https://vocab.getty.edu/aat/300417199"
 tags:
   - "casa"
   - "edifício"

@@ -6,10 +6,11 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 94
 spatial:
-- type: site
-  term: BR-RJ
-  location:
-    lat: null
-    long: null
-  display: Paraty
+  site:
+    term: BR-RJ
+    location:
+      lat: null
+      long: null
+    display: Paraty
 ---
+

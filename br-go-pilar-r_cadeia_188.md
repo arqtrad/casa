@@ -8,12 +8,12 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 45
 spatial:
-- type: site
-  term: BR-GO
-  location:
-    lat: -14.766327
-    lon: -49.578857
-  display: 'Rua da Cadeia, 188'
+  site:
+    term: BR-GO
+    location:
+      lat: -14.766327
+      lon: -49.578857
+    display: 'Rua da Cadeia, 188'
 temporal:
 - type: creation
   text:

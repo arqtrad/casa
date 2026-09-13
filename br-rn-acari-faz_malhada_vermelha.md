@@ -8,15 +8,15 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 12
 spatial:
-- type: site
-  term: BR-RN
-  location:
-    lat: -7.183696
-    zoom: 9
-    lon: -42.021646
-  display: 'Fazenda Malhada Vermelha
+  site:
+    term: BR-RN
+    location:
+      lat: -7.183696
+      zoom: 9
+      lon: -42.021646
+    display: 'Fazenda Malhada Vermelha
 
-    Acari'
+      Acari'
 temporal:
 - type: creation
   start_date:

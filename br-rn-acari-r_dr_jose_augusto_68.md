@@ -8,14 +8,14 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 22
 spatial:
-- type: site
-  term: BR-RN
-  location:
-    lat: -6.438285
-    lon: -36.638584
-  display: 'rua Dr. José Augusto, 68
+  site:
+    term: BR-RN
+    location:
+      lat: -6.438285
+      lon: -36.638584
+    display: 'rua Dr. José Augusto, 68
 
-    Acari'
+      Acari'
 temporal:
 - type: creation
   start_date:

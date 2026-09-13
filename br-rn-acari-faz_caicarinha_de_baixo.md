@@ -8,15 +8,15 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 9
 spatial:
-- type: site
-  term: BR-RN
-  location:
-    lat: -6.429678
-    zoom: 9
-    lon: -36.64182
-  display: 'Fazenda Caiçarinha de baixo
+  site:
+    term: BR-RN
+    location:
+      lat: -6.429678
+      zoom: 9
+      lon: -36.64182
+    display: 'Fazenda Caiçarinha de baixo
 
-    Acari'
+      Acari'
 temporal:
 - type: creation
   start_date:

@@ -8,14 +8,14 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 42
 spatial:
-- type: site
-  term: BR-TO
-  location:
-    lat: -11.70911
-    lon: -47.725175
-  display: 'rua Rafael Xavier, s/n
+  site:
+    term: BR-TO
+    location:
+      lat: -11.70911
+      lon: -47.725175
+    display: 'rua Rafael Xavier, s/n
 
-    Natividade'
+      Natividade'
 temporal:
 - type: creation
   text:
@@ -37,3 +37,4 @@ id: 58WJ77RF+9W4
 ---
 nocite: "@iphan:2023casas-centro"
 ---
+

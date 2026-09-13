@@ -32,15 +32,15 @@ contributor:
   name: Município de Jataí
   type: corporate
 spatial:
-- type: site
-  term: BR-GO
-  location:
-    lat: -17.884194
-    alt: 687
-    lon: -51.711944
-  display: 'rua José Manuel Villela, 286
+  site:
+    term: BR-GO
+    location:
+      lat: -17.884194
+      alt: 687
+      lon: -51.711944
+    display: 'rua José Manuel Villela, 286
 
-    Jataí'
+      Jataí'
 temporal:
 - type: creation
   text:

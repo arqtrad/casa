@@ -22,15 +22,15 @@ contributor:
   name: Museu Pompeu de Pina
   type: corporate
 spatial:
-- type: site
-  term: BR-GO
-  location:
-    lat: -15.853444
-    alt: 777
-    lon: -48.961583
-  display: 'rua Nova, 29
+  site:
+    term: BR-GO
+    location:
+      lat: -15.853444
+      alt: 777
+      lon: -48.961583
+    display: 'rua Nova, 29
 
-    Pirenópolis'
+      Pirenópolis'
 temporal:
 - type: creation
   text:
@@ -48,3 +48,4 @@ id: 58PH42WQ+J9F
 nocite: >
   @silva:2022panorama
 ---
+

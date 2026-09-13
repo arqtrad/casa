@@ -34,20 +34,19 @@ log:
   text: Inclui campos para bases documentais
   name: Pedro Palazzo
 spatial:
-- type: site
-  term: BR-DF
-  location:
-    lat: -15.621636
-    alt: 948.37
-    lon: -47.661533
-  display: 'Av. Salvador Coelho, Quadra 57 Lote 141<br />
+  site:
+    term: BR-DF
+    location:
+      lat: -15.621636
+      alt: 948.37
+      lon: -47.661533
+    display: 'Av. Salvador Coelho, Quadra 57 Lote 141
 
-    Setor Tradicional<br />
+      Setor Tradicional
 
-    73.330
+      73.330
 
-
-    Planaltina'
+      Planaltina'
 temporal:
 - type: creation
   text:
@@ -102,4 +101,8 @@ id: 58PJ98HQ+89W
 > profundas na cobertura, no interior e na fachada da edificação, tendo
 > sua obra embargada por não haver projeto aprovado junto à Administração
 > Regional. O casarão encontra-se atualmente desabitado e com a reforma
+<<<<<<< HEAD
 > aparentemente inconclusa. [@iphan:2012planaltina]
+=======
+> aparentemente inconclusa. [@iphan:2012planaltina]
+>>>>>>> upstream/main

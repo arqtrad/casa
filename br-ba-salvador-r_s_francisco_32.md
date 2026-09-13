@@ -7,12 +7,12 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 50
 spatial:
-- type: site
-  term: BR-BA
-  location:
-    lat: -12.925848
-    lon: -38.494701
-  display: 'rua São Francisco, 32'
+  site:
+    term: BR-BA
+    location:
+      lat: -12.925848
+      lon: -38.494701
+    display: 'rua São Francisco, 32'
 temporal:
 - type: creation
   text:

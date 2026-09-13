@@ -16,14 +16,14 @@ format:
       extent: area
       value: 210
 spatial:
-- type: site
-  term: BR-SP
-  location:
-    lat: -23.22206
-    lon: -45.310842
-  display: 'rua Barão de Paraitinga, 4
+  site:
+    term: BR-SP
+    location:
+      lat: -23.22206
+      lon: -45.310842
+    display: 'rua Barão de Paraitinga, 4
 
-    São Luiz do Paraitinga'
+      São Luiz do Paraitinga'
 temporal:
 - type: creation
   start_date:
@@ -35,6 +35,13 @@ temporal:
 id: 588PQMHQ+5MF
 ---
 
-Os três sobrados geminados, dois deles ainda na Rua Barão de Paraitinga, e o terceiro já fazendo frente para a Praça Osvaldo Cruz, que substituíram velhas casas no início da década de 1870. Neles se verifica de forma resumida o partido aqui descrito, quiçá pelo minguado da frontaria, apresentando.
-
-uma organização do espaço interno, no pavimento superior, perfeitamente enquadrada nessa fórmula: pelo caixão da escada estão separadas duas alcovas que ficam no miolo da construção, ladeadas pelo corredor e um compartimento que se abre para as duas salas, anterior e posterior. Nos fundos, as áreas de serviço, também geminadas, ocupam apenas uma parte da frontaria disponível. As variantes deste esquema resumido são realmente poucas. [@iphan:2010dossie1]
+Os três sobrados geminados, dois deles ainda na Rua Barão de Paraitinga, e o 
+terceiro já fazendo frente para a Praça Osvaldo Cruz, que substituíram velhas 
+casas no início da década de 1870. Neles se verifica de forma resumida o 
+partido aqui descrito, quiçá pelo minguado da frontaria, apresentando
+uma organização do espaço interno, no pavimento superior, perfeitamente 
+enquadrada nessa fórmula: pelo caixão da escada estão separadas duas alcovas 
+que ficam no miolo da construção, ladeadas pelo corredor e um compartimento que 
+se abre para as duas salas, anterior e posterior. Nos fundos, as áreas de 
+serviço, também geminadas, ocupam apenas uma parte da frontaria disponível. As 
+variantes deste esquema resumido são realmente poucas. [@iphan:2010dossie1]

@@ -8,14 +8,14 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 43
 spatial:
-- type: site
-  term: BR-TO
-  location:
-    lat: -11.709145
-    lon: -47.72518
-  display: 'rua Major Julio Nunes
+  site:
+    term: BR-TO
+    location:
+      lat: -11.709145
+      lon: -47.72518
+    display: 'rua Major Julio Nunes
 
-    Natividade'
+      Natividade'
 temporal:
 - type: creation
   start_date:
@@ -38,3 +38,4 @@ id: 58WJ77RF+8WW
 ---
 nocite: "@iphan:2023casas-centro"
 ---
+

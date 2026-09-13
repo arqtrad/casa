@@ -8,15 +8,15 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 16
 spatial:
-- type: site
-  term: BR-RN
-  location:
-    lat: -6.22585
-    zoom: 9
-    lon: -36.34021
-  display: 'Fazenda Sobradinho
+  site:
+    term: BR-RN
+    location:
+      lat: -6.22585
+      zoom: 9
+      lon: -36.34021
+    display: 'Fazenda Sobradinho
 
-    Acari'
+      Acari'
 temporal:
 - type: creation
   start_date:

@@ -8,15 +8,15 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 6
 spatial:
-- type: site
-  term: BR-RN
-  location:
-    lat: -6.36896
-    zoom: 9
-    lon: -36.569206
-  display: 'Fazenda Boa Vista
+  site:
+    term: BR-RN
+    location:
+      lat: -6.36896
+      zoom: 9
+      lon: -36.569206
+    display: 'Fazenda Boa Vista
 
-    Acari'
+      Acari'
 temporal:
 - type: creation
   start_date:

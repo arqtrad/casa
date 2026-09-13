@@ -8,15 +8,15 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 5
 spatial:
-- type: site
-  term: BR-RN
-  location:
-    lat: -6.375379
-    zoom: 9
-    lon: -36.569374
-  display: 'Fazenda Acauã
+  site:
+    term: BR-RN
+    location:
+      lat: -6.375379
+      zoom: 9
+      lon: -36.569374
+    display: 'Fazenda Acauã
 
-    Acari'
+      Acari'
 temporal:
 - type: creation
   start_date:

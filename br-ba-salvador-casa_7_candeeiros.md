@@ -48,37 +48,36 @@ format:
       extent: area
       value: 329
 spatial:
-- type: site
-  term:
-    type: 'local'
-    refid: 'lugar/59V32FHX+7HV'
-    display: 'Salvador, Bahia, Brasil'
-  location:
-    lat: -12.975915665500011
-    lon: -38.511749804
-    alt: 51
+  site:
+    term:
+      type: 'local'
+      refid: 'lugar/59V32FHX+7HV'
+      display: 'Salvador, Bahia, Brasil'
+    location:
+      lat: -12.975915665500011
+      lon: -38.511749804
+      alt: 51
+      source:
+        text: SICG Iphan
+        refid: BA-2927408-BI-ED-00020
+        href: https://sicg.iphan.gov.br/sicg/bem/visualizar/159
+    display: 'rua de São Francisco 3
+
+      rua visconde de Itaparica 8
+
+      Barroquinha'
+    extent:
+      type: Polygon
+      coordinates: '[[[-38.511918957601786, -12.97585704459446], [-38.511686265978774,
+        -12.975744934079126], [-38.51162138913221, -12.975882332673637], [-38.51185494577983,
+        -12.975984327900218], [-38.511918957601786, -12.97585704459446]]]'
+    srsName:
+      type: uri
+      display: EPSG:4326 WGS84
+      refid: http://www.opengis.net/def/crs/EPSG/0/4326
     source:
-      text: SICG Iphan
-      refid: BA-2927408-BI-ED-00020
-      href: https://sicg.iphan.gov.br/sicg/bem/visualizar/159
-  display: 'rua de São Francisco 3
-
-    rua visconde de Itaparica 8
-
-    Barroquinha'
-- type: site
-  extent:
-    type: Polygon
-    coordinates: '[[[-38.511918957601786, -12.97585704459446], [-38.511686265978774,
-      -12.975744934079126], [-38.51162138913221, -12.975882332673637], [-38.51185494577983,
-      -12.975984327900218], [-38.511918957601786, -12.97585704459446]]]'
-  srsName:
-    type: uri
-    display: EPSG:4326 WGS84
-    refid: http://www.opengis.net/def/crs/EPSG/0/4326
-  source:
-    display: QGIS OpenStreetMap
-    type: corporate
+      display: QGIS OpenStreetMap
+      type: corporate
 temporal:
 - type: creation
   text:

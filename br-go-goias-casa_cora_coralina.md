@@ -20,15 +20,15 @@ contributor:
   type: personal
   role: owner
 spatial:
-- type: site
-  term: BR-GO
-  location:
-    lat: -15.932278
-    alt: 490
-    lon: -50.140194
-  display: 'rua D. Cândido, 22
+  site:
+    term: BR-GO
+    location:
+      lat: -15.932278
+      alt: 490
+      lon: -50.140194
+    display: 'rua D. Cândido, 22
 
-    Goiás'
+      Goiás'
 temporal:
 - type: creation
   text:
@@ -61,3 +61,4 @@ id: 58PF3V95+3WM
 nocite: >
   @silva:2022panorama
 ---
+

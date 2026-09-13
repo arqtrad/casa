@@ -23,15 +23,15 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 63
 spatial:
-- type: site
-  term: BR-GO
-  location:
-    lat: -15.929556
-    alt: 497
-    lon: -50.138361
-  display: 'rua da Carioca, s/n
+  site:
+    term: BR-GO
+    location:
+      lat: -15.929556
+      alt: 497
+      lon: -50.138361
+    display: 'rua da Carioca, s/n
 
-    Goiás'
+      Goiás'
 temporal:
 - type: creation
   text:
@@ -68,3 +68,4 @@ id: 58PF3VC6+5MC
 nocite: >
   @silva:2022panorama
 ---
+

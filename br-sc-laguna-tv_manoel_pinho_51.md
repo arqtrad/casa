@@ -8,14 +8,14 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 3
 spatial:
-- type: site
-  term: BR-SC
-  location:
-    lat: -28.484654
-    lon: -48.7815707
-  display: 'travessa Manoel Pinho, 51
+  site:
+    term: BR-SC
+    location:
+      lat: -28.484654
+      lon: -48.7815707
+    display: 'travessa Manoel Pinho, 51
 
-    Laguna'
+      Laguna'
 temporal:
 - type: creation
   start_date:
@@ -35,5 +35,7 @@ format:
 id: 583HG689+49M
 ---
 
-Imóvel está inserido na poligonal de tombamento do Centro Histórico de Laguna, tombado pelo Iphan desde 1985 por seu valor histórico e paisagístico 
-(Processo Nº 1122-T—8). [@iphan:2023casa-pinho51]
+Imóvel está inserido na poligonal de tombamento do Centro Histórico de Laguna, 
+tombado pelo Iphan desde 1985 por seu valor histórico e paisagístico (Processo 
+Nº 1122-T—8). [@iphan:2023casa-pinho51]
+

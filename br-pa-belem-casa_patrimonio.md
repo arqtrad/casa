@@ -6,10 +6,11 @@ identifier:
 - source: Documentário de casas tradicionais
   refid: 91
 spatial:
-- type: site
-  term: Pará
-  location:
-    lat: null
-    long: null
-  display: Belém
+  site:
+    term: Pará
+    location:
+      lat: null
+      long: null
+    display: Belém
 ---
+
