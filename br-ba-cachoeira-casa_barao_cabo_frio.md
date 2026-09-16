@@ -7,10 +7,18 @@ identifier:
   refid: 54
 spatial:
   site:
-    term: BR-BA
+    term:
+      type: 'local'
+      refid: 'lugar/59V3C22M+4QR'
+    display: 'Cachoeira, Bahia, Brasil'
     location:
-      lat: null
-      long: null
-    display: Cachoeira
+      lat: -12.6052026
+      lon: -38.9622054
+      alt: null
+      source:
+        text: SICG Iphan
+        refid: BA2904902BIED00003
+        href: https://sicg.iphan.gov.br/sicg/bem/visualizar/13#&amp;panel1-2
+      display: 'Rua Ana Néri (Rua Benjamin Constant, 2)'
 ---
 
