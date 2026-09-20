@@ -12,8 +12,6 @@ header:
   caption: "Foto por <a href=\"https://commons.wikimedia.org/wiki/File:Casa_dos_Sete_Candeeiros_Salvador_2018-1334.jpg\">\n
     \ Paul R. Burley, 2018\n</a>\n"
 identifier:
-- source: UBID
-  refid: 59V32FFQ+M75-5-5-5-5
 - source: SICG Iphan
   refid: BA-2927408-BI-ED-00020
   href: https://sicg.iphan.gov.br/sicg/bem/visualizar/159
@@ -47,7 +45,7 @@ format:
       value: 329
 spatial:
   site:
-    term:
+    name:
       type: 'local'
       refid: 'lugar/59V32FHX+7HV'
       display: 'Salvador, Bahia, Brasil'
@@ -69,7 +67,7 @@ spatial:
       coordinates: '[[[-38.511918957601786, -12.97585704459446], [-38.511686265978774,
         -12.975744934079126], [-38.51162138913221, -12.975882332673637], [-38.51185494577983,
         -12.975984327900218], [-38.511918957601786, -12.97585704459446]]]'
-    srsName:
+    srs_name:
       type: uri
       display: EPSG:4326 WGS84
       refid: http://www.opengis.net/def/crs/EPSG/0/4326
