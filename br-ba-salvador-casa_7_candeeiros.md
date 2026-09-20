@@ -5,11 +5,9 @@ id: 59V32FFQ+J8J
 author: 0009-0006-7479-6365
 date: 2024-02-11
 excerpt: 'Casa senhorial urbana da segunda metade do século <span style="font-variant:all-small-caps">XVII</span>
-  com cantaria de lioz e silhares azulejados.
-
-  '
+  com cantaria de lioz e silhares azulejados.'
 header:
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Casa_dos_Sete_Candeeiros_Salvador_2018-1334.jpg/2560px-Casa_dos_Sete_Candeeiros_Salvador_2018-1334.jpg
+  overlay_image: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Casa_dos_Sete_Candeeiros_Salvador_2018-1334.jpg/3840px-Casa_dos_Sete_Candeeiros_Salvador_2018-1334.jpg
   teaser: https://hpip.org/images/hpip/heritage/1161/Casa_dos_Sete_Candeeiros.jpg
   caption: "Foto por <a href=\"https://commons.wikimedia.org/wiki/File:Casa_dos_Sete_Candeeiros_Salvador_2018-1334.jpg\">\n
     \ Paul R. Burley, 2018\n</a>\n"
