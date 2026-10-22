@@ -124,6 +124,103 @@ temporal:
       Nacional, 2010: 24--25.'
 location_historic:
 - Travessa do Ximenes
+resource:
+  - id:
+      type: "local"
+      refid: "br-ba-salvador-casa_sete_candeeiros/BR-BA-SALVADOR-CASA_SETE_CANDEEIROS-ARQTRAD-LVE-TER-DA-200"
+    type:
+      type: "uri"
+      refid: "http://vocab.getty.edu/aat/300266190"
+      display: "Planta Baixa"
+    rel_type: "planFor"
+    description: "Desenho técnico contendo a Planta Baixa do Térreo da Casa Sete Candeeiros"
+    perspective: 1
+    measurements:
+      unit:
+        display: "mm"
+    date: 2025-03-05
+    source:
+      - type: "corporate"
+        name:
+          type: "uri"
+          refid: "https://tradicional.arq.br"
+          display: "Documentário da arquitetura tradicional"
+    citation: 
+    - refid: "@iphan:2010casas"
+      note: "p. 25"
+    credit: "https://orcid.org/0009-0006-7479-6365"
+  - id:
+      type: "local"
+      refid: "br-ba-salvador-casa_sete_candeeiros/BR-BA-SALVADOR-CASA_SETE_CANDEEIROS-ARQTRAD-LVE-P01-DA-200"
+    type:
+      type: "uri"
+      refid: "http://vocab.getty.edu/aat/300266190"
+      display: "Planta Baixa"
+    rel_type: "planFor"
+    description: "Desenho técnico contendo a Planta Baixa do Primeiro Pavimento da Casa Sete Candeeiros"
+    perspective: 1
+    measurements:
+      unit:
+        display: "mm"
+    date: 2025-03-05
+    source:
+      - type: "corporate"
+        name:
+          type: "uri"
+          refid: "https://tradicional.arq.br"
+          display: "Documentário da arquitetura tradicional"
+    citation:
+    - refid: "@iphan:2010casas"
+      note: "p. 25"
+    credit: "https://orcid.org/0009-0006-7479-6365"
+  - id:
+      type: "local"
+      refid: "br-ba-salvador-casa_sete_candeeiros/BR-BA-SALVADOR-CASA_SETE_CANDEEIROS-ARQTRAD-LVE-F01-DA-200"
+    type:
+      type: "uri"
+      refid: "https://vocab.getty.edu/aat/300034065"
+      display: "Fachada"
+    rel_type: "planFor"
+    description: "Desenho técnico contendo Elevação da Casa Sete Candeeiros"
+    perspective: 2
+    measurements:
+      unit:
+        display: "mm"
+    date: 2025-03-05
+    source:
+      - type: "corporate"
+        name:
+          type: "uri"
+          refid: "https://tradicional.arq.br"
+          display: "Documentário da arquitetura tradicional"
+    citation:
+    - refid: "@iphan:2010casas"
+      note: "p. 25"
+    credit: "https://orcid.org/0009-0006-7479-6365"
+  - id:
+      type: "local"
+      refid: "br-ba-salvador-casa_sete_candeeiros/BR-BA-SALVADOR-CASA_SETE_CANDEEIROS-ARQTRAD-LVE-C01-DA-200"
+    type:
+      type: "uri"
+      refid: "https://vocab.getty.edu/aat/300034223"
+      display: "Corte Longitudinal"
+    rel_type: "planFor"
+    description: "Desenho técnico contendo Corte Longitudinal da Casa Sete Candeeiros"
+    perspective: 3
+    measurements:
+      unit:
+        display: "mm"
+    date: 2025-03-05
+    source:
+      - type: "corporate"
+        name:
+          type: "uri"
+          refid: "https://tradicional.arq.br"
+          display: "Documentário da arquitetura tradicional"
+    citation:
+    - refid: "@iphan:2010casas"
+      note: "p. 25"
+    credit: "https://orcid.org/0009-0006-7479-6365"
 ---
 
 <figure>
