@@ -16,6 +16,14 @@ spatial:
         name:
           refid: 'https://sicg.iphan.gov.br/sicg/bem/visualizar/13'
           display: 'IPHAN SICG BA-2904902-BI-ED-00003'
-      display: 'Rua Ana Néri'
+      display: 'Rua Ana Néri; R. Benjamin Constant, 2; Praça da Aclamação'
+    extent:
+      type: "Polygon"
+      coordinates: "[[-4337224.16346714273095131 -1414667.03123185085132718, -4337225.8163665272295475 -1414640.57947411318309605, -4337253.4006357230246067 -1414642.32532521290704608, -4337251.7477608397603035 -1414668.77708579692989588, -4337224.16346714273095131 -1414667.03123185085132718]]"
+      source:
+        type: "corporate"
+        name:
+          refid: "https://huggingface.co/datasets/zhu-xlab/GBA.LoD1"
+          display: "Global Building Atlas LoD1"
 ---
 
