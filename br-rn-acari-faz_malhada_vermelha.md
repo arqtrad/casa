@@ -1,5 +1,6 @@
 ---
 title: Fazenda Malhada Vermelha
+id: 684VRX8H+G8H
 date: 2024-05-02
 author: 0009-0006-7479-6365
 bibliographicCitation:
@@ -7,16 +8,40 @@ bibliographicCitation:
 identifier:
 - source: Documentário de casas tradicionais
   refid: 12
-spatial:
-  site:
-    term: BR-RN
-    location:
-      lat: -7.183696
-      zoom: 9
-      lon: -42.021646
-    display: 'Fazenda Malhada Vermelha
+site:
+  type: 'geographic'
+  description: >
+    Fazenda Malhada Vermelha
 
-      Acari'
+    Acari
+  part_of:
+    geonameid: 3408360
+  location:
+    lat: -6.487795049446586
+    lon: -36.60386321586019
+    zoom: 9
+    srs_name: 'EPSG:4326'
+    source:
+      type: 'corporate'
+      name:
+        refid: "https://doi.org/10.14459/2025MP1782307"
+        description: "Global Building Atlas LoD1"
+  extent:
+    geometry_type: "Polygon"
+    coordinates: >-
+      [[
+        [-36.6038005698465,-6.48776522907464],
+        [-36.603847673529,-6.487727420037561],
+        [-36.6039258618759,-6.4878248698128],
+        [-36.6038787581847,-6.487862678855789],
+        [-36.6038005698465,-6.48776522907464]
+      ]]
+    srs_name: 'EPSG:4326'
+    source:
+      type: 'corporate'
+      name:
+        refid: "https://doi.org/10.14459/2025MP1782307"
+        description: "Global Building Atlas LoD1"
 temporal:
 - type: creation
   start_date:
@@ -25,15 +50,12 @@ temporal:
   display_date: c. 1830
   text:
     headline: Construção
-format:
-  extent:
-    measurements:
-    - type: http://terminology.lido-schema.org/lido00927
-      unit:
-        display: m²
-      extent: area
-      value: 126
-id: 684VRX8H+G8H
+measurements:
+  - type: http://terminology.lido-schema.org/lido00927
+    unit:
+      display: m²
+    extent: area
+    value: 126
 ---
 
 Mantêm as características mais representativas de sua fábrica original, sendo possível identificar claramente um acréscimo, constituído pela construção de um depósito ocupando parte de seu alpendre, assim como a substituição de seus pilares, outrora em madeira, por espessos pilares de alvenaria. Para a construção do referido depósito, foi preciso que se desse uma deflexão no plano do telhado, diminuindo sua inclinação. Além dessas intervenções, foram construídos também dois contrafortes, um de cada lado da casa, com o intuito de assegurar sua estabilidade, já que a mesma apresentava fissuras em suas paredes.
