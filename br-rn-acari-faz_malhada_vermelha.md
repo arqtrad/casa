@@ -26,10 +26,14 @@ identifiers:
       - type: "corporate"
         weblink: "https://musaufrn.wixsite.com/musa"
         title: "Universidade Federal do Rio Grande do Norte"
+        id: "doi:10.13039/501100008532"
         identifiers:
-          - type: "local"
-            title: "CNPJ"
-            refid: "24.365.710/0001-83"
+          - type: "uri"
+            refid: "isni:000000009687399X"
+            title: "ISNI"
+          - type: "uri"
+            refid: "wd:Q3847505"
+            title: "Wikidata"
 
 work_type_condition:
 work_type_function:
@@ -180,10 +184,17 @@ record_rights:
     holder:
       type: "corporate"
       name:
-        id: "https://isni.org/isni/0000000122385157"
+        id: "doi:10.13039/100008994"
         title: "Fundação Universidade de Brasília"
         type: "corporate"
         weblink: "https://vereda.unb.br"
+        identifiers:
+          - refid: "isni:0000000122385157"
+            type: "uri"
+            title: "ISNI"
+          - refid: "wd:Q1330634"
+            type: "uri"
+            title: "Wikidata"
   - type: "specific"
     statement:
       type: "uri"
@@ -198,12 +209,18 @@ record_rights:
     holder:
       type: "corporate"
       name:
-        id: "https://doi.org/10.13039/501100003593"
+        id: "doi:10.13039/501100003593"
         title: >
           CNPq - Conselho Nacional de Desenvolvimento Científico e Tecnológico
         description: "Termo de outorga 406601/2025-9"
         type: "corporate"
         weblink: "https://cnpq.br"
+        identifiers:
+          - refid: "isni:0000000121892026"
+            type: "uri"
+          - refid: "wd:Q2994429"
+            type: "uri"
+            title: "Wikidata"
 ---
 
 > Mantém as características mais representativas de sua fábrica original, sendo
