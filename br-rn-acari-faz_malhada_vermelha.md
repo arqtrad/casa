@@ -19,17 +19,21 @@ bibliographic_citation:
 
 identifiers:
   - refid: "https://fazendasserido.wixsite.com/fazendasserido/malhada-vermelha"
-    type: "uri"
+    refid_type: "uri"
     title: "Projeto de pesquisa Fazendas do Seridó"
     description: "Grupo de pesquisa MUsA — Morfologia e Usos da Arquitetura"
     source:
-      - type: "corporate"
-        weblink: "https://musaufrn.wixsite.com/musa"
-        title: "Universidade Federal do Rio Grande do Norte"
-        identifiers:
-          - type: "local"
-            title: "CNPJ"
-            refid: "24.365.710/0001-83"
+      legal_body_type: "corporate"
+      weblink: "https://musaufrn.wixsite.com/musa"
+      title: "Universidade Federal do Rio Grande do Norte"
+      id: "doi:10.13039/501100008532"
+      identifiers:
+        - refid_type: "uri"
+          refid: "isni:000000009687399X"
+          title: "ISNI"
+        - refid_type: "uri"
+          refid: "wd:Q3847505"
+          title: "Wikidata"
 
 work_type_condition:
 work_type_function:
@@ -55,7 +59,7 @@ site:
       legal_body_type: "corporate"
       id: "doi:10.14459/2025MP1782307"
   extent:
-    type: "Polygon"
+    geometry_type: "Polygon"
     coordinates: >-  # O caractere ">" indica que o conteúdo começa na linha seguinte, indentado em dois espaços. O caractere "-" faz o sistema desconsiderar as quebras de linha dentro do campo.
       [[
         [-36.6038005698465,-6.48776522907464],
@@ -65,11 +69,13 @@ site:
         [-36.6038005698465,-6.48776522907464]
       ]]
     source:
+      legal_body_type: "corporate"
       title: "Global Building Atlas LoD1"
       legal_body_type: "corporate"
       id: "doi:10.14459/2025MP1782307"
 
 location_historic:  # A FAZER: Completar com referência a um vocabulário controlado.
+  - legal_body_type: "geographic"
     title: "sertão do Seridó"  # Atenção: não é a mesma localidade "Seridó" cadastrada no Getty TGN.
 
 temporal:
