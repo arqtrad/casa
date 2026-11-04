@@ -14,8 +14,8 @@ description: >
   salas para os quartos, sem corredores.
 
 bibliographic_citation:
-- refid: "@feijo:2002arquitetura"
-  note: "p. 85–88"
+  - refid: "@feijo:2002arquitetura"
+    note: "p. 85–88"
 
 identifiers:
   - refid: "https://fazendasserido.wixsite.com/fazendasserido/malhada-vermelha"
