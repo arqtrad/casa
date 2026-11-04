@@ -3,7 +3,7 @@ title: Fazenda Malhada Vermelha
 title_type: owner
 id: 684VRX8H+G8H
 record_date: &RECORD_DATE 2024-05-02
-author: &RECORD_AUTHOR "orcid:0009-0006-7479-6365"
+author: "orcid:0009-0006-7479-6365"
 
 description: >
   Casa de morada de fazenda no sertão do Seridó potiguar, provavelmente datada
@@ -59,7 +59,7 @@ site:
       type: "corporate"
       id: "doi:10.14459/2025MP1782307"
   extent:
-    geometry_type: "Polygon"
+    type: "Polygon"
     coordinates: >-  # O caractere ">" indica que o conteúdo começa na linha seguinte, indentado em dois espaços. O caractere "-" faz o sistema desconsiderar as quebras de linha dentro do campo.
       [[
         [-36.6038005698465,-6.48776522907464],
@@ -170,7 +170,7 @@ resources:
       refid: "aat:300379097"
       title: "milímetros"
     provided_image: "https://desenho.tradicional.arq.br/br-rn-acari-faz_malhada_vermelha/BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-TER-DA-100.dxf"
-    author: *RECORD_AUTHOR
+    author: "orcid:0009-0006-7479-6365"
     record_date: *RECORD_DATE
   - id: "BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-SOB-DA-100"
     title: Planta do pavimento térreo
@@ -182,7 +182,7 @@ resources:
       refid: "aat:300379097"
       title: "milímetros"
     provided_image: "https://desenho.tradicional.arq.br/br-rn-acari-faz_malhada_vermelha/BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-SOB-DA-100.dxf"
-    author: *RECORD_AUTHOR
+    author: "orcid:0009-0006-7479-6365"
     record_date: *RECORD_DATE
   - id: "BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-F01-DA-100"
     title: Planta do pavimento térreo
@@ -194,7 +194,7 @@ resources:
       refid: "aat:300379097"
       title: "milímetros"
     provided_image: "https://desenho.tradicional.arq.br/br-rn-acari-faz_malhada_vermelha/BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-F01-DA-100.dxf"
-    author: *RECORD_AUTHOR
+    author: "orcid:0009-0006-7479-6365"
     record_date: *RECORD_DATE
   - id: "BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-C01-DA-100"
     title: Planta do pavimento térreo
@@ -206,7 +206,7 @@ resources:
       refid: "aat:300379097"
       title: "milímetros"
     provided_image: "https://desenho.tradicional.arq.br/br-rn-acari-faz_malhada_vermelha/BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-C01-DA-100.dxf"
-    author: *RECORD_AUTHOR
+    author: "orcid:0009-0006-7479-6365"
     record_date: *RECORD_DATE
 
 media:
