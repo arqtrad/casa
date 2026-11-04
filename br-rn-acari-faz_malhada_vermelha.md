@@ -201,7 +201,7 @@ record_rights:
         value: 2028-11-30
     holder:
       id: "doi:10.13039/501100003593"
-      title: >
+      title: >-
         CNPq - Conselho Nacional de Desenvolvimento Científico e Tecnológico
       description: "Termo de outorga 406601/2025-9"
       type: "corporate"
