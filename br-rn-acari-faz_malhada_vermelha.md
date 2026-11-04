@@ -225,8 +225,8 @@ record_rights:
       refid: "https://creativecommons.org/licenses/by-sa/4.0/"
       title: "Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)"
     start_date:
-      - type: exact
-        value: *RECORD_DATE  # Repete a data informada acima.
+      type: exact
+      value: *RECORD_DATE  # Repete a data informada acima.
     holder:
       id: "doi:10.13039/100008994"
       title: "Fundação Universidade de Brasília"
@@ -245,11 +245,11 @@ record_rights:
       refid: "https://creativecommons.org/licenses/by-sa/4.0/"
       title: "Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)"
     start_date:
-      - type: exact
-        value: 2025-11-24
+      type: exact
+      value: 2025-11-24
     end_date:
-      - type: exact
-        value: 2028-11-30
+      type: exact
+      value: 2028-11-30
     holder:
       id: "doi:10.13039/501100003593"
       title: >-
