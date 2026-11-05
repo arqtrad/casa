@@ -34,6 +34,94 @@ format:
       extent: area
       value: 92
 id: 6955JCJJ+C87
+resource:
+  - id:
+      type: "local"
+      refid: "br-rn-acari-faz_boa_vista/BR-RN-ACARI-FAZ_BOA_VISTA-ARQTRAD-LVO-TER-DA-100"
+    type:
+      type: "uri"
+      refid: "http://vocab.getty.edu/aat/300266190"
+      display: "Planta Baixa"
+    rel_type: "planFor"
+    description: "Desenho técnico contendo a Planta Baixa da Fazenda Boa Vista"
+    perspective: 1
+    measurements:
+      unit:
+        display: "mm"
+    date: 2025-03-05
+    source:
+      - type: "corporate"
+        name:
+          type: "uri"
+          refid: "https://tradicional.arq.br"
+          display: "Documentário da arquitetura tradicional"
+    bibliographic_citation:
+    - refid: '@feijo:2002arquitetura'
+    contributor:
+    - id: 'https://orcid.org/0009-0006-7479-6365'
+      type: personal
+      role: researcher
+      source:
+      - relids: feijo:2002arquitetura
+        page: 66
+  - id:
+      type: "local"
+      refid: "br-rn-acari-faz_boa_vista/BR-RN-ACARI-FAZ_BOA_VISTA-ARQTRAD-LVO-F01-DA-100"
+    type:
+      type: "uri"
+      refid: "https://vocab.getty.edu/aat/300034065"
+      display: "Fachada"
+    rel_type: "planFor"
+    description: "Desenho técnico contendo Elevação da Fazenda Boa Vista"
+    perspective: 2
+    measurements:
+      unit:
+        display: "mm"
+    date: 2025-03-05
+    source:
+      - type: "corporate"
+        name:
+          type: "uri"
+          refid: "https://tradicional.arq.br"
+          display: "Documentário da arquitetura tradicional"
+    bibliographic_citation:
+    - refid: '@feijo:2002arquitetura'
+    contributor:
+    - id: 'https://orcid.org/0009-0006-7479-6365'
+      type: personal
+      role: researcher
+      source:
+      - relids: feijo:2002arquitetura
+        page: 66
+  - id:
+      type: "local"
+      refid: "br-rn-acari-faz_boa_vista/BR-RN-ACARI-FAZ_BOA_VISTA-ARQTRAD-LVO-C01-DA-100"
+    type:
+      type: "uri"
+      refid: "https://vocab.getty.edu/aat/300034223"
+      display: "Corte"
+    rel_type: "planFor"
+    description: "Desenho técnico contendo Corte da Fazenda Boa Vista"
+    perspective: 3
+    measurements:
+      unit:
+        display: "mm"
+    date: 2025-03-05
+    source:
+      - type: "corporate"
+        name:
+          type: "uri"
+          refid: "https://tradicional.arq.br"
+          display: "Documentário da arquitetura tradicional"
+    bibliographic_citation:
+    - refid: '@feijo:2002arquitetura'
+    contributor:
+    - id: 'https://orcid.org/0009-0006-7479-6365'
+      type: personal
+      role: researcher
+      source:
+      - relids: feijo:2002arquitetura
+        page: 66
 ---
 
 A casa-grande da fazenda Boa Vista teve sua conclusão em 1857, segundo inscrição existente na parede da fachada lateral esquerda. Ao longo de sua existência sofreu modificações que são facilmente identificáveis através dos vestígios deixados. A mais recente sequer foi concluída. Trata-se de um acréscimo, contíguo à fachada lateral esquerda. Os atuais pilares do alpendre, em alvenaria, substituem os originais, que eram confeccionados em madeira.
