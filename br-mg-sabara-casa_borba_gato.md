@@ -30,6 +30,91 @@ format:
       extent: area
       value: 320
 id: 58GR455R+R25
+resource:
+  - id:
+      type: "local"
+      refid: "br-mg-sabara-casa_borba_gato/BR-MG-SABARA-BORBA_GATO_71-ARQTRAD-LVE-TER-DA-100"
+    type:
+      type: "uri"
+      refid: "http://vocab.getty.edu/aat/300266190"
+      display: "Planta Baixa"
+    rel_type: "planFor"
+    description: "Desenho técnico contendo a Planta Baixa do Térreo da Casa de Borba Gato"
+    perspective: 1
+    measurements:
+      unit:
+        display: "mm"
+    date: 2025-03-05
+    source:
+      - type: "corporate"
+        name:
+          type: "uri"
+          refid: "https://tradicional.arq.br"
+          display: "Documentário da arquitetura tradicional"
+    bibliographic_citation:
+    - refid: '@casimiro:2011casa'
+    contributor:
+    - id: 'https://orcid.org/0009-0006-7479-6365'
+      type: personal
+      role: researcher
+      source:
+      - relids: casimiro:2011casa
+  - id:
+      type: "local"
+      refid: "br-mg-sabara-casa_borba_gato/BR-MG-SABARA-BORBA_GATO_71-ARQTRAD-LVE-P01-DA-100"
+    type:
+      type: "uri"
+      refid: "http://vocab.getty.edu/aat/300266190"
+      display: "Planta Baixa"
+    rel_type: "planFor"
+    description: "Desenho técnico contendo a Planta Baixa do Primeiro Pavimento da Casa de Borba Gato"
+    perspective: 1
+    measurements:
+      unit:
+        display: "mm"
+    date: 2025-03-05
+    source:
+      - type: "corporate"
+        name:
+          type: "uri"
+          refid: "https://tradicional.arq.br"
+          display: "Documentário da arquitetura tradicional"
+    bibliographic_citation:
+    - refid: '@casimiro:2011casa'
+    contributor:
+    - id: 'https://orcid.org/0009-0006-7479-6365'
+      type: personal
+      role: researcher
+      source:
+      - relids: casimiro:2011casa
+  - id:
+      type: "local"
+      refid: "br-mg-sabara-casa_borba_gato/BR-MG-SABARA-BORBA_GATO_71-ARQTRAD-LVE-C01-DA-100"
+    type:
+      type: "uri"
+      refid: "https://vocab.getty.edu/aat/300034223"
+      display: "Corte"
+    rel_type: "planFor"
+    description: "Desenho técnico contendo Corte da Casa de Borba Gato"
+    perspective: 3
+    measurements:
+      unit:
+        display: "mm"
+    date: 2025-03-05
+    source:
+      - type: "corporate"
+        name:
+          type: "uri"
+          refid: "https://tradicional.arq.br"
+          display: "Documentário da arquitetura tradicional"
+    bibliographic_citation:
+    - refid: '@casimiro:2011casa'
+    contributor:
+    - id: 'https://orcid.org/0009-0006-7479-6365'
+      type: personal
+      role: researcher
+      source:
+      - relids: casimiro:2011casa
 ---
 
 O imóvel foi utilizado como residência a partir de 1828, pelo então proprietário, o Padre João de Souza Guimarães. Em 1843, após seu falecimento, foi  adquirida pelo Sargento-Mor Francisco de Assis Martins da Costa, tendo se transformado em hospedaria entre 1850 e 1860. Neste ano foi adquirida  pelo Mestre Herculino Carlos do Couto Lima, para ser sua residência. De 1871 a 1896 funcionou como Escola de “Primeiras Letras”. Em 1972 o imóvel  foi vendido pelos herdeiros de Herculino do Couto Lima e em 1983 foi alugado pelo Museu do Ouro, passando a funcionar como Centro de Difusão  Cultural, sendo reconhecido como bem de utilidade pública pelo município em 1984.

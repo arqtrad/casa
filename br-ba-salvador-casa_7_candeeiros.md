@@ -145,10 +145,15 @@ resource:
           type: "uri"
           refid: "https://tradicional.arq.br"
           display: "Documentário da arquitetura tradicional"
-    citation: 
-    - refid: "@iphan:2010casas"
-      note: "p. 25"
-    credit: "https://orcid.org/0009-0006-7479-6365"
+    bibliographic_citation:
+    - refid: '@iphan:2010casas'
+    contributor:
+    - id: 'https://orcid.org/0009-0006-7479-6365'
+      type: personal
+      role: researcher
+      source:
+      - relids: iphan:2010casas
+        page: 25
   - id:
       type: "local"
       refid: "br-ba-salvador-casa_sete_candeeiros/BR-BA-SALVADOR-CASA_SETE_CANDEEIROS-ARQTRAD-LVE-P01-DA-200"
@@ -169,10 +174,15 @@ resource:
           type: "uri"
           refid: "https://tradicional.arq.br"
           display: "Documentário da arquitetura tradicional"
-    citation:
-    - refid: "@iphan:2010casas"
-      note: "p. 25"
-    credit: "https://orcid.org/0009-0006-7479-6365"
+    bibliographic_citation:
+    - refid: '@iphan:2010casas'
+    contributor:
+    - id: 'https://orcid.org/0009-0006-7479-6365'
+      type: personal
+      role: researcher
+      source:
+      - relids: iphan:2010casas
+        page: 25
   - id:
       type: "local"
       refid: "br-ba-salvador-casa_sete_candeeiros/BR-BA-SALVADOR-CASA_SETE_CANDEEIROS-ARQTRAD-LVE-F01-DA-200"
@@ -193,10 +203,15 @@ resource:
           type: "uri"
           refid: "https://tradicional.arq.br"
           display: "Documentário da arquitetura tradicional"
-    citation:
-    - refid: "@iphan:2010casas"
-      note: "p. 25"
-    credit: "https://orcid.org/0009-0006-7479-6365"
+    bibliographic_citation:
+    - refid: '@iphan:2010casas'
+    contributor:
+    - id: 'https://orcid.org/0009-0006-7479-6365'
+      type: personal
+      role: researcher
+      source:
+      - relids: iphan:2010casas
+        page: 25
   - id:
       type: "local"
       refid: "br-ba-salvador-casa_sete_candeeiros/BR-BA-SALVADOR-CASA_SETE_CANDEEIROS-ARQTRAD-LVE-C01-DA-200"
@@ -217,10 +232,15 @@ resource:
           type: "uri"
           refid: "https://tradicional.arq.br"
           display: "Documentário da arquitetura tradicional"
-    citation:
-    - refid: "@iphan:2010casas"
-      note: "p. 25"
-    credit: "https://orcid.org/0009-0006-7479-6365"
+    bibliographic_citation:
+    - refid: '@iphan:2010casas'
+    contributor:
+    - id: 'https://orcid.org/0009-0006-7479-6365'
+      type: personal
+      role: researcher
+      source:
+      - relids: iphan:2010casas
+        page: 25
 ---
 
 <figure>

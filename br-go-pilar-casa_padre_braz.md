@@ -30,6 +30,91 @@ format:
       extent: area
       value: 193.61
 id: 58QG6CMC+FC9
+resource:
+  - id:
+      type: "local"
+      refid: "br-go-pilar-casa_padre_braz/BR-GO-PILAR-CASA_PADRE_BRAZ-ARQTRAD-LVE-TER-DA-400"
+    type:
+      type: "uri"
+      refid: "http://vocab.getty.edu/aat/300266190"
+      display: "Planta Baixa"
+    rel_type: "planFor"
+    description: "Desenho técnico contendo a Planta Baixa do Térreo da Casa Padre Braz"
+    perspective: 1
+    measurements:
+      unit:
+        display: "mm"
+    date: 2025-03-05
+    source:
+      - type: "corporate"
+        name:
+          type: "uri"
+          refid: "https://tradicional.arq.br"
+          display: "Documentário da arquitetura tradicional"
+    bibliographic_citation:
+    - refid: '@iphan:2010casas'
+    contributor:
+    - id: 'https://orcid.org/0009-0006-7479-6365'
+      type: personal
+      role: researcher
+      source:
+      - relids: iphan:2010casas
+  - id:
+      type: "local"
+      refid: "br-go-pilar-casa_padre_braz/BR-GO-PILAR-CASA_PADRE_BRAZ-ARQTRAD-LVE-F01-DA-400"
+    type:
+      type: "uri"
+      refid: "https://vocab.getty.edu/aat/300034065"
+      display: "Fachada"
+    rel_type: "planFor"
+    description: "Desenho técnico contendo Elevação 01 da Casa Padre Braz"
+    perspective: 2
+    measurements:
+      unit:
+        display: "mm"
+    date: 2025-03-05
+    source:
+      - type: "corporate"
+        name:
+          type: "uri"
+          refid: "https://tradicional.arq.br"
+          display: "Documentário da arquitetura tradicional"
+    bibliographic_citation:
+    - refid: '@iphan:2010casas'
+    contributor:
+    - id: 'https://orcid.org/0009-0006-7479-6365'
+      type: personal
+      role: researcher
+      source:
+      - relids: iphan:2010casas
+  - id:
+      type: "local"
+      refid: "br-go-pilar-casa_padre_braz/BR-GO-PILAR-CASA_PADRE_BRAZ-ARQTRAD-LVE-F02-DA-400"
+    type:
+      type: "uri"
+      refid: "https://vocab.getty.edu/aat/300034065"
+      display: "Fachada"
+    rel_type: "planFor"
+    description: "Desenho técnico contendo Elevação 02 da Casa Padre Braz"
+    perspective: 2
+    measurements:
+      unit:
+        display: "mm"
+    date: 2025-03-05
+    source:
+      - type: "corporate"
+        name:
+          type: "uri"
+          refid: "https://tradicional.arq.br"
+          display: "Documentário da arquitetura tradicional"
+    bibliographic_citation:
+    - refid: '@iphan:2010casas'
+    contributor:
+    - id: 'https://orcid.org/0009-0006-7479-6365'
+      type: personal
+      role: researcher
+      source:
+      - relids: iphan:2010casas
 ---
 
 De acordo com Castilho a casa foi:

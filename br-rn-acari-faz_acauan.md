@@ -33,6 +33,94 @@ format:
       extent: area
       value: 104
 id: 6955JCFJ+R7R
+resource:
+  - id:
+      type: "local"
+      refid: "br-rn-acari-faz_acauan/BR-RN-ACARI-FAZ_ACAUAN-ARQTRAD-LVO-TER-DA-100"
+    type:
+      type: "uri"
+      refid: "http://vocab.getty.edu/aat/300266190"
+      display: "Planta Baixa"
+    rel_type: "planFor"
+    description: "Desenho técnico contendo a Planta Baixa da Fazenda Acauã"
+    perspective: 1
+    measurements:
+      unit:
+        display: "mm"
+    date: 2025-03-05
+    source:
+      - type: "corporate"
+        name:
+          type: "uri"
+          refid: "https://tradicional.arq.br"
+          display: "Documentário da arquitetura tradicional"
+    bibliographic_citation:
+    - refid: '@feijo:2002arquitetura'
+    contributor:
+    - id: 'https://orcid.org/0009-0006-7479-6365'
+      type: personal
+      role: researcher
+      source:
+      - relids: feijo:2002arquitetura
+        page: 62
+  - id:
+      type: "local"
+      refid: "br-rn-acari-faz_acauan/BR-RN-ACARI-FAZ_ACAUAN-ARQTRAD-LVO-F01-DA-100"
+    type:
+      type: "uri"
+      refid: "https://vocab.getty.edu/aat/300034065"
+      display: "Fachada"
+    rel_type: "planFor"
+    description: "Desenho técnico contendo Elevação da Fazenda Acauã"
+    perspective: 2
+    measurements:
+      unit:
+        display: "mm"
+    date: 2025-03-05
+    source:
+      - type: "corporate"
+        name:
+          type: "uri"
+          refid: "https://tradicional.arq.br"
+          display: "Documentário da arquitetura tradicional"
+    bibliographic_citation:
+    - refid: '@feijo:2002arquitetura'
+    contributor:
+    - id: 'https://orcid.org/0009-0006-7479-6365'
+      type: personal
+      role: researcher
+      source:
+      - relids: feijo:2002arquitetura
+        page: 62
+  - id:
+      type: "local"
+      refid: "br-rn-acari-faz_acauan/BR-RN-ACARI-FAZ_ACAUAN-ARQTRAD-LVO-C01-DA-100"
+    type:
+      type: "uri"
+      refid: "https://vocab.getty.edu/aat/300034223"
+      display: "Corte"
+    rel_type: "planFor"
+    description: "Desenho técnico contendo Corte da Fazenda Acauã"
+    perspective: 3
+    measurements:
+      unit:
+        display: "mm"
+    date: 2025-03-05
+    source:
+      - type: "corporate"
+        name:
+          type: "uri"
+          refid: "https://tradicional.arq.br"
+          display: "Documentário da arquitetura tradicional"
+    bibliographic_citation:
+    - refid: '@feijo:2002arquitetura'
+    contributor:
+    - id: 'https://orcid.org/0009-0006-7479-6365'
+      type: personal
+      role: researcher
+      source:
+      - relids: feijo:2002arquitetura
+        page: 62
 ---
 
 Através de vestígios encontrados no local, e de depoimentos dos moradores, constata-se que a edificação teria tido outros cômodos na parte posterior, que não resistiram ao tempo. A ação das intempéries tem afetado outros trechos da casa, como a parede do oitão lateral esquerdo. Para conter o ademamento dessa parede, provisoriamente - há mais de quinze anos - foram dispostas peças de madeira escorando-a, com o propósito de assegurar sua estabilidade física. Os espessos pilares do alpendre, em alvenaria, ora existentes, substituem os originais, em madeira, que também não resistiram à ação do tempo.
