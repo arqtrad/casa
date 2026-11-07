@@ -124,123 +124,125 @@ temporal:
       Nacional, 2010: 24--25.'
 location_historic:
 - Travessa do Ximenes
-resource:
-  - id:
-      type: "local"
-      refid: "br-ba-salvador-casa_sete_candeeiros/BR-BA-SALVADOR-CASA_SETE_CANDEEIROS-ARQTRAD-LVE-TER-DA-200"
-    type:
-      type: "uri"
-      refid: "http://vocab.getty.edu/aat/300266190"
-      display: "Planta Baixa"
-    rel_type: "planFor"
-    description: "Desenho técnico contendo a Planta Baixa do Térreo da Casa Sete Candeeiros"
-    perspective: 1
-    measurements:
-      unit:
-        display: "mm"
-    date: 2025-03-05
-    source:
-      - type: "corporate"
-        name:
-          type: "uri"
-          refid: "https://tradicional.arq.br"
-          display: "Documentário da arquitetura tradicional"
+resources:
+  - id: "BR-BA-SALVADOR-CASA_SETE_CANDEEIROS-ARQTRAD-LVE-TER-DA-200"
+    title: "Planta Baixa do Térreo"
+    resource_type: architecturalSurvey
+    perspective: "1"
+    format: "image/vnd.dxf"
+    unit:
+      refid_type: "uri"
+      refid: "aat:300379097"
+      title: "milímetros"
+    provided_image:
+      - "https://desenho.tradicional.arq.br/br-ba-salvador-casa_sete_candeeiros/BR-BA-SALVADOR-CASA_SETE_CANDEEIROS-ARQTRAD-LVE-TER-DA-200.dxf"
+    author: "orcid:0009-0006-7479-6365"
+    record_date: 2025-03-05
     bibliographic_citation:
-    - refid: '@iphan:2010casas'
-    contributor:
-    - id: 'https://orcid.org/0009-0006-7479-6365'
-      type: personal
-      role: researcher
-      source:
-      - relids: iphan:2010casas
-        page: 25
-  - id:
-      type: "local"
-      refid: "br-ba-salvador-casa_sete_candeeiros/BR-BA-SALVADOR-CASA_SETE_CANDEEIROS-ARQTRAD-LVE-P01-DA-200"
-    type:
-      type: "uri"
-      refid: "http://vocab.getty.edu/aat/300266190"
-      display: "Planta Baixa"
-    rel_type: "planFor"
-    description: "Desenho técnico contendo a Planta Baixa do Primeiro Pavimento da Casa Sete Candeeiros"
-    perspective: 1
-    measurements:
-      unit:
-        display: "mm"
-    date: 2025-03-05
-    source:
-      - type: "corporate"
-        name:
-          type: "uri"
-          refid: "https://tradicional.arq.br"
-          display: "Documentário da arquitetura tradicional"
+      - refid: '@iphan:2010casas'
+        page: "p. 25"
+  - id: "BR-BA-SALVADOR-CASA_SETE_CANDEEIROS-ARQTRAD-LVE-P01-DA-200"
+    title: "Planta Baixa do Primeiro Pavimento"
+    resource_type: architecturalSurvey
+    perspective: "1"
+    format: "image/vnd.dxf"
+    unit:
+      refid_type: "uri"
+      refid: "aat:300379097"
+      title: "milímetros"
+    provided_image:
+      - "https://desenho.tradicional.arq.br/br-ba-salvador-casa_sete_candeeiros/BR-BA-SALVADOR-CASA_SETE_CANDEEIROS-ARQTRAD-LVE-P01-DA-200.dxf"
+    author: "orcid:0009-0006-7479-6365"
+    record_date: 2025-03-05
     bibliographic_citation:
-    - refid: '@iphan:2010casas'
-    contributor:
-    - id: 'https://orcid.org/0009-0006-7479-6365'
-      type: personal
-      role: researcher
-      source:
-      - relids: iphan:2010casas
-        page: 25
-  - id:
-      type: "local"
-      refid: "br-ba-salvador-casa_sete_candeeiros/BR-BA-SALVADOR-CASA_SETE_CANDEEIROS-ARQTRAD-LVE-F01-DA-200"
-    type:
-      type: "uri"
-      refid: "https://vocab.getty.edu/aat/300034065"
-      display: "Fachada"
-    rel_type: "planFor"
-    description: "Desenho técnico contendo Elevação da Casa Sete Candeeiros"
-    perspective: 2
-    measurements:
-      unit:
-        display: "mm"
-    date: 2025-03-05
-    source:
-      - type: "corporate"
-        name:
-          type: "uri"
-          refid: "https://tradicional.arq.br"
-          display: "Documentário da arquitetura tradicional"
+      - refid: '@iphan:2010casas'
+        page: "p. 25"
+  - id: "BR-BA-SALVADOR-CASA_SETE_CANDEEIROS-ARQTRAD-LVE-F01-DA-200"
+    title: "Elevação"
+    resource_type: architecturalSurvey
+    perspective: "2"
+    format: "image/vnd.dxf"
+    unit:
+      refid_type: "uri"
+      refid: "aat:300379097"
+      title: "milímetros"
+    provided_image:
+      - "https://desenho.tradicional.arq.br/br-ba-salvador-casa_sete_candeeiros/BR-BA-SALVADOR-CASA_SETE_CANDEEIROS-ARQTRAD-LVE-F01-DA-200.dxf"
+    author: "orcid:0009-0006-7479-6365"
+    record_date: 2025-03-05
     bibliographic_citation:
-    - refid: '@iphan:2010casas'
-    contributor:
-    - id: 'https://orcid.org/0009-0006-7479-6365'
-      type: personal
-      role: researcher
-      source:
-      - relids: iphan:2010casas
-        page: 25
-  - id:
-      type: "local"
-      refid: "br-ba-salvador-casa_sete_candeeiros/BR-BA-SALVADOR-CASA_SETE_CANDEEIROS-ARQTRAD-LVE-C01-DA-200"
-    type:
-      type: "uri"
-      refid: "https://vocab.getty.edu/aat/300034223"
-      display: "Corte Longitudinal"
-    rel_type: "planFor"
-    description: "Desenho técnico contendo Corte Longitudinal da Casa Sete Candeeiros"
-    perspective: 3
-    measurements:
-      unit:
-        display: "mm"
-    date: 2025-03-05
-    source:
-      - type: "corporate"
-        name:
-          type: "uri"
-          refid: "https://tradicional.arq.br"
-          display: "Documentário da arquitetura tradicional"
+      - refid: '@iphan:2010casas'
+        page: "p. 25"
+  - id: "BR-BA-SALVADOR-CASA_SETE_CANDEEIROS-ARQTRAD-LVE-C01-DA-200"
+    title: "Corte Longitudinal"
+    resource_type: architecturalSurvey
+    perspective: "3"
+    format: "image/vnd.dxf"
+    unit:
+      refid_type: "uri"
+      refid: "aat:300379097"
+      title: "milímetros"
+    provided_image:
+      - "https://desenho.tradicional.arq.br/br-ba-salvador-casa_sete_candeeiros/BR-BA-SALVADOR-CASA_SETE_CANDEEIROS-ARQTRAD-LVE-C01-DA-200.dxf"
+    author: "orcid:0009-0006-7479-6365"
+    record_date: 2025-03-05
     bibliographic_citation:
-    - refid: '@iphan:2010casas'
-    contributor:
-    - id: 'https://orcid.org/0009-0006-7479-6365'
-      type: personal
-      role: researcher
-      source:
-      - relids: iphan:2010casas
-        page: 25
+      - refid: '@iphan:2010casas'
+        page: "p. 25"
+
+work_rights:
+  - rights_type: "specific"
+    statement:
+      refid_type: "uri"
+      refid: "https://rightsstatements.org/vocab/NKC/1.0/"
+      title: "Sem direito autoral conhecido"
+
+record_rights:
+  - rights_type: "specific"
+    statement:
+      refid_type: "uri"
+      refid: "https://creativecommons.org/licenses/by-sa/4.0/"
+      title: "Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)"
+    earliest_date:
+      date_type: exact
+      date_value: *RECORD_DATE
+    holder:
+      id: "doi:10.13039/100008994"
+      title: "Fundação Universidade de Brasília"
+      legal_body_type: "corporate"
+      weblink: "https://vereda.unb.br"
+      identifiers:
+        - refid: "isni:0000000122385157"
+          refid_type: "uri"
+          title: "ISNI"
+        - refid: "wd:Q1330634"
+          refid_type: "uri"
+          title: "Wikidata"
+  - rights_type: "specific"
+    statement:
+      refid_type: "uri"
+      refid: "https://creativecommons.org/licenses/by-sa/4.0/"
+      title: "Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)"
+    earliest_date:
+      date_type: exact
+      date_value: "2025-11-24"
+    latest_date:
+      date_type: exact
+      date_value: "2028-11-30"
+    holder:
+      id: "doi:10.13039/501100003593"
+      title: >
+        CNPq - Conselho Nacional de Desenvolvimento Científico e Tecnológico
+      description: "Termo de outorga 406601/2025-9"
+      legal_body_type: "corporate"
+      weblink: "https://cnpq.br"
+      identifiers:
+        - refid: "isni:0000000121892026"
+          refid_type: "uri"
+        - refid: "wd:Q2994429"
+          refid_type: "uri"
+          title: "Wikidata"
+---
 ---
 
 <figure>
