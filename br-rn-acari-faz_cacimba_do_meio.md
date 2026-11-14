@@ -34,6 +34,108 @@ format:
       extent: area
       value: 155
 id: 6955JCJJ+C87
+resources:
+  - id: "BR-RN-ACARI-FAZ_CACIMBA_DO_MEIO-ARQTRAD-LVO-TER-DA-100"
+    title: "Planta Baixa"
+    resource_type: architecturalSurvey
+    perspective: "1"
+    format: "image/vnd.dxf"
+    unit:
+      refid_type: "uri"
+      refid: "aat:300379097"
+      title: "milímetros"
+    provided_image:
+      - "https://desenho.tradicional.arq.br/br-rn-acari-faz_cacimba_do_meio/BR-RN-ACARI-FAZ_CACIMBA_DO_MEIO-ARQTRAD-LVO-TER-DA-100.dxf"
+    author: "orcid:0009-0006-7479-6365"
+    record_date: 2025-03-05
+    bibliographic_citation:
+      - refid: '@feijo:2002arquitetura'
+        page: "p. 69"
+  - id: "BR-RN-ACARI-FAZ_CACIMBA_DO_MEIO-ARQTRAD-LVO-F01-DA-100"
+    title: "Elevação"
+    resource_type: architecturalSurvey
+    perspective: "2"
+    format: "image/vnd.dxf"
+    unit:
+      refid_type: "uri"
+      refid: "aat:300379097"
+      title: "milímetros"
+    provided_image:
+      - "https://desenho.tradicional.arq.br/br-rn-acari-faz_cacimba_do_meio/BR-RN-ACARI-FAZ_CACIMBA_DO_MEIO-ARQTRAD-LVO-F01-DA-100.dxf"
+    author: "orcid:0009-0006-7479-6365"
+    record_date: 2025-03-05
+    bibliographic_citation:
+      - refid: '@feijo:2002arquitetura'
+        page: "p. 69"
+  - id: "BR-RN-ACARI-FAZ_CACIMBA_DO_MEIO-ARQTRAD-LVO-C01-DA-100"
+    title: "Corte"
+    resource_type: architecturalSurvey
+    perspective: "3"
+    format: "image/vnd.dxf"
+    unit:
+      refid_type: "uri"
+      refid: "aat:300379097"
+      title: "milímetros"
+    provided_image:
+      - "https://desenho.tradicional.arq.br/br-rn-acari-faz_cacimba_do_meio/BR-RN-ACARI-FAZ_CACIMBA_DO_MEIO-ARQTRAD-LVO-C01-DA-100.dxf"
+    author: "orcid:0009-0006-7479-6365"
+    record_date: 2025-03-05
+    bibliographic_citation:
+      - refid: '@feijo:2002arquitetura'
+        page: "p. 69"
+
+work_rights:
+  - rights_type: "specific"
+    statement:
+      refid_type: "uri"
+      refid: "https://rightsstatements.org/vocab/NKC/1.0/"
+      title: "Sem direito autoral conhecido"
+
+record_rights:
+  - rights_type: "specific"
+    statement:
+      refid_type: "uri"
+      refid: "https://creativecommons.org/licenses/by-sa/4.0/"
+      title: "Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)"
+      earliest_date:
+        date_type: exact
+        date_value: *RECORD_DATE
+      holder:
+        id: "doi:10.13039/100008994"
+        title: "Fundação Universidade de Brasília"
+        legal_body_type: "corporate"
+        weblink: "https://vereda.unb.br"
+        identifiers:
+          - refid: "isni:0000000122385157"
+            refid_type: "uri"
+            title: "ISNI"
+          - refid: "wd:Q1330634"
+            refid_type: "uri"
+            title: "Wikidata"
+  - rights_type: "specific"
+    statement:
+      refid_type: "uri"
+      refid: "https://creativecommons.org/licenses/by-sa/4.0/"
+      title: "Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)"
+      earliest_date:
+        date_type: exact
+        date_value: "2025-11-24"
+      latest_date:
+        date_type: exact
+        date_value: "2028-11-30"
+      holder:
+        id: "doi:10.13039/501100003593"
+        title: >
+          CNPq - Conselho Nacional de Desenvolvimento Científico e Tecnológico
+        description: "Termo de outorga 406601/2025-9"
+        legal_body_type: "corporate"
+        weblink: "https://cnpq.br"
+        identifiers:
+          - refid: "isni:0000000121892026"
+            refid_type: "uri"
+          - refid: "wd:Q2994429"
+            refid_type: "uri"
+            title: "Wikidata"
 ---
 
 A casa-grande fazenda Cacimba do meio possui nas paredes, sequências de armadores testemunhando que a sala de jantar, além dos quartos, era utilizada como ambiente onde se dormia. Esses armadores eram feitos de mofumbo, madeira muito utilizada para esse fim. A porta principal é feita de cumaru, árvore nativa da região, que, pela fácil obtenção e durabilidade, teve emprego abundante na confecção de esquadrias e móveis em geral. Tem a carracterística de não ser atacada pelo cupim.

@@ -14,9 +14,7 @@ spatial:
       lat: -6.435054
       zoom: 9
       lon: -36.64089
-    display: 'Fazenda Caiçarinha
-
-      Acari'
+    display: 'Fazenda Caiçarinha Acari'
 temporal:
 - type: creation
   start_date:
@@ -34,6 +32,124 @@ format:
       extent: area
       value: 172
 id: 6955H975+XJH
+resources:
+  - id: "BR-RN-ACARI-FAZ_CAICARINHA-ARQTRAD-LVO-TER-DA-100"
+    title: "Planta Baixa"
+    resource_type: architecturalSurvey
+    perspective: "1"
+    format: "image/vnd.dxf"
+    unit:
+      refid_type: "uri"
+      refid: "aat:300379097"
+      title: "milímetros"
+    provided_image:
+      - "https://desenho.tradicional.arq.br/br-rn-acari-faz_caicarinha/BR-RN-ACARI-FAZ_CAICARINHA-ARQTRAD-LVO-TER-DA-100.dxf"
+    author: "orcid:0009-0006-7479-6365"
+    record_date: 2025-03-05
+    bibliographic_citation:
+      - refid: '@feijo:2002arquitetura'
+        page: "p. 73"
+  - id: "BR-RN-ACARI-FAZ_CAICARINHA-ARQTRAD-LVO-SOB-DA-100"
+    title: "Planta Baixa do Sótão"
+    resource_type: architecturalSurvey
+    perspective: "1"
+    format: "image/vnd.dxf"
+    unit:
+      refid_type: "uri"
+      refid: "aat:300379097"
+      title: "milímetros"
+    provided_image:
+      - "https://desenho.tradicional.arq.br/br-rn-acari-faz_caicarinha/BR-RN-ACARI-FAZ_CAICARINHA-ARQTRAD-LVO-SOB-DA-100.dxf"
+    author: "orcid:0009-0006-7479-6365"
+    record_date: 2025-03-05
+    bibliographic_citation:
+      - refid: '@feijo:2002arquitetura'
+        page: "p. 73"
+  - id: "BR-RN-ACARI-FAZ_CAICARINHA-ARQTRAD-LVO-F01-DA-100"
+    title: "Elevação"
+    resource_type: architecturalSurvey
+    perspective: "2"
+    format: "image/vnd.dxf"
+    unit:
+      refid_type: "uri"
+      refid: "aat:300379097"
+      title: "milímetros"
+    provided_image:
+      - "https://desenho.tradicional.arq.br/br-rn-acari-faz_caicarinha/BR-RN-ACARI-FAZ_CAICARINHA-ARQTRAD-LVO-F01-DA-100.dxf"
+    author: "orcid:0009-0006-7479-6365"
+    record_date: 2025-03-05
+    bibliographic_citation:
+      - refid: '@feijo:2002arquitetura'
+        page: "p. 73"
+  - id: "BR-RN-ACARI-FAZ_CAICARINHA-ARQTRAD-LVO-C01-DA-100"
+    title: "Corte"
+    resource_type: architecturalSurvey
+    perspective: "3"
+    format: "image/vnd.dxf"
+    unit:
+      refid_type: "uri"
+      refid: "aat:300379097"
+      title: "milímetros"
+    provided_image:
+      - "https://desenho.tradicional.arq.br/br-rn-acari-faz_caicarinha/BR-RN-ACARI-FAZ_CAICARINHA-ARQTRAD-LVO-C01-DA-100.dxf"
+    author: "orcid:0009-0006-7479-6365"
+    record_date: 2025-03-05
+    bibliographic_citation:
+      - refid: '@feijo:2002arquitetura'
+        page: "p. 73"
+
+work_rights:
+  - rights_type: "specific"
+    statement:
+      refid_type: "uri"
+      refid: "https://rightsstatements.org/vocab/NKC/1.0/"
+      title: "Sem direito autoral conhecido"
+
+record_rights:
+  - rights_type: "specific"
+    statement:
+      refid_type: "uri"
+      refid: "https://creativecommons.org/licenses/by-sa/4.0/"
+      title: "Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)"
+      earliest_date:
+        date_type: exact
+        date_value: *RECORD_DATE
+      holder:
+        id: "doi:10.13039/100008994"
+        title: "Fundação Universidade de Brasília"
+        legal_body_type: "corporate"
+        weblink: "https://vereda.unb.br"
+        identifiers:
+          - refid: "isni:0000000122385157"
+            refid_type: "uri"
+            title: "ISNI"
+          - refid: "wd:Q1330634"
+            refid_type: "uri"
+            title: "Wikidata"
+  - rights_type: "specific"
+    statement:
+      refid_type: "uri"
+      refid: "https://creativecommons.org/licenses/by-sa/4.0/"
+      title: "Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)"
+      earliest_date:
+        date_type: exact
+        date_value: "2025-11-24"
+      latest_date:
+        date_type: exact
+        date_value: "2028-11-30"
+      holder:
+        id: "doi:10.13039/501100003593"
+        title: >
+          CNPq - Conselho Nacional de Desenvolvimento Científico e Tecnológico
+        description: "Termo de outorga 406601/2025-9"
+        legal_body_type: "corporate"
+        weblink: "https://cnpq.br"
+        identifiers:
+          - refid: "isni:0000000121892026"
+            refid_type: "uri"
+          - refid: "wd:Q2994429"
+            refid_type: "uri"
+            title: "Wikidata"
 ---
 
 É uma das casas mais tradicionais Acari, já que pertenceu ao Coronel Silvino, influente líder político de Acari. Sofreu algumas modificações, como uma construção anexa, que ser ve de residência do “morador”, “puxadas” em sua fachada posterior, pilares e mureta no alpendre, além de um contraforte construído para dar maior estabilidade à parede da fachada lateral direita. Sua caixa mural, bem como seus ambientes, se mantêm fiéis à fábrica original. O espaço concebido para a sala de jantar é de uma riqueza singular e muito agradável, valorizado por ter pé direito duplo. É o ambiente de maior conectividade dentre os ambientes da edificação, pois, a partir dele, se tem acesso direto a seis outros compartimentos da casa. 

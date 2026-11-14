@@ -34,6 +34,108 @@ format:
       extent: area
       value: 140
 id: 6955H9HP+VHV
+resources:
+  - id: BR-RN-ACARI-FAZ_SACO_DOS_PEREIRA-ARQTRAD-LVO-TER-DA-100
+    title: "Planta Baixa do Térreo"
+    resource_type: architecturalSurvey
+    perspective: "1"
+    format: "image/vnd.dxf"
+    unit:
+      refid_type: "uri"
+      refid: "aat:300379097"
+      title: "milímetros"
+    provided_image:
+      - "https://desenho.tradicional.arq.br/br-rn-acari-faz_saco_dos_pereira/BR-RN-ACARI-FAZ_SACO_DOS_PEREIRA-ARQTRAD-LVO-TER-DA-100"
+    author: "orcid:0009-0006-7479-6365"
+    record_date: 2025-03-05
+    bibliographic_citation:
+      - refid: '@feijo:2002arquitetura'
+        page: "p. 99"
+  - id: BR-RN-ACARI-FAZ_SACO_DOS_PEREIRA-ARQTRAD-LVO-F01-DA-100
+    title: "Elevação Frontal"
+    resource_type: architecturalSurvey
+    perspective: "2"
+    format: "image/vnd.dxf"
+    unit:
+      refid_type: "uri"
+      refid: "aat:300379097"
+      title: "milímetros"
+    provided_image:
+      - "https://desenho.tradicional.arq.br/br-rn-acari-faz_saco_dos_pereira/BR-RN-ACARI-FAZ_SACO_DOS_PEREIRA-ARQTRAD-LVO-F01-DA-100"
+    author: "orcid:0009-0006-7479-6365"
+    record_date: 2025-03-05
+    bibliographic_citation:
+      - refid: '@feijo:2002arquitetura'
+        page: "p. 99"
+  - id: BR-RN-ACARI-FAZ_SACO_DOS_PEREIRA-ARQTRAD-LVO-C01-DA-100
+    title: "Corte Longitudinal"
+    resource_type: architecturalSurvey
+    perspective: "3"
+    format: "image/vnd.dxf"
+    unit:
+      refid_type: "uri"
+      refid: "aat:300379097"
+      title: "milímetros"
+    provided_image:
+      - "https://desenho.tradicional.arq.br/br-rn-acari-faz_saco_dos_pereira/BR-RN-ACARI-FAZ_SACO_DOS_PEREIRA-ARQTRAD-LVO-C01-DA-100"
+    author: "orcid:0009-0006-7479-6365"
+    record_date: 2025-03-05
+    bibliographic_citation:
+      - refid: '@feijo:2002arquitetura'
+        page: "p. 99"
+
+work_rights:
+  - rights_type: "specific"
+    statement:
+      refid_type: "uri"
+      refid: "https://rightsstatements.org/vocab/NKC/1.0/"
+      title: "Sem direito autoral conhecido"
+
+record_rights:
+  - rights_type: "specific"
+    statement:
+      refid_type: "uri"
+      refid: "https://creativecommons.org/licenses/by-sa/4.0/"
+      title: "Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)"
+    earliest_date:
+      date_type: exact
+      date_value: *RECORD_DATE
+    holder:
+      id: "doi:10.13039/100008994"
+      title: "Fundação Universidade de Brasília"
+      legal_body_type: "corporate"
+      weblink: "https://vereda.unb.br"
+      identifiers:
+        - refid: "isni:0000000122385157"
+          refid_type: "uri"
+          title: "ISNI"
+        - refid: "wd:Q1330634"
+          refid_type: "uri"
+          title: "Wikidata"
+  - rights_type: "specific"
+    statement:
+      refid_type: "uri"
+      refid: "https://creativecommons.org/licenses/by-sa/4.0/"
+      title: "Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)"
+    earliest_date:
+      date_type: exact
+      date_value: "2025-11-24"
+    latest_date:
+      date_type: exact
+      date_value: "2028-11-30"
+    holder:
+      id: "doi:10.13039/501100003593"
+      title: >
+        CNPq - Conselho Nacional de Desenvolvimento Científico e Tecnológico
+      description: "Termo de outorga 406601/2025-9"
+      legal_body_type: "corporate"
+      weblink: "https://cnpq.br"
+      identifiers:
+        - refid: "isni:0000000121892026"
+          refid_type: "uri"
+        - refid: "wd:Q2994429"
+          refid_type: "uri"
+          title: "Wikidata"
 ---
 
 É uma das mais tradicionais casas de fazenda de Acari. Algumas modificações e acréscimos, que nela foram incorporados, são facilmente detectados. Uma delas foi substituição do alpendre com pilares de madeira por outro, mais profundo, com pilares em alvenaria de tijolos. Outras modificações detectadas são relativas à construção de anexos, contíguos à fachada lateral esquerda, colocação de uma parede dividindo a sala de jantar, criando um quarto e tomando a sala de jantar menor; transferência da porta do primeiro quarto que dava acesso à sala de visita para outra parede, dando acesso ao corredor; abertura e fechamento de portas; assim como a construção de um alpendre na face posterior da edificação, utilizando os pilares de madeira e demais materiais em condições de reaproveitamento, retirados do alpendre frontal original. 

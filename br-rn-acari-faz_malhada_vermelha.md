@@ -172,8 +172,11 @@ resources:
       - "https://desenho.tradicional.arq.br/br-rn-acari-faz_malhada_vermelha/BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-TER-DA-100.dxf"
     author: "orcid:0009-0006-7479-6365"
     record_date: *RECORD_DATE
+    bibliographic_citation:
+      - refid: '@feijo:2002arquitetura'
+        page: "p. 88"
   - id: "BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-SOB-DA-100"
-    title: Planta do pavimento térreo
+    title: Planta Baixa Do Sótão
     resource_type: architecturalSurvey
     perspective: 1
     format: "image/vnd.dxf"
@@ -185,8 +188,11 @@ resources:
       - "https://desenho.tradicional.arq.br/br-rn-acari-faz_malhada_vermelha/BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-SOB-DA-100.dxf"
     author: "orcid:0009-0006-7479-6365"
     record_date: *RECORD_DATE
+    bibliographic_citation:
+      - refid: '@feijo:2002arquitetura'
+        page: "p. 88"
   - id: "BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-F01-DA-100"
-    title: Planta do pavimento térreo
+    title: "Elevação Frontal"
     resource_type: architecturalSurvey
     perspective: 2
     format: "image/vnd.dxf"
@@ -198,8 +204,11 @@ resources:
       - "https://desenho.tradicional.arq.br/br-rn-acari-faz_malhada_vermelha/BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-F01-DA-100.dxf"
     author: "orcid:0009-0006-7479-6365"
     record_date: *RECORD_DATE
+    bibliographic_citation:
+      - refid: '@feijo:2002arquitetura'
+        page: "p. 88"
   - id: "BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-C01-DA-100"
-    title: Planta do pavimento térreo
+    title: "Corte"
     resource_type: architecturalSurvey
     perspective: 3
     format: "image/vnd.dxf"
@@ -211,6 +220,9 @@ resources:
       - "https://desenho.tradicional.arq.br/br-rn-acari-faz_malhada_vermelha/BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-C01-DA-100.dxf"
     author: "orcid:0009-0006-7479-6365"
     record_date: *RECORD_DATE
+    bibliographic_citation:
+      - refid: '@feijo:2002arquitetura'
+        page: "p. 88"
 
 media:
 

@@ -33,6 +33,108 @@ format:
       extent: area
       value: 150
 id: 6955H975+7PF
+resources:
+  - id: BR-RN-ACARI-R_ANTONIO_BASILIA_57-ARQTRAD-LVO-TER-DA-100
+    title: "Planta Baixa do Térreo"
+    resource_type: architecturalSurvey
+    perspective: "1"
+    format: "image/vnd.dxf"
+    unit:
+      refid_type: "uri"
+      refid: "aat:300379097"
+      title: "milímetros"
+    provided_image:
+      - "https://desenho.tradicional.arq.br/br-rn-acari-r_antonio_brasilia_57/BR-RN-ACARI-R_ANTONIO_BASILIA_57-ARQTRAD-LVO-TER-DA-100"
+    author: "orcid:0009-0006-7479-6365"
+    record_date: 2025-03-05
+    bibliographic_citation:
+      - refid: '@feijo:2002arquitetura'
+        page: "p. 107"
+  - id: BR-RN-ACARI-R_ANTONIO_BASILIA_57-ARQTRAD-LVO-F01-DA-100
+    title: "Elevação Frontal"
+    resource_type: architecturalSurvey
+    perspective: "2"
+    format: "image/vnd.dxf"
+    unit:
+      refid_type: "uri"
+      refid: "aat:300379097"
+      title: "milímetros"
+    provided_image:
+      - "https://desenho.tradicional.arq.br/br-rn-acari-r_antonio_brasilia_57/BR-RN-ACARI-R_ANTONIO_BASILIA_57-ARQTRAD-LVO-F01-DA-100"
+    author: "orcid:0009-0006-7479-6365"
+    record_date: 2025-03-05
+    bibliographic_citation:
+      - refid: '@feijo:2002arquitetura'
+        page: "p. 107"
+  - id: BR-RN-ACARI-R_ANTONIO_BASILIA_57-ARQTRAD-LVO-C01-DA-100
+    title: "Corte Longitudinal"
+    resource_type: architecturalSurvey
+    perspective: "3"
+    format: "image/vnd.dxf"
+    unit:
+      refid_type: "uri"
+      refid: "aat:300379097"
+      title: "milímetros"
+    provided_image:
+      - "https://desenho.tradicional.arq.br/br-rn-acari-r_antonio_brasilia_57/BR-RN-ACARI-R_ANTONIO_BASILIA_57-ARQTRAD-LVO-C01-DA-100"
+    author: "orcid:0009-0006-7479-6365"
+    record_date: 2025-03-05
+    bibliographic_citation:
+      - refid: '@feijo:2002arquitetura'
+        page: "p. 107"
+
+work_rights:
+  - rights_type: "specific"
+    statement:
+      refid_type: "uri"
+      refid: "https://rightsstatements.org/vocab/NKC/1.0/"
+      title: "Sem direito autoral conhecido"
+
+record_rights:
+  - rights_type: "specific"
+    statement:
+      refid_type: "uri"
+      refid: "https://creativecommons.org/licenses/by-sa/4.0/"
+      title: "Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)"
+    earliest_date:
+      date_type: exact
+      date_value: *RECORD_DATE
+    holder:
+      id: "doi:10.13039/100008994"
+      title: "Fundação Universidade de Brasília"
+      legal_body_type: "corporate"
+      weblink: "https://vereda.unb.br"
+      identifiers:
+        - refid: "isni:0000000122385157"
+          refid_type: "uri"
+          title: "ISNI"
+        - refid: "wd:Q1330634"
+          refid_type: "uri"
+          title: "Wikidata"
+  - rights_type: "specific"
+    statement:
+      refid_type: "uri"
+      refid: "https://creativecommons.org/licenses/by-sa/4.0/"
+      title: "Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)"
+    earliest_date:
+      date_type: exact
+      date_value: "2025-11-24"
+    latest_date:
+      date_type: exact
+      date_value: "2028-11-30"
+    holder:
+      id: "doi:10.13039/501100003593"
+      title: >
+        CNPq - Conselho Nacional de Desenvolvimento Científico e Tecnológico
+      description: "Termo de outorga 406601/2025-9"
+      legal_body_type: "corporate"
+      weblink: "https://cnpq.br"
+      identifiers:
+        - refid: "isni:0000000121892026"
+          refid_type: "uri"
+        - refid: "wd:Q2994429"
+          refid_type: "uri"
+          title: "Wikidata"
 ---
 
 Edificação implantada no alinhamento da rua, ocupando toda largura do lote e conjugada com suas vizinhas. Tem cobertura em duas águas, uma voltada para frente e a outra para os fundos. Provavelmente seguindo prescrições urbanísticas de posturas municipais, apresenta platibanda emoldurada por cornija. Esse modelo é também encontrado emoutras casas urbanas analisadas neste trabalho. A porta e janela da fachada apresentam verga em arco abatido e são contornadas por cercaduras feitas em massa. 
