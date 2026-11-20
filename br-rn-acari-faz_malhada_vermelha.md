@@ -1,7 +1,7 @@
 ---
 title: Fazenda Malhada Vermelha
 title_type: owner
-id: 684VRX8H+G8H
+id: 6955G96W+VFJ
 record_date: &RECORD_DATE "2024-05-02"
 author: "orcid:0009-0006-7479-6365"
 
