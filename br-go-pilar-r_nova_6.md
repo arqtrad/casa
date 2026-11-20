@@ -35,13 +35,13 @@ resources:
     title: "Planta Baixa do Térreo"
     resource_type: architecturalSurvey
     perspective: "1"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-go-pilar-r_nova_6/BR-GO-PILAR-R_NOVA_6-ARQTRAD-LVE-TER-DA-200.dxf"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-go-pilar-r_nova_6/BR-GO-PILAR-R_NOVA_6-ARQTRAD-LVE-TER-DA-200.dxf"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
@@ -50,26 +50,26 @@ resources:
     title: "Elevação"
     resource_type: architecturalSurvey
     perspective: "2"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-go-pilar-r_nova_6/BR-GO-PILAR-R_NOVA_6-ARQTRAD-LVE-F01-DA-200.dxf"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-go-pilar-r_nova_6/BR-GO-PILAR-R_NOVA_6-ARQTRAD-LVE-F01-DA-200.dxf"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
   - id: "BR-GO-PILAR-R_NOVA_6-ARQTRAD-LVE-C01-DA-200"
     title: "Corte"
     resource_type: architecturalSurvey
     perspective: "3"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-go-pilar-r_nova_6/BR-GO-PILAR-R_NOVA_6-ARQTRAD-LVE-C01-DA-200.dxf"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-go-pilar-r_nova_6/BR-GO-PILAR-R_NOVA_6-ARQTRAD-LVE-C01-DA-200.dxf"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
 

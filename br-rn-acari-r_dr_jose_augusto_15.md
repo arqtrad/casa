@@ -38,13 +38,13 @@ resources:
     title: "Planta Baixa do Térreo"
     resource_type: architecturalSurvey
     perspective: "1"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-rn-acari-r_dr_jose_augusto_15/BR-RN-ACARI-R_DR_JOSE_AUGUSTO_15-ARQTRAD-LVO-TER-DA-100"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-rn-acari-r_dr_jose_augusto_15/BR-RN-ACARI-R_DR_JOSE_AUGUSTO_15-ARQTRAD-LVO-TER-DA-100"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
@@ -54,13 +54,13 @@ resources:
     title: "Elevação Frontal"
     resource_type: architecturalSurvey
     perspective: "2"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-rn-acari-r_dr_jose_augusto_15/BR-RN-ACARI-R_DR_JOSE_AUGUSTO_15-ARQTRAD-LVO-F01-DA-100"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-rn-acari-r_dr_jose_augusto_15/BR-RN-ACARI-R_DR_JOSE_AUGUSTO_15-ARQTRAD-LVO-F01-DA-100"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
@@ -70,13 +70,13 @@ resources:
     title: "Corte Longitudinal"
     resource_type: architecturalSurvey
     perspective: "3"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-rn-acari-r_dr_jose_augusto_15/BR-RN-ACARI-R_DR_JOSE_AUGUSTO_15-ARQTRAD-LVO-C01-DA-100"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-rn-acari-r_dr_jose_augusto_15/BR-RN-ACARI-R_DR_JOSE_AUGUSTO_15-ARQTRAD-LVO-C01-DA-100"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:

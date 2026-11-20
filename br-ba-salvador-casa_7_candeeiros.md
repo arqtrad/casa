@@ -129,13 +129,13 @@ resources:
     title: "Planta Baixa do Térreo"
     resource_type: architecturalSurvey
     perspective: "1"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-ba-salvador-casa_sete_candeeiros/BR-BA-SALVADOR-CASA_SETE_CANDEEIROS-ARQTRAD-LVE-TER-DA-200.dxf"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-ba-salvador-casa_sete_candeeiros/BR-BA-SALVADOR-CASA_SETE_CANDEEIROS-ARQTRAD-LVE-TER-DA-200.dxf"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
@@ -145,13 +145,13 @@ resources:
     title: "Planta Baixa do Primeiro Pavimento"
     resource_type: architecturalSurvey
     perspective: "1"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-ba-salvador-casa_sete_candeeiros/BR-BA-SALVADOR-CASA_SETE_CANDEEIROS-ARQTRAD-LVE-P01-DA-200.dxf"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-ba-salvador-casa_sete_candeeiros/BR-BA-SALVADOR-CASA_SETE_CANDEEIROS-ARQTRAD-LVE-P01-DA-200.dxf"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
@@ -161,13 +161,13 @@ resources:
     title: "Elevação"
     resource_type: architecturalSurvey
     perspective: "2"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-ba-salvador-casa_sete_candeeiros/BR-BA-SALVADOR-CASA_SETE_CANDEEIROS-ARQTRAD-LVE-F01-DA-200.dxf"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-ba-salvador-casa_sete_candeeiros/BR-BA-SALVADOR-CASA_SETE_CANDEEIROS-ARQTRAD-LVE-F01-DA-200.dxf"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
@@ -177,13 +177,13 @@ resources:
     title: "Corte Longitudinal"
     resource_type: architecturalSurvey
     perspective: "3"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-ba-salvador-casa_sete_candeeiros/BR-BA-SALVADOR-CASA_SETE_CANDEEIROS-ARQTRAD-LVE-C01-DA-200.dxf"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-ba-salvador-casa_sete_candeeiros/BR-BA-SALVADOR-CASA_SETE_CANDEEIROS-ARQTRAD-LVE-C01-DA-200.dxf"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:

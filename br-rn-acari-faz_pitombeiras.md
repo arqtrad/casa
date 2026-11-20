@@ -42,13 +42,13 @@ resources:
     title: "Planta Baixa do Térreo"
     resource_type: architecturalSurvey
     perspective: "1"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-rn-acari-faz_pitombeiras/BR-RN-ACARI-FAZ_PITOMBEIRAS-ARQTRAD-LVO-TER-DA-100"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-rn-acari-faz_pitombeiras/BR-RN-ACARI-FAZ_PITOMBEIRAS-ARQTRAD-LVO-TER-DA-100"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
@@ -58,13 +58,13 @@ resources:
     title: "Planta Baixa do Sótão"
     resource_type: architecturalSurvey
     perspective: "1"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-rn-acari-faz_pitombeiras/BR-RN-ACARI-FAZ_PITOMBEIRAS-ARQTRAD-LVO-SOB-DA-100"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-rn-acari-faz_pitombeiras/BR-RN-ACARI-FAZ_PITOMBEIRAS-ARQTRAD-LVO-SOB-DA-100"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
@@ -74,13 +74,13 @@ resources:
     title: "Elevação Frontal"
     resource_type: architecturalSurvey
     perspective: "2"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-rn-acari-faz_pitombeiras/BR-RN-ACARI-FAZ_PITOMBEIRAS-ARQTRAD-LVO-F01-DA-100"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-rn-acari-faz_pitombeiras/BR-RN-ACARI-FAZ_PITOMBEIRAS-ARQTRAD-LVO-F01-DA-100"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
@@ -90,13 +90,13 @@ resources:
     title: "Corte Longitudinal"
     resource_type: architecturalSurvey
     perspective: "3"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-rn-acari-faz_pitombeiras/BR-RN-ACARI-FAZ_PITOMBEIRAS-ARQTRAD-LVO-C01-DA-100"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-rn-acari-faz_pitombeiras/BR-RN-ACARI-FAZ_PITOMBEIRAS-ARQTRAD-LVO-C01-DA-100"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:

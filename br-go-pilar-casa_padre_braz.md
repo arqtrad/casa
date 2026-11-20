@@ -35,13 +35,13 @@ resources:
     title: "Planta Baixa do Térreo"
     resource_type: architecturalSurvey
     perspective: "1"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-go-pilar-casa_padre_braz/BR-GO-PILAR-CASA_PADRE_BRAZ-ARQTRAD-LVE-TER-DA-400"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-go-pilar-casa_padre_braz/BR-GO-PILAR-CASA_PADRE_BRAZ-ARQTRAD-LVE-TER-DA-400"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
@@ -50,13 +50,13 @@ resources:
     title: "Elevação"
     resource_type: architecturalSurvey
     perspective: "2"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-go-pilar-casa_padre_braz/BR-GO-PILAR-CASA_PADRE_BRAZ-ARQTRAD-LVE-F01-DA-400"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-go-pilar-casa_padre_braz/BR-GO-PILAR-CASA_PADRE_BRAZ-ARQTRAD-LVE-F01-DA-400"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
@@ -65,13 +65,13 @@ resources:
     title: "Elevação"
     resource_type: architecturalSurvey
     perspective: "2"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-go-pilar-casa_padre_braz/BR-GO-PILAR-CASA_PADRE_BRAZ-ARQTRAD-LVE-F02-DA-400"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-go-pilar-casa_padre_braz/BR-GO-PILAR-CASA_PADRE_BRAZ-ARQTRAD-LVE-F02-DA-400"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
