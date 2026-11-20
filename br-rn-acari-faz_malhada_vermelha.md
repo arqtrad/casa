@@ -1,7 +1,7 @@
 ---
 title: Fazenda Malhada Vermelha
 title_type: owner
-id: 684VRX8H+G8H
+id: 6955G96W+VFJ
 record_date: &RECORD_DATE "2024-05-02"
 author: "orcid:0009-0006-7479-6365"
 
@@ -161,54 +161,54 @@ measurements:
 resources:
   - id: "BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-TER-DA-100"
     title: Planta do pavimento térreo
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: 1
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-rn-acari-faz_malhada_vermelha/BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-TER-DA-100.dxf"
+      - content_url: "https://desenho.tradicional.arq.br/br-rn-acari-faz_malhada_vermelha/BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-TER-DA-100.dxf"
+        format: "image/vnd.dxf"
     author: "orcid:0009-0006-7479-6365"
     record_date: *RECORD_DATE
   - id: "BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-SOB-DA-100"
     title: Planta do pavimento térreo
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: 1
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-rn-acari-faz_malhada_vermelha/BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-SOB-DA-100.dxf"
+      - content_url: "https://desenho.tradicional.arq.br/br-rn-acari-faz_malhada_vermelha/BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-SOB-DA-100.dxf"
+        format: "image/vnd.dxf"
     author: "orcid:0009-0006-7479-6365"
     record_date: *RECORD_DATE
   - id: "BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-F01-DA-100"
     title: Planta do pavimento térreo
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: 2
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-rn-acari-faz_malhada_vermelha/BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-F01-DA-100.dxf"
+      - content_url: "https://desenho.tradicional.arq.br/br-rn-acari-faz_malhada_vermelha/BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-F01-DA-100.dxf"
+        format: "image/vnd.dxf"
     author: "orcid:0009-0006-7479-6365"
     record_date: *RECORD_DATE
   - id: "BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-C01-DA-100"
     title: Planta do pavimento térreo
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: 3
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-rn-acari-faz_malhada_vermelha/BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-C01-DA-100.dxf"
+      - content_url: "https://desenho.tradicional.arq.br/br-rn-acari-faz_malhada_vermelha/BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-C01-DA-100.dxf"
+        format: "image/vnd.dxf"
     author: "orcid:0009-0006-7479-6365"
     record_date: *RECORD_DATE
 
