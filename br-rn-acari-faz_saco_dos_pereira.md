@@ -37,7 +37,7 @@ id: 6955H9HP+VHV
 resources:
   - id: BR-RN-ACARI-FAZ_SACO_DOS_PEREIRA-ARQTRAD-LVO-TER-DA-100
     title: "Planta Baixa do Térreo"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "1"
     unit:
       refid_type: "uri"
@@ -53,7 +53,7 @@ resources:
         page: "p. 99"
   - id: BR-RN-ACARI-FAZ_SACO_DOS_PEREIRA-ARQTRAD-LVO-F01-DA-100
     title: "Elevação Frontal"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "2"
     unit:
       refid_type: "uri"
@@ -69,7 +69,7 @@ resources:
         page: "p. 99"
   - id: BR-RN-ACARI-FAZ_SACO_DOS_PEREIRA-ARQTRAD-LVO-C01-DA-100
     title: "Corte Longitudinal"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "3"
     unit:
       refid_type: "uri"

@@ -127,7 +127,7 @@ location_historic:
 resources:
   - id: "BR-BA-SALVADOR-CASA_SETE_CANDEEIROS-ARQTRAD-LVE-TER-DA-200"
     title: "Planta Baixa do Térreo"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "1"
     unit:
       refid_type: "uri"
@@ -143,7 +143,7 @@ resources:
         page: "p. 25"
   - id: "BR-BA-SALVADOR-CASA_SETE_CANDEEIROS-ARQTRAD-LVE-P01-DA-200"
     title: "Planta Baixa do Primeiro Pavimento"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "1"
     unit:
       refid_type: "uri"
@@ -159,7 +159,7 @@ resources:
         page: "p. 25"
   - id: "BR-BA-SALVADOR-CASA_SETE_CANDEEIROS-ARQTRAD-LVE-F01-DA-200"
     title: "Elevação"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "2"
     unit:
       refid_type: "uri"
@@ -175,7 +175,7 @@ resources:
         page: "p. 25"
   - id: "BR-BA-SALVADOR-CASA_SETE_CANDEEIROS-ARQTRAD-LVE-C01-DA-200"
     title: "Corte Longitudinal"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "3"
     unit:
       refid_type: "uri"

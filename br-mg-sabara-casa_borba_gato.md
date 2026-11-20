@@ -37,7 +37,7 @@ resources:
       refid_type: "uri"
       refid: "aat:300266190"
       title: "Planta Baixa"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "1"
     unit:
       refid_type: "uri"
@@ -56,7 +56,7 @@ resources:
       refid_type: "uri"
       refid: "aat:300266190"
       title: "Planta Baixa"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "1"
     unit:
       refid_type: "uri"
@@ -75,7 +75,7 @@ resources:
       refid_type: "uri"
       refid: "aat:300034223"
       title: "Corte"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "3"
     unit:
       refid_type: "uri"

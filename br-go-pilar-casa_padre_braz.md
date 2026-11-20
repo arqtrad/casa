@@ -33,7 +33,7 @@ id: 58QG6CMC+FC9
 resources:
   - id: BR-GO-PILAR-CASA_PADRE_BRAZ-ARQTRAD-LVE-TER-DA-400
     title: "Planta Baixa do Térreo"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "1"
     unit:
       refid_type: "uri"
@@ -48,7 +48,7 @@ resources:
       - refid: '@iphan:2010casas'
   - id: BR-GO-PILAR-CASA_PADRE_BRAZ-ARQTRAD-LVE-F01-DA-400
     title: "Elevação"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "2"
     unit:
       refid_type: "uri"
@@ -63,7 +63,7 @@ resources:
       - refid: '@iphan:2010casas'
   - id: BR-GO-PILAR-CASA_PADRE_BRAZ-ARQTRAD-LVE-F02-DA-400
     title: "Elevação"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "2"
     unit:
       refid_type: "uri"

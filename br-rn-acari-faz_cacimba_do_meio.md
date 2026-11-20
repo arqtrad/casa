@@ -37,7 +37,7 @@ id: 6955JCJJ+C87
 resources:
   - id: "BR-RN-ACARI-FAZ_CACIMBA_DO_MEIO-ARQTRAD-LVO-TER-DA-100"
     title: "Planta Baixa"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "1"
     unit:
       refid_type: "uri"
@@ -53,7 +53,7 @@ resources:
         page: "p. 69"
   - id: "BR-RN-ACARI-FAZ_CACIMBA_DO_MEIO-ARQTRAD-LVO-F01-DA-100"
     title: "Elevação"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "2"
     unit:
       refid_type: "uri"
@@ -69,7 +69,7 @@ resources:
         page: "p. 69"
   - id: "BR-RN-ACARI-FAZ_CACIMBA_DO_MEIO-ARQTRAD-LVO-C01-DA-100"
     title: "Corte"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "3"
     unit:
       refid_type: "uri"

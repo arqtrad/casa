@@ -40,7 +40,7 @@ id: 6955G82Q+QGV
 resources:
   - id: BR-RN-ACARI-FAZ_PITOMBEIRAS-ARQTRAD-LVO-TER-DA-100
     title: "Planta Baixa do Térreo"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "1"
     unit:
       refid_type: "uri"
@@ -56,7 +56,7 @@ resources:
         page: "p. 95"
   - id: BR-RN-ACARI-FAZ_PITOMBEIRAS-ARQTRAD-LVO-SOB-DA-100
     title: "Planta Baixa do Sótão"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "1"
     unit:
       refid_type: "uri"
@@ -72,7 +72,7 @@ resources:
         page: "p. 95"
   - id: BR-RN-ACARI-FAZ_PITOMBEIRAS-ARQTRAD-LVO-F01-DA-100
     title: "Elevação Frontal"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "2"
     unit:
       refid_type: "uri"
@@ -88,7 +88,7 @@ resources:
         page: "p. 95"
   - id: BR-RN-ACARI-FAZ_PITOMBEIRAS-ARQTRAD-LVO-C01-DA-100
     title: "Corte Longitudinal"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "3"
     unit:
       refid_type: "uri"

@@ -37,7 +37,7 @@ id: 6954FWFX+R4H
 resources:
   - id: "BR-RN-ACARI-FAZ_CARNAUBINHA-ARQTRAD-LVO-TER-DA-100"
     title: "Planta Baixa"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "1"
     unit:
       refid_type: "uri"
@@ -53,7 +53,7 @@ resources:
         page: "p. 80"
   - id: "BR-RN-ACARI-FAZ_CARNAUBINHA-ARQTRAD-LVO-SOB-DA-100"
     title: "Planta Baixa do Sótão"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "1"
     unit:
       refid_type: "uri"
@@ -69,7 +69,7 @@ resources:
         page: "p. 80"
   - id: "BR-RN-ACARI-FAZ_CARNAUBINHA-ARQTRAD-LVO-F01-DA-100"
     title: "Elevação"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "2"
     unit:
       refid_type: "uri"
@@ -85,7 +85,7 @@ resources:
         page: "p. 80"
   - id: "BR-RN-ACARI-FAZ_CARNAUBINHA-ARQTRAD-LVO-C01-DA-100"
     title: "Corte"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "3"
     unit:
       refid_type: "uri"

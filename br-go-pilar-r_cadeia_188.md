@@ -33,7 +33,7 @@ id: 58QG6CMC+FF6
 resources:
   - id: "BR-GO-PILAR-R_CADEIA_188-ARQTRAD-LVE-TER-DA-100"
     title: "Planta Baixa do Térreo"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "1"
     unit:
       refid_type: "uri"
@@ -48,7 +48,7 @@ resources:
       - refid: '@iphan:2010casas'
   - id: "BR-GO-PILAR-R_CADEIA_188-ARQTRAD-LVE-F01-DA-100"
     title: "Elevação 01"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "2"
     unit:
       refid_type: "uri"
@@ -63,7 +63,7 @@ resources:
       - refid: '@iphan:2010casas'
   - id: "BR-GO-PILAR-R_CADEIA_188-ARQTRAD-LVE-F02-DA-100"
     title: "Elevação 02"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "2"
     unit:
       refid_type: "uri"
@@ -78,7 +78,7 @@ resources:
       - refid: '@iphan:2010casas'
   - id: "BR-GO-PILAR-R_CADEIA_188-ARQTRAD-LVE-C01-DA-100"
     title: "Corte 01"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "3"
     unit:
       refid_type: "uri"
@@ -93,7 +93,7 @@ resources:
       - refid: '@iphan:2010casas'
   - id: "BR-GO-PILAR-R_CADEIA_188-ARQTRAD-LVE-C02-DA-100"
     title: "Corte 02"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "3"
     unit:
       refid_type: "uri"

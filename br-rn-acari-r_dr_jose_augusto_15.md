@@ -36,7 +36,7 @@ id: 6955H966+W9V
 resources:
   - id: BR-RN-ACARI-R_DR_JOSE_AUGUSTO_15-ARQTRAD-LVO-TER-DA-100
     title: "Planta Baixa do Térreo"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "1"
     unit:
       refid_type: "uri"
@@ -52,7 +52,7 @@ resources:
         page: "p. 117"
   - id: BR-RN-ACARI-R_DR_JOSE_AUGUSTO_15-ARQTRAD-LVO-F01-DA-100
     title: "Elevação Frontal"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "2"
     unit:
       refid_type: "uri"
@@ -68,7 +68,7 @@ resources:
         page: "p. 117"
   - id: BR-RN-ACARI-R_DR_JOSE_AUGUSTO_15-ARQTRAD-LVO-C01-DA-100
     title: "Corte Longitudinal"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "3"
     unit:
       refid_type: "uri"

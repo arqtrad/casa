@@ -35,7 +35,7 @@ id: 6955H975+XJH
 resources:
   - id: "BR-RN-ACARI-FAZ_CAICARINHA-ARQTRAD-LVO-TER-DA-100"
     title: "Planta Baixa"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "1"
     unit:
       refid_type: "uri"
@@ -51,7 +51,7 @@ resources:
         page: "p. 73"
   - id: "BR-RN-ACARI-FAZ_CAICARINHA-ARQTRAD-LVO-SOB-DA-100"
     title: "Planta Baixa do Sótão"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "1"
     unit:
       refid_type: "uri"
@@ -67,7 +67,7 @@ resources:
         page: "p. 73"
   - id: "BR-RN-ACARI-FAZ_CAICARINHA-ARQTRAD-LVO-F01-DA-100"
     title: "Elevação"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "2"
     unit:
       refid_type: "uri"
@@ -83,7 +83,7 @@ resources:
         page: "p. 73"
   - id: "BR-RN-ACARI-FAZ_CAICARINHA-ARQTRAD-LVO-C01-DA-100"
     title: "Corte"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "3"
     unit:
       refid_type: "uri"
