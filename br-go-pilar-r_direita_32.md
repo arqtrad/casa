@@ -33,60 +33,60 @@ id: 58QG6CMC+FFC
 resources:
   - id: "BR-GO-PILAR-R_DIREITA_32-ARQTRAD-LVE-TER-DA-100"
     title: "Planta Baixa do Térreo"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "1"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-go-pilar-r_direita_32/BR-GO-PILAR-R_DIREITA_32-ARQTRAD-LVE-TER-DA-100.dxf"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-go-pilar-r_direita_32/BR-GO-PILAR-R_DIREITA_32-ARQTRAD-LVE-TER-DA-100.dxf"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
       - refid: '@iphan:2010casas'
   - id: "BR-GO-PILAR-R_DIREITA_32-ARQTRAD-LVE-F01-DA-100"
     title: "Elevação 01"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "2"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-go-pilar-r_direita_32/BR-GO-PILAR-R_DIREITA_32-ARQTRAD-LVE-F01-DA-100.dxf"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-go-pilar-r_direita_32/BR-GO-PILAR-R_DIREITA_32-ARQTRAD-LVE-F01-DA-100.dxf"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
       - refid: '@iphan:2010casas'
   - id: "BR-GO-PILAR-R_DIREITA_32-ARQTRAD-LVE-F02-DA-100"
     title: "Elevação 02"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "2"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-go-pilar-r_direita_32/BR-GO-PILAR-R_DIREITA_32-ARQTRAD-LVE-F02-DA-100.dxf"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-go-pilar-r_direita_32/BR-GO-PILAR-R_DIREITA_32-ARQTRAD-LVE-F02-DA-100.dxf"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
       - refid: '@iphan:2010casas'
   - id: "BR-GO-PILAR-R_DIREITA_32-ARQTRAD-LVE-C01-DA-100"
     title: "Corte 01"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "3"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-go-pilar-r_direita_32/BR-GO-PILAR-R_DIREITA_32-ARQTRAD-LVE-C01-DA-100.dxf"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-go-pilar-r_direita_32/BR-GO-PILAR-R_DIREITA_32-ARQTRAD-LVE-C01-DA-100.dxf"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:

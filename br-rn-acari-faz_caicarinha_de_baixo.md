@@ -37,15 +37,15 @@ id: 6955H9C5+47F
 resources:
   - id: "BR-RN-ACARI-FAZ_CAICARINHA_DE_BAIXO-ARQTRAD-LVO-TER-DA-100"
     title: "Planta Baixa"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "1"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-rn-acari-faz_caicarinha_de_baixo/BR-RN-ACARI-FAZ_CAICARINHA_DE_BAIXO-ARQTRAD-LVO-TER-DA-100.dxf"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-rn-acari-faz_caicarinha_de_baixo/BR-RN-ACARI-FAZ_CAICARINHA_DE_BAIXO-ARQTRAD-LVO-TER-DA-100.dxf"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
@@ -53,15 +53,15 @@ resources:
         note: "p. 76"
   - id: "BR-RN-ACARI-FAZ_CAICARINHA_DE_BAIXO-ARQTRAD-LVO-F01-DA-100"
     title: "Elevação"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "2"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-rn-acari-faz_caicarinha_de_baixo/BR-RN-ACARI-FAZ_CAICARINHA_DE_BAIXO-ARQTRAD-LVO-F01-DA-100.dxf"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-rn-acari-faz_caicarinha_de_baixo/BR-RN-ACARI-FAZ_CAICARINHA_DE_BAIXO-ARQTRAD-LVO-F01-DA-100.dxf"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
@@ -69,15 +69,15 @@ resources:
         note: "p. 76"
   - id: "BR-RN-ACARI-FAZ_CAICARINHA_DE_BAIXO-ARQTRAD-LVO-C01-DA-100"
     title: "Corte"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "3"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-rn-acari-faz_caicarinha_de_baixo/BR-RN-ACARI-FAZ_CAICARINHA_DE_BAIXO-ARQTRAD-LVO-C01-DA-100.dxf"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-rn-acari-faz_caicarinha_de_baixo/BR-RN-ACARI-FAZ_CAICARINHA_DE_BAIXO-ARQTRAD-LVO-C01-DA-100.dxf"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:

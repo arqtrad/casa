@@ -37,15 +37,15 @@ resources:
       refid_type: "uri"
       refid: "aat:300266190"
       title: "Planta Baixa"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "1"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-mg-sabara-casa_borba_gato/BR-MG-SABARA-BORBA_GATO_71-ARQTRAD-LVE-TER-DA-100.dxf"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-mg-sabara-casa_borba_gato/BR-MG-SABARA-BORBA_GATO_71-ARQTRAD-LVE-TER-DA-100.dxf"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2026-03-05
     bibliographic_citation:
@@ -56,15 +56,15 @@ resources:
       refid_type: "uri"
       refid: "aat:300266190"
       title: "Planta Baixa"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "1"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-mg-sabara-casa_borba_gato/BR-MG-SABARA-BORBA_GATO_71-ARQTRAD-LVE-P01-DA-100.dxf"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-mg-sabara-casa_borba_gato/BR-MG-SABARA-BORBA_GATO_71-ARQTRAD-LVE-P01-DA-100.dxf"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
@@ -75,15 +75,15 @@ resources:
       refid_type: "uri"
       refid: "aat:300034223"
       title: "Corte"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "3"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-mg-sabara-casa_borba_gato/BR-MG-SABARA-BORBA_GATO_71-ARQTRAD-LVE-C01-DA-100.dxf"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-mg-sabara-casa_borba_gato/BR-MG-SABARA-BORBA_GATO_71-ARQTRAD-LVE-C01-DA-100.dxf"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
