@@ -176,7 +176,11 @@ resources:
       - refid: '@feijo:2002arquitetura'
         note: "p. 88"
   - id: "BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-SOB-DA-100"
+<<<<<<< HEAD
     title: Planta do sótão
+=======
+    title: Planta do pavimento térreo
+>>>>>>> upstream/main
     relation_type: architecturalSurvey
     perspective: 1
     unit:
@@ -192,7 +196,11 @@ resources:
       - refid: '@feijo:2002arquitetura'
         note: "p. 88"
   - id: "BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-F01-DA-100"
+<<<<<<< HEAD
     title: Fachada frontal
+=======
+    title: Planta do pavimento térreo
+>>>>>>> upstream/main
     relation_type: architecturalSurvey
     perspective: 2
     unit:
@@ -208,7 +216,11 @@ resources:
       - refid: '@feijo:2002arquitetura'
         note: "p. 88"
   - id: "BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-C01-DA-100"
+<<<<<<< HEAD
     title: "Corte 01"
+=======
+    title: Planta do pavimento térreo
+>>>>>>> upstream/main
     relation_type: architecturalSurvey
     perspective: 3
     unit:
