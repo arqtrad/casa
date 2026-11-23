@@ -50,7 +50,7 @@ resources:
     record_date: 2025-03-05
     bibliographic_citation:
       - refid: '@feijo:2002arquitetura'
-        page: "p. 99"
+        note: "p. 99"
   - id: BR-RN-ACARI-FAZ_SACO_DOS_PEREIRA-ARQTRAD-LVO-F01-DA-100
     title: "Elevação Frontal"
     resource_type: architecturalSurvey
@@ -66,7 +66,7 @@ resources:
     record_date: 2025-03-05
     bibliographic_citation:
       - refid: '@feijo:2002arquitetura'
-        page: "p. 99"
+        note: "p. 99"
   - id: BR-RN-ACARI-FAZ_SACO_DOS_PEREIRA-ARQTRAD-LVO-C01-DA-100
     title: "Corte Longitudinal"
     resource_type: architecturalSurvey
@@ -82,7 +82,7 @@ resources:
     record_date: 2025-03-05
     bibliographic_citation:
       - refid: '@feijo:2002arquitetura'
-        page: "p. 99"
+        note: "p. 99"
 
 work_rights:
   - rights_type: "specific"

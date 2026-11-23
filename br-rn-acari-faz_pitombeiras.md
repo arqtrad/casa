@@ -53,7 +53,7 @@ resources:
     record_date: 2025-03-05
     bibliographic_citation:
       - refid: '@feijo:2002arquitetura'
-        page: "p. 95"
+        note: "p. 95"
   - id: BR-RN-ACARI-FAZ_PITOMBEIRAS-ARQTRAD-LVO-SOB-DA-100
     title: "Planta Baixa do Sótão"
     resource_type: architecturalSurvey
@@ -69,7 +69,7 @@ resources:
     record_date: 2025-03-05
     bibliographic_citation:
       - refid: '@feijo:2002arquitetura'
-        page: "p. 95"
+        note: "p. 95"
   - id: BR-RN-ACARI-FAZ_PITOMBEIRAS-ARQTRAD-LVO-F01-DA-100
     title: "Elevação Frontal"
     resource_type: architecturalSurvey
@@ -85,7 +85,7 @@ resources:
     record_date: 2025-03-05
     bibliographic_citation:
       - refid: '@feijo:2002arquitetura'
-        page: "p. 95"
+        note: "p. 95"
   - id: BR-RN-ACARI-FAZ_PITOMBEIRAS-ARQTRAD-LVO-C01-DA-100
     title: "Corte Longitudinal"
     resource_type: architecturalSurvey
@@ -101,7 +101,7 @@ resources:
     record_date: 2025-03-05
     bibliographic_citation:
       - refid: '@feijo:2002arquitetura'
-        page: "p. 95"
+        note: "p. 95"
 
 work_rights:
   - rights_type: "specific"

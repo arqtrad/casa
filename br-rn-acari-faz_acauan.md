@@ -49,7 +49,7 @@ resources:
     record_date: 2025-03-05
     bibliographic_citation:
       - refid: '@feijo:2002arquitetura'
-        page: "p.62"
+        note: "p.62"
   - id: "BR-RN-ACARI-FAZ_ACAUAN-ARQTRAD-LVO-F01-DA-100"
     title: "Elevação"
     resource_type: architecturalSurvey
@@ -65,7 +65,7 @@ resources:
     record_date: 2025-03-05
     bibliographic_citation:
       - refid: '@feijo:2002arquitetura'
-        page: "p.62"
+        note: "p.62"
   - id: "BR-RN-ACARI-FAZ_ACAUAN-ARQTRAD-LVO-C01-DA-100"
     title: "Corte"
     resource_type: architecturalSurvey
@@ -81,7 +81,7 @@ resources:
     record_date: 2025-03-05
     bibliographic_citation:
       - refid: '@feijo:2002arquitetura'
-        page: "p.62"
+        note: "p.62"
 
 work_rights:
   - rights_type: "specific"

@@ -174,7 +174,7 @@ resources:
     record_date: *RECORD_DATE
     bibliographic_citation:
       - refid: '@feijo:2002arquitetura'
-        page: "p. 88"
+        note: "p. 88"
   - id: "BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-SOB-DA-100"
     title: Planta Baixa Do Sótão
     resource_type: architecturalSurvey
@@ -190,7 +190,7 @@ resources:
     record_date: *RECORD_DATE
     bibliographic_citation:
       - refid: '@feijo:2002arquitetura'
-        page: "p. 88"
+        note: "p. 88"
   - id: "BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-F01-DA-100"
     title: "Elevação Frontal"
     resource_type: architecturalSurvey
@@ -206,7 +206,7 @@ resources:
     record_date: *RECORD_DATE
     bibliographic_citation:
       - refid: '@feijo:2002arquitetura'
-        page: "p. 88"
+        note: "p. 88"
   - id: "BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-C01-DA-100"
     title: "Corte"
     resource_type: architecturalSurvey
@@ -222,7 +222,7 @@ resources:
     record_date: *RECORD_DATE
     bibliographic_citation:
       - refid: '@feijo:2002arquitetura'
-        page: "p. 88"
+        note: "p. 88"
 
 media:
 

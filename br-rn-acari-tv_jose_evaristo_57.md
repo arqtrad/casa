@@ -33,6 +33,124 @@ format:
       extent: area
       value: 233
 id: 6955H966+V4X
+resources:
+  - id: BR-RN-ACARI-TV_JOSE_EVARISTO_57-ARQTRAD-LVO-TER-DA-100
+    title: "Planta Baixa do Térreo"
+    resource_type: architecturalSurvey
+    perspective: "1"
+    format: "image/vnd.dxf"
+    unit:
+      refid_type: "uri"
+      refid: "aat:300379097"
+      title: "milímetros"
+    provided_image:
+      - "https://desenho.tradicional.arq.br/br-rn-acari-tv_jose_evaristo_57/BR-RN-ACARI-TV_JOSE_EVARISTO_57-ARQTRAD-LVO-TER-DA-100"
+    author: "orcid:0009-0006-7479-6365"
+    record_date: 2025-03-05
+    bibliographic_citation:
+      - refid: '@feijo:2002arquitetura'
+        note: "p. 142"
+  - id: BR-RN-ACARI-TV_JOSE_EVARISTO_57-ARQTRAD-LVO-SOB-DA-100
+    title: "Planta Baixa do Sótão"
+    resource_type: architecturalSurvey
+    perspective: "1"
+    format: "image/vnd.dxf"
+    unit:
+      refid_type: "uri"
+      refid: "aat:300379097"
+      title: "milímetros"
+    provided_image:
+      - "https://desenho.tradicional.arq.br/br-rn-acari-tv_jose_evaristo_57/BR-RN-ACARI-TV_JOSE_EVARISTO_57-ARQTRAD-LVO-SOB-DA-100"
+    author: "orcid:0009-0006-7479-6365"
+    record_date: 2025-03-05
+    bibliographic_citation:
+      - refid: '@feijo:2002arquitetura'
+        note: "p. 142"
+  - id: BR-RN-ACARI-TV_JOSE_EVARISTO_57-ARQTRAD-LVO-F01-DA-100
+    title: "Elevação Frontal"
+    resource_type: architecturalSurvey
+    perspective: "2"
+    format: "image/vnd.dxf"
+    unit:
+      refid_type: "uri"
+      refid: "aat:300379097"
+      title: "milímetros"
+    provided_image:
+      - "https://desenho.tradicional.arq.br/br-rn-acari-tv_jose_evaristo_57/BR-RN-ACARI-TV_JOSE_EVARISTO_57-ARQTRAD-LVO-F01-DA-100"
+    author: "orcid:0009-0006-7479-6365"
+    record_date: 2025-03-05
+    bibliographic_citation:
+      - refid: '@feijo:2002arquitetura'
+        note: "p. 142"
+  - id: BR-RN-ACARI-TV_JOSE_EVARISTO_57-ARQTRAD-LVO-C01-DA-100
+    title: "Corte Longitudinal"
+    resource_type: architecturalSurvey
+    perspective: "3"
+    format: "image/vnd.dxf"
+    unit:
+      refid_type: "uri"
+      refid: "aat:300379097"
+      title: "milímetros"
+    provided_image:
+      - "https://desenho.tradicional.arq.br/br-rn-acari-tv_jose_evaristo_57/BR-RN-ACARI-TV_JOSE_EVARISTO_57-ARQTRAD-LVO-C01-DA-100"
+    author: "orcid:0009-0006-7479-6365"
+    record_date: 2025-03-05
+    bibliographic_citation:
+      - refid: '@feijo:2002arquitetura'
+        note: "p. 142"
+
+work_rights:
+  - rights_type: "specific"
+    statement:
+      refid_type: "uri"
+      refid: "https://rightsstatements.org/vocab/NKC/1.0/"
+      title: "Sem direito autoral conhecido"
+
+record_rights:
+  - rights_type: "specific"
+    statement:
+      refid_type: "uri"
+      refid: "https://creativecommons.org/licenses/by-sa/4.0/"
+      title: "Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)"
+    earliest_date:
+      date_type: exact
+      date_value: *RECORD_DATE
+    holder:
+      id: "doi:10.13039/100008994"
+      title: "Fundação Universidade de Brasília"
+      legal_body_type: "corporate"
+      weblink: "https://vereda.unb.br"
+      identifiers:
+        - refid: "isni:0000000122385157"
+          refid_type: "uri"
+          title: "ISNI"
+        - refid: "wd:Q1330634"
+          refid_type: "uri"
+          title: "Wikidata"
+  - rights_type: "specific"
+    statement:
+      refid_type: "uri"
+      refid: "https://creativecommons.org/licenses/by-sa/4.0/"
+      title: "Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)"
+    earliest_date:
+      date_type: exact
+      date_value: "2025-11-24"
+    latest_date:
+      date_type: exact
+      date_value: "2028-11-30"
+    holder:
+      id: "doi:10.13039/501100003593"
+      title: >
+        CNPq - Conselho Nacional de Desenvolvimento Científico e Tecnológico
+      description: "Termo de outorga 406601/2025-9"
+      legal_body_type: "corporate"
+      weblink: "https://cnpq.br"
+      identifiers:
+        - refid: "isni:0000000121892026"
+          refid_type: "uri"
+        - refid: "wd:Q2994429"
+          refid_type: "uri"
+          title: "Wikidata"
 ---
 
 Esta era a casa do Coronel Silvino Bezerra, líder político do município. Apesar de ter sido construída com esmerados elementos decorativos, identificados pelos detalhes e ornatos que possui, trata-se basicamente de uma edificação urbana variante da casa de fazenda, com seu sótão, tão de acordo com o gosto da época. Foi construída num lote do esquina com sua fechada lateral esquerda no alinhamento da rua e a direita voltada para um terreno. Há algum tempo, este terreno foi ocupado por uma construção em dois pavimentos, a cujo pavimento superior se tem acesso através do sótão da referida casa. 

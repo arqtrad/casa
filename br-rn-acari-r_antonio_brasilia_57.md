@@ -49,7 +49,7 @@ resources:
     record_date: 2025-03-05
     bibliographic_citation:
       - refid: '@feijo:2002arquitetura'
-        page: "p. 107"
+        note: "p. 107"
   - id: BR-RN-ACARI-R_ANTONIO_BASILIA_57-ARQTRAD-LVO-F01-DA-100
     title: "Elevação Frontal"
     resource_type: architecturalSurvey
@@ -65,7 +65,7 @@ resources:
     record_date: 2025-03-05
     bibliographic_citation:
       - refid: '@feijo:2002arquitetura'
-        page: "p. 107"
+        note: "p. 107"
   - id: BR-RN-ACARI-R_ANTONIO_BASILIA_57-ARQTRAD-LVO-C01-DA-100
     title: "Corte Longitudinal"
     resource_type: architecturalSurvey
@@ -81,7 +81,7 @@ resources:
     record_date: 2025-03-05
     bibliographic_citation:
       - refid: '@feijo:2002arquitetura'
-        page: "p. 107"
+        note: "p. 107"
 
 work_rights:
   - rights_type: "specific"

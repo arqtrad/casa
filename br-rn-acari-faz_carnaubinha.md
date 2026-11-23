@@ -50,7 +50,7 @@ resources:
     record_date: 2025-03-05
     bibliographic_citation:
       - refid: '@feijo:2002arquitetura'
-        page: "p. 80"
+        note: "p. 80"
   - id: "BR-RN-ACARI-FAZ_CARNAUBINHA-ARQTRAD-LVO-SOB-DA-100"
     title: "Planta Baixa do Sótão"
     resource_type: architecturalSurvey
@@ -66,7 +66,7 @@ resources:
     record_date: 2025-03-05
     bibliographic_citation:
       - refid: '@feijo:2002arquitetura'
-        page: "p. 80"
+        note: "p. 80"
   - id: "BR-RN-ACARI-FAZ_CARNAUBINHA-ARQTRAD-LVO-F01-DA-100"
     title: "Elevação"
     resource_type: architecturalSurvey
@@ -82,7 +82,7 @@ resources:
     record_date: 2025-03-05
     bibliographic_citation:
       - refid: '@feijo:2002arquitetura'
-        page: "p. 80"
+        note: "p. 80"
   - id: "BR-RN-ACARI-FAZ_CARNAUBINHA-ARQTRAD-LVO-C01-DA-100"
     title: "Corte"
     resource_type: architecturalSurvey
@@ -98,7 +98,7 @@ resources:
     record_date: 2025-03-05
     bibliographic_citation:
       - refid: '@feijo:2002arquitetura'
-        page: "p. 80"
+        note: "p. 80"
 
 work_rights:
   - rights_type: "specific"

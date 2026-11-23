@@ -35,7 +35,7 @@ contributor:
   role: formerOwner
   source:
   - relids: 978-85-7334-172-0
-    page: 24-25
+    note: 24-25
 format:
   extent:
     measurements:
@@ -87,7 +87,7 @@ temporal:
   dataDate: 2025-11-17
   source:
     relids: 978-85-7334-172-0
-    page: 24-25
+    note: 24-25
 - type: alteration
   text:
     headline: Mudança de proprietário
@@ -140,7 +140,7 @@ resources:
     record_date: 2025-03-05
     bibliographic_citation:
       - refid: '@iphan:2010casas'
-        page: "p. 25"
+        note: "p. 25"
   - id: "BR-BA-SALVADOR-CASA_SETE_CANDEEIROS-ARQTRAD-LVE-P01-DA-200"
     title: "Planta Baixa do Primeiro Pavimento"
     resource_type: architecturalSurvey
@@ -156,7 +156,7 @@ resources:
     record_date: 2025-03-05
     bibliographic_citation:
       - refid: '@iphan:2010casas'
-        page: "p. 25"
+        note: "p. 25"
   - id: "BR-BA-SALVADOR-CASA_SETE_CANDEEIROS-ARQTRAD-LVE-F01-DA-200"
     title: "Elevação"
     resource_type: architecturalSurvey
@@ -172,7 +172,7 @@ resources:
     record_date: 2025-03-05
     bibliographic_citation:
       - refid: '@iphan:2010casas'
-        page: "p. 25"
+        note: "p. 25"
   - id: "BR-BA-SALVADOR-CASA_SETE_CANDEEIROS-ARQTRAD-LVE-C01-DA-200"
     title: "Corte Longitudinal"
     resource_type: architecturalSurvey
@@ -188,7 +188,7 @@ resources:
     record_date: 2025-03-05
     bibliographic_citation:
       - refid: '@iphan:2010casas'
-        page: "p. 25"
+        note: "p. 25"
 
 work_rights:
   - rights_type: "specific"
@@ -242,7 +242,6 @@ record_rights:
         - refid: "wd:Q2994429"
           refid_type: "uri"
           title: "Wikidata"
----
 ---
 
 <figure>

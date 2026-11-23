@@ -50,7 +50,7 @@ resources:
     record_date: 2025-03-05
     bibliographic_citation:
       - refid: '@feijo:2002arquitetura'
-        page: "p. 92"
+        note: "p. 92"
   - id: BR-RN-ACARI-FAZ_MARACUJA-ARQTRAD-LVO-F01-DA-100
     title: "Elevação Frontal"
     resource_type: architecturalSurvey
@@ -66,7 +66,7 @@ resources:
     record_date: 2025-03-05
     bibliographic_citation:
       - refid: '@feijo:2002arquitetura'
-        page: "p. 92"
+        note: "p. 92"
   - id: BR-RN-ACARI-FAZ_MARACUJA-ARQTRAD-LVO-C01-DA-100
     title: "Corte Longitudinal"
     resource_type: architecturalSurvey
@@ -82,7 +82,7 @@ resources:
     record_date: 2025-03-05
     bibliographic_citation:
       - refid: '@feijo:2002arquitetura'
-        page: "p. 92"
+        note: "p. 92"
 
 work_rights:
   - rights_type: "specific"
