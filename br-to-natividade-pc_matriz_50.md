@@ -36,67 +36,67 @@ id: 58WJ77VF+9JX
 resources:
   - id: BR-TO-NATIVIDADE-PC_MATRZ_50-ARQTRAD-LVE-TER-DA-200
     title: "Planta Baixa do Térreo"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "1"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-to-natividade-pc_matriz_50/BR-TO-NATIVIDADE-PC_MATRZ_50-ARQTRAD-LVE-TER-DA-200"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-to-natividade-pc_matriz_50/BR-TO-NATIVIDADE-PC_MATRZ_50-ARQTRAD-LVE-TER-DA-200"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
   - id: BR-TO-NATIVIDADE-PC_MATRZ_50-ARQTRAD-LVE-COB-DA-200
     title: "Planta de Cobertura"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "1"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-to-natividade-pc_matriz_50/BR-TO-NATIVIDADE-PC_MATRZ_50-ARQTRAD-LVE-COB-DA-200"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-to-natividade-pc_matriz_50/BR-TO-NATIVIDADE-PC_MATRZ_50-ARQTRAD-LVE-COB-DA-200"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
   - id: BR-TO-NATIVIDADE-PC_MATRZ_50-ARQTRAD-LVE-F01-DA-200
     title: "Elevação"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "2"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-to-natividade-pc_matriz_50/BR-TO-NATIVIDADE-PC_MATRZ_50-ARQTRAD-LVE-F01-DA-200"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-to-natividade-pc_matriz_50/BR-TO-NATIVIDADE-PC_MATRZ_50-ARQTRAD-LVE-F01-DA-200"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
   - id: BR-TO-NATIVIDADE-PC_MATRZ_50-ARQTRAD-LVE-C01-DA-200
     title: "Corte"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "3"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-to-natividade-pc_matriz_50/BR-TO-NATIVIDADE-PC_MATRZ_50-ARQTRAD-LVE-C01-DA-200"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-to-natividade-pc_matriz_50/BR-TO-NATIVIDADE-PC_MATRZ_50-ARQTRAD-LVE-C01-DA-200"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
   - id: BR-TO-NATIVIDADE-PC_MATRZ_50-ARQTRAD-LVE-C02-DA-200
     title: "Corte"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "3"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-to-natividade-pc_matriz_50/BR-TO-NATIVIDADE-PC_MATRZ_50-ARQTRAD-LVE-C02-DA-200"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-to-natividade-pc_matriz_50/BR-TO-NATIVIDADE-PC_MATRZ_50-ARQTRAD-LVE-C02-DA-200"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
 

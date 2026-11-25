@@ -36,15 +36,15 @@ id: 588PQMHQ+4C4
 resources:
   - id: BR-SP-PARAITINGA-P_OSWALDO_CRUZ_34-ARQTRAD-LVE-TER-DA-100
     title: "Planta Baixa do Térreo"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "1"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-sp-paraitinga-r_barao_paraitinga_34.md/BR-SP-PARAITINGA-P_OSWALDO_CRUZ_34-ARQTRAD-LVE-TER-DA-100"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-sp-paraitinga-r_barao_paraitinga_34.md/BR-SP-PARAITINGA-P_OSWALDO_CRUZ_34-ARQTRAD-LVE-TER-DA-100"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
@@ -52,15 +52,15 @@ resources:
         note: "p.95"
   - id: BR-SP-PARAITINGA-P_OSWALDO_CRUZ_34-ARQTRAD-LVE-F01-DA-100
     title: "Elevação"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "2"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-sp-paraitinga-r_barao_paraitinga_34.md/BR-SP-PARAITINGA-P_OSWALDO_CRUZ_34-ARQTRAD-LVE-F01-DA-100"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-sp-paraitinga-r_barao_paraitinga_34.md/BR-SP-PARAITINGA-P_OSWALDO_CRUZ_34-ARQTRAD-LVE-F01-DA-100"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
@@ -68,15 +68,15 @@ resources:
         note: "p.95"
   - id: BR-SP-PARAITINGA-PR_OSWALDO_CRUZ_278-ARQTRAD-LVE-C01-DA-100
     title: "Corte"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "3"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-sp-paraitinga-r_barao_paraitinga_34.md/BR-SP-PARAITINGA-P_OSWALDO_CRUZ_34-ARQTRAD-LVE-C01-DA-100"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-sp-paraitinga-r_barao_paraitinga_34.md/BR-SP-PARAITINGA-P_OSWALDO_CRUZ_34-ARQTRAD-LVE-C01-DA-100"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:

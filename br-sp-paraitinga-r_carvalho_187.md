@@ -36,15 +36,15 @@ id: 588PQMHR+H48
 resources:
   - id: BR-SP-PAR-R_CARVALHO_187_193_199-ARQTRAD-LVE-TER-DA-100
     title: "Planta Baixa do Térreo"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "1"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-sp-paraitinga-r_carvalho/BR-SP-PAR-R_CARVALHO_187_193_199-ARQTRAD-LVE-TER-DA-100"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-sp-paraitinga-r_carvalho/BR-SP-PAR-R_CARVALHO_187_193_199-ARQTRAD-LVE-TER-DA-100"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
@@ -52,15 +52,15 @@ resources:
         note: "p.97"
   - id: BR-SP-PAR-R_CARVALHO_187_193_199-ARQTRAD-LVE-F01-DA-100
     title: "Elevação"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "2"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-sp-paraitinga-r_carvalho/BR-SP-PAR-R_CARVALHO_187_193_199-ARQTRAD-LVE-F01-DA-100"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-sp-paraitinga-r_carvalho/BR-SP-PAR-R_CARVALHO_187_193_199-ARQTRAD-LVE-F01-DA-100"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:

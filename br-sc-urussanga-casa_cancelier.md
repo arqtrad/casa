@@ -42,15 +42,15 @@ id: 583GGMQQ+X4F
 resources:
   - id: BR-SC-URUSSUNGA-CASA_CANCELIER-ARQTRAD-LVE-TER-DA-400
     title: "Planta Baixa do Térreo"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "1"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-sc-urussanga-casa_cancelier/BR-SC-URUSSUNGA-CASA_CANCELIER-ARQTRAD-LVE-TER-DA-400"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-sc-urussanga-casa_cancelier/BR-SC-URUSSUNGA-CASA_CANCELIER-ARQTRAD-LVE-TER-DA-400"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
@@ -58,15 +58,15 @@ resources:
         note: "Apêndice IV"
   - id: BR-SC-URUSSUNGA-CASA_CANCELIER-ARQTRAD-LVE-SOB-DA-400
     title: "Planta Baixa do Sótão"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "1"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-sc-urussanga-casa_cancelier/BR-SC-URUSSUNGA-CASA_CANCELIER-ARQTRAD-LVE-SOB-DA-400"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-sc-urussanga-casa_cancelier/BR-SC-URUSSUNGA-CASA_CANCELIER-ARQTRAD-LVE-SOB-DA-400"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
@@ -74,15 +74,15 @@ resources:
         note: "Apêndice IV"
   - id: BR-SC-URUSSUNGA-CASA_CANCELIER-ARQTRAD-LVE-F01-DA-400
     title: "Elevação"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "2"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-sc-urussanga-casa_cancelier/BR-SC-URUSSUNGA-CASA_CANCELIER-ARQTRAD-LVE-F01-DA-400"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-sc-urussanga-casa_cancelier/BR-SC-URUSSUNGA-CASA_CANCELIER-ARQTRAD-LVE-F01-DA-400"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
@@ -90,15 +90,15 @@ resources:
         note: "Apêndice IV"
   - id: BR-SC-URUSSUNGA-CASA_CANCELIER-ARQTRAD-LVE-F02-DA-400
     title: "Elevação"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "2"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-sc-urussanga-casa_cancelier/BR-SC-URUSSUNGA-CASA_CANCELIER-ARQTRAD-LVE-F02-DA-400"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-sc-urussanga-casa_cancelier/BR-SC-URUSSUNGA-CASA_CANCELIER-ARQTRAD-LVE-F02-DA-400"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
@@ -106,15 +106,15 @@ resources:
         note: "Apêndice IV"
   - id: BR-SC-URUSSUNGA-CASA_CANCELIER-ARQTRAD-LVE-F03-DA-400
     title: "Elevação"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "2"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-sc-urussanga-casa_cancelier/BR-SC-URUSSUNGA-CASA_CANCELIER-ARQTRAD-LVE-F03-DA-400"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-sc-urussanga-casa_cancelier/BR-SC-URUSSUNGA-CASA_CANCELIER-ARQTRAD-LVE-F03-DA-400"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
@@ -122,15 +122,15 @@ resources:
         note: "Apêndice IV"
   - id: BR-SC-URUSSUNGA-CASA_CANCELIER-ARQTRAD-LVE-F04-DA-400
     title: "Elevação"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "2"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-sc-urussanga-casa_cancelier/BR-SC-URUSSUNGA-CASA_CANCELIER-ARQTRAD-LVE-F04-DA-400"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-sc-urussanga-casa_cancelier/BR-SC-URUSSUNGA-CASA_CANCELIER-ARQTRAD-LVE-F04-DA-400"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
@@ -138,15 +138,15 @@ resources:
         note: "Apêndice IV"
   - id: BR-SC-URUSSUNGA-CASA_CANCELIER-ARQTRAD-LVE-C01-DA-400
     title: "Corte"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "3"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-sc-urussanga-casa_cancelier/BR-SC-URUSSUNGA-CASA_CANCELIER-ARQTRAD-LVE-C01-DA-400"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-sc-urussanga-casa_cancelier/BR-SC-URUSSUNGA-CASA_CANCELIER-ARQTRAD-LVE-C01-DA-400"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
@@ -154,15 +154,15 @@ resources:
         note: "Apêndice IV"
   - id: BR-SC-LAGUNA-TV_MANOEL_PINHO_51-ARQTRAD-LVE-C02-DA-200
     title: "Corte"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "3"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-sc-urussanga-casa_cancelier/BR-SC-URUSSUNGA-CASA_CANCELIER-ARQTRAD-LVE-C01-DA-400"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-sc-urussanga-casa_cancelier/BR-SC-URUSSUNGA-CASA_CANCELIER-ARQTRAD-LVE-C01-DA-400"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:

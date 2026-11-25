@@ -38,15 +38,15 @@ id: 583HG68C+82X
 resources:
   - id: BR-SC-LAGUNA-TV_LUIZ_NERY_76-ARQTRAD-LVE-TER-DA-200
     title: "Planta Baixa do Térreo"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "1"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-sc-laguna-tv_luiz_nery_76/BR-SC-LAGUNA-TV_LUIZ_NERY_76-ARQTRAD-LVE-TER-DA-200"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-sc-laguna-tv_luiz_nery_76/BR-SC-LAGUNA-TV_LUIZ_NERY_76-ARQTRAD-LVE-TER-DA-200"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
@@ -54,15 +54,15 @@ resources:
         note: "Anexo I.D"
   - id: BR-SC-LAGUNA-TV_LUIZ_NERY_76-ARQTRAD-LVE-SOB-DA-200
     title: "Planta Baixa do Sótão"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "1"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-sc-laguna-tv_luiz_nery_76/BR-SC-LAGUNA-TV_LUIZ_NERY_76-ARQTRAD-LVE-SOB-DA-200"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-sc-laguna-tv_luiz_nery_76/BR-SC-LAGUNA-TV_LUIZ_NERY_76-ARQTRAD-LVE-SOB-DA-200"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
@@ -70,15 +70,15 @@ resources:
         note: "Anexo I.D"
   - id: BR-SC-LAGUNA-TV_LUIZ_NERY_76-ARQTRAD-LVE-COB-DA-200
     title: "Planta de Cobertura"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "1"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-sc-laguna-tv_luiz_nery_76/BR-SC-LAGUNA-TV_LUIZ_NERY_76-ARQTRAD-LVE-COB-DA-200"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-sc-laguna-tv_luiz_nery_76/BR-SC-LAGUNA-TV_LUIZ_NERY_76-ARQTRAD-LVE-COB-DA-200"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
@@ -86,15 +86,15 @@ resources:
         note: "Anexo I.D"
   - id: BR-SC-LAGUNA-TV_LUIZ_NERY_76-ARQTRAD-LVE-F01-DA-200
     title: "Elevação"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "2"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-sc-laguna-tv_luiz_nery_76/BR-SC-LAGUNA-TV_LUIZ_NERY_76-ARQTRAD-LVE-F01-DA-200"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-sc-laguna-tv_luiz_nery_76/BR-SC-LAGUNA-TV_LUIZ_NERY_76-ARQTRAD-LVE-F01-DA-200"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
@@ -102,15 +102,15 @@ resources:
         note: "Anexo I.D"
   - id: BR-SC-LAGUNA-TV_LUIZ_NERY_76-ARQTRAD-LVE-F02-DA-200
     title: "Elevação"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "2"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-sc-laguna-tv_luiz_nery_76/BR-SC-LAGUNA-TV_LUIZ_NERY_76-ARQTRAD-LVE-F02-DA-200"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-sc-laguna-tv_luiz_nery_76/BR-SC-LAGUNA-TV_LUIZ_NERY_76-ARQTRAD-LVE-F02-DA-200"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
@@ -118,15 +118,15 @@ resources:
         note: "Anexo I.D"
   - id: BR-SC-LAGUNA-TV_LUIZ_NERY_76-ARQTRAD-LVE-C01-DA-200
     title: "Corte"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "3"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-sc-laguna-tv_luiz_nery_76/BR-SC-LAGUNA-TV_LUIZ_NERY_76-ARQTRAD-LVE-C01-DA-200"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-sc-laguna-tv_luiz_nery_76/BR-SC-LAGUNA-TV_LUIZ_NERY_76-ARQTRAD-LVE-C01-DA-200"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
@@ -134,15 +134,15 @@ resources:
         note: "Anexo I.D"
   - id: BR-SC-LAGUNA-TV_LUIZ_NERY_76-ARQTRAD-LVE-C02-DA-200
     title: "Corte"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "3"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-sc-laguna-tv_luiz_nery_76/BR-SC-LAGUNA-TV_LUIZ_NERY_76-ARQTRAD-LVE-C02-DA-200"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-sc-laguna-tv_luiz_nery_76/BR-SC-LAGUNA-TV_LUIZ_NERY_76-ARQTRAD-LVE-C02-DA-200"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
@@ -150,15 +150,15 @@ resources:
         note: "Anexo I.D"
   - id: BR-SC-LAGUNA-TV_LUIZ_NERY_76-ARQTRAD-LVE-C03-DA-200
     title: "Corte"
-    resource_type: architecturalSurvey
+    relation_type: architecturalSurvey
     perspective: "3"
-    format: "image/vnd.dxf"
     unit:
       refid_type: "uri"
       refid: "aat:300379097"
       title: "milímetros"
     provided_image:
-      - "https://desenho.tradicional.arq.br/br-sc-laguna-tv_luiz_nery_76/BR-SC-LAGUNA-TV_LUIZ_NERY_76-ARQTRAD-LVE-C03-DA-200"
+      - format: "image/vnd.dxf"
+        content_url: "https://desenho.tradicional.arq.br/br-sc-laguna-tv_luiz_nery_76/BR-SC-LAGUNA-TV_LUIZ_NERY_76-ARQTRAD-LVE-C03-DA-200"
     author: "orcid:0009-0006-7479-6365"
     record_date: 2025-03-05
     bibliographic_citation:
