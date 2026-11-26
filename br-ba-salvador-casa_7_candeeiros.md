@@ -1,10 +1,11 @@
 ---
 title: Casa dos sete candeeiros
-titleType: popular
+title_type: popular
 id: 59V32FFQ+J8J
 author: 0009-0006-7479-6365
 date: 2024-02-11
-excerpt: 'Casa senhorial urbana da segunda metade do século <span style="font-variant:all-small-caps">XVII</span>
+description: 'Casa senhorial urbana da segunda metade do século
+  <span style="font-variant:all-small-caps">XVII</span>
   com cantaria de lioz e silhares azulejados.'
 header:
   overlay_image: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Casa_dos_Sete_Candeeiros_Salvador_2018-1334.jpg/3840px-Casa_dos_Sete_Candeeiros_Salvador_2018-1334.jpg
@@ -26,8 +27,8 @@ identifier:
 - source: iPatrimônio
   refid: '19526'
   href: https://www.ipatrimonio.org/?p=19526
-bibliographicCitation:
-- '@978-85-7334-172-0'
+bibliographic_citation:
+- refid: '@978-85-7334-172-0'
 contributor:
 - name: Antônio Elias da Fonseca Galvão
   type: personal
