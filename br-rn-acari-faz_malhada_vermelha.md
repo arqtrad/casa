@@ -68,10 +68,10 @@ site:
         [-36.6038787581847,-6.487862678855789],
         [-36.6038005698465,-6.48776522907464]
       ]]
-    srs_name: "EPSG:4326"
     source:
       legal_body_type: "corporate"
       title: "Global Building Atlas LoD1"
+      legal_body_type: "corporate"
       id: "doi:10.14459/2025MP1782307"
 
 location_historic:  # A FAZER: Completar com referência a um vocabulário controlado.
@@ -173,7 +173,7 @@ resources:
     author: "orcid:0009-0006-7479-6365"
     record_date: *RECORD_DATE
   - id: "BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-SOB-DA-100"
-    title: Planta do pavimento térreo
+    title: Planta do sótão
     relation_type: architecturalSurvey
     perspective: 1
     unit:
@@ -186,7 +186,7 @@ resources:
     author: "orcid:0009-0006-7479-6365"
     record_date: *RECORD_DATE
   - id: "BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-F01-DA-100"
-    title: Planta do pavimento térreo
+    title: Fachada frontal
     relation_type: architecturalSurvey
     perspective: 2
     unit:
@@ -199,7 +199,7 @@ resources:
     author: "orcid:0009-0006-7479-6365"
     record_date: *RECORD_DATE
   - id: "BR-RN-ACARI-FAZ_MALHADA_VERMELHA-ARQTRAD-LVO-C01-DA-100"
-    title: Planta do pavimento térreo
+    title: Corte 01
     relation_type: architecturalSurvey
     perspective: 3
     unit:
