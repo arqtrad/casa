@@ -9,10 +9,30 @@ bibliographicCitation:
 - '@iphan:2012planaltina'
 identifier:
 - source: Inventário do Setor Tradicional de Planaltina
-  refid: null
-- source: Documentário de casas tradicionais
-  refid: 52
-spatial: null
+spatial:
+  - type: site
+    term:
+      type: 'local'
+      refid: 'lugar/58PJ6489+GQC'
+    display: 'Brasília, Distrito Federal, Brasil'
+    location:
+      lat: -15.621185
+      lon: -47.661578
+      display: 'Setor Tradicional Q 57, 1, Praça Salviano Guimarães, 24'
+      source:
+        type: 'corporate'
+        name:
+          refid: 'https://huggingface.co/datasets/zhu-xlab/GBA.LoD1'
+          display: 'Global Building Atlas LoD1'
+  - type: site
+    extent:
+      type: "Polygon"
+      coordinates: '[[[-47.66148667623577,-15.621110925172031],[-47.66150087259654,-15.621251223811596],[-47.66150839618224,-15.621250508411668],[-47.661581821476155,-15.621243530815267],[-47.66158918303088,-15.621316280049896],[-47.66164494996608,-15.62131040361792],[-47.66162862520746,-15.621149075552474],[-47.66167496200658,-15.621144671979968],[-47.66167014434351,-15.62109705867784],[-47.66166978646099,-15.621093525054823],[-47.66148667623577,-15.621110925172031]]]'
+      source:
+        type: "corporate"
+        name:
+          refid: "https://huggingface.co/datasets/zhu-xlab/GBA.LoD1"
+          display: "Global Building Atlas LoD1"
 temporal:
 - type: creation
   start_date:
