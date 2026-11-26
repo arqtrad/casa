@@ -34,19 +34,29 @@ log:
   text: Inclui campos para bases documentais
   name: Pedro Palazzo
 spatial:
-  site:
-    term: BR-DF
+  - type: site
+    term:
+      type: 'local'
+      refid: 'lugar/58PJ6489+GQC'
+    display: 'Brasília, Distrito Federal, Brasil'
     location:
-      lat: -15.621636
-      alt: 948.37
-      lon: -47.661533
-    display: 'Av. Salvador Coelho, Quadra 57 Lote 141
-
-      Setor Tradicional
-
-      73.330
-
-      Planaltina'
+      lat: -15.621533
+      lon: -47.661609
+      display: 'St. Tradicional Q 57 - Vila Nossa Sra. de Fátima'
+      source:
+        type: 'corporate'
+        name:
+          refid: 'https://huggingface.co/datasets/zhu-xlab/GBA.LoD1'
+          display: 'Global Building Atlas LoD1'
+  - type: site
+    extent:
+      type: "Polygon"
+      coordinates: '[[[-47.661525085275514, -15.621415442301142], [-47.66154613586818, -15.621620595736287], [-47.66160099721557, -15.621612287946668], [-47.66160457420717, -15.621615373353015], [-47.66160906883579, -15.621658974799162], [-47.661701834025685, -15.621646850739953], [-47.661677834643015, -15.621498004544812], [-47.66165343374822, -15.621501699431345], [-47.6616397952523, -15.621410586845542], [-47.661525085275514, -15.621415442301142]]]'
+      source:
+        type: "corporate"
+        name:
+          refid: "https://huggingface.co/datasets/zhu-xlab/GBA.LoD1"
+          display: "Global Building Atlas LoD1"
 temporal:
 - type: creation
   text:
