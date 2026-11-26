@@ -7,6 +7,25 @@ date: 2024-02-11
 description: 'Casa senhorial urbana da segunda metade do século
   <span style="font-variant:all-small-caps">XVII</span>
   com cantaria de lioz e silhares azulejados.'
+
+work_type_condition:
+  - refid: "https://vocabulario.tradicional.arq.br/w/construcoens_em_estado_regular/"
+    refid_type: "uri"
+    title: "estado de conservação regular"
+    source:
+      id: "isni:0000000121547935"
+      title: "SICG IPHAN"
+      description: "SICG BA-2927408-BI-ED-00020, atualizado em 06/06/2023"
+      weblink: "https://sicg.iphan.gov.br/sicg/bem/visualizar/159"
+  - refid: "https://vocabulario.tradicional.arq.br/w/construcoens_pouco_alteradas/"
+    refid_type: "uri"
+    title: "estado de preservação pouco alterado"
+    source:
+      id: "isni:0000000121547935"
+      title: "SICG IPHAN"
+      description: "SICG BA-2927408-BI-ED-00020, atualizado em 06/06/2023"
+      weblink: "https://sicg.iphan.gov.br/sicg/bem/visualizar/159"
+
 header:
   overlay_image: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Casa_dos_Sete_Candeeiros_Salvador_2018-1334.jpg/3840px-Casa_dos_Sete_Candeeiros_Salvador_2018-1334.jpg
   teaser: https://hpip.org/images/hpip/heritage/1161/Casa_dos_Sete_Candeeiros.jpg
